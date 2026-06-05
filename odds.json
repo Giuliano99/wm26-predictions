@@ -1,0 +1,1230 @@
+{
+  "fetched_at": "2026-06-05T19:41:45.074475+00:00",
+  "source": "the-odds-api.com",
+  "games": [
+    {
+      "id": "80d82d1113934bfbea4ce8daf37a2433",
+      "commence_time": "2026-06-11T19:00:00Z",
+      "home_team": "Mexico",
+      "away_team": "South Africa",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.44,
+        "draw": 4.49,
+        "away": 8.31
+      },
+      "prob": {
+        "home_win": 0.6693,
+        "draw": 0.2147,
+        "away_win": 0.116
+      }
+    },
+    {
+      "id": "384cbb5d76b535896a24fe65f93cfac8",
+      "commence_time": "2026-06-12T02:00:00Z",
+      "home_team": "South Korea",
+      "away_team": "Czech Republic",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.73,
+        "draw": 3.13,
+        "away": 2.88
+      },
+      "prob": {
+        "home_win": 0.3546,
+        "draw": 0.3093,
+        "away_win": 0.3361
+      }
+    },
+    {
+      "id": "d1f4f946c70a0b4e81f5d43e9d32361c",
+      "commence_time": "2026-06-12T19:00:00Z",
+      "home_team": "Canada",
+      "away_team": "Bosnia & Herzegovina",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.81,
+        "draw": 3.78,
+        "away": 4.61
+      },
+      "prob": {
+        "home_win": 0.5343,
+        "draw": 0.2559,
+        "away_win": 0.2098
+      }
+    },
+    {
+      "id": "c12986f447a515fbe641addd786dbb24",
+      "commence_time": "2026-06-13T01:00:00Z",
+      "home_team": "USA",
+      "away_team": "Paraguay",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.01,
+        "draw": 3.5,
+        "away": 3.99
+      },
+      "prob": {
+        "home_win": 0.4812,
+        "draw": 0.2764,
+        "away_win": 0.2424
+      }
+    },
+    {
+      "id": "26634922d3f78c146440816023e40de8",
+      "commence_time": "2026-06-13T19:00:00Z",
+      "home_team": "Qatar",
+      "away_team": "Switzerland",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 11.87,
+        "draw": 6.66,
+        "away": 1.25
+      },
+      "prob": {
+        "home_win": 0.0814,
+        "draw": 0.1452,
+        "away_win": 0.7734
+      }
+    },
+    {
+      "id": "f6c8748a16516e0998f95de14235432a",
+      "commence_time": "2026-06-13T22:00:00Z",
+      "home_team": "Brazil",
+      "away_team": "Morocco",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.64,
+        "draw": 3.84,
+        "away": 5.95
+      },
+      "prob": {
+        "home_win": 0.5873,
+        "draw": 0.2508,
+        "away_win": 0.1619
+      }
+    },
+    {
+      "id": "5ae41a06735c926eeb7f74006933adce",
+      "commence_time": "2026-06-14T01:00:00Z",
+      "home_team": "Haiti",
+      "away_team": "Scotland",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 6.79,
+        "draw": 4.39,
+        "away": 1.51
+      },
+      "prob": {
+        "home_win": 0.142,
+        "draw": 0.2196,
+        "away_win": 0.6384
+      }
+    },
+    {
+      "id": "564084f52cc9f1abcc18187c168a7cdc",
+      "commence_time": "2026-06-14T04:00:00Z",
+      "home_team": "Australia",
+      "away_team": "Turkey",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 4.82,
+        "draw": 3.75,
+        "away": 1.78
+      },
+      "prob": {
+        "home_win": 0.2003,
+        "draw": 0.2574,
+        "away_win": 0.5423
+      }
+    },
+    {
+      "id": "d79edbd6aaeb578d33e313446b18d333",
+      "commence_time": "2026-06-14T17:00:00Z",
+      "home_team": "Germany",
+      "away_team": "Curaçao",
+      "bookmaker": "williamhill",
+      "odds": {
+        "home": 1.04,
+        "draw": 13.0,
+        "away": 56.0
+      },
+      "prob": {
+        "home_win": 0.9103,
+        "draw": 0.0728,
+        "away_win": 0.0169
+      }
+    },
+    {
+      "id": "32ec06abda2398ac41501c86eb9aa376",
+      "commence_time": "2026-06-14T20:00:00Z",
+      "home_team": "Netherlands",
+      "away_team": "Japan",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.99,
+        "draw": 3.73,
+        "away": 3.79
+      },
+      "prob": {
+        "home_win": 0.4858,
+        "draw": 0.2592,
+        "away_win": 0.2551
+      }
+    },
+    {
+      "id": "05752bb341e197001387b64f3a06b9b2",
+      "commence_time": "2026-06-14T23:00:00Z",
+      "home_team": "Ivory Coast",
+      "away_team": "Ecuador",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 3.78,
+        "draw": 2.8,
+        "away": 2.43
+      },
+      "prob": {
+        "home_win": 0.256,
+        "draw": 0.3457,
+        "away_win": 0.3983
+      }
+    },
+    {
+      "id": "b55f9569de3f4d731bc5537ff5ff43e4",
+      "commence_time": "2026-06-15T02:00:00Z",
+      "home_team": "Sweden",
+      "away_team": "Tunisia",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.93,
+        "draw": 3.48,
+        "away": 4.32
+      },
+      "prob": {
+        "home_win": 0.4997,
+        "draw": 0.2771,
+        "away_win": 0.2232
+      }
+    },
+    {
+      "id": "c54f00b11925751d2b62988775c6c239",
+      "commence_time": "2026-06-15T16:00:00Z",
+      "home_team": "Spain",
+      "away_team": "Cape Verde",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.08,
+        "draw": 11.75,
+        "away": 28.67
+      },
+      "prob": {
+        "home_win": 0.8853,
+        "draw": 0.0814,
+        "away_win": 0.0333
+      }
+    },
+    {
+      "id": "fbfb95c62003fd6d828b309f96ee1f9b",
+      "commence_time": "2026-06-15T19:00:00Z",
+      "home_team": "Belgium",
+      "away_team": "Egypt",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.68,
+        "draw": 3.93,
+        "away": 5.38
+      },
+      "prob": {
+        "home_win": 0.5748,
+        "draw": 0.2457,
+        "away_win": 0.1795
+      }
+    },
+    {
+      "id": "64b91c5f2db61c7358a4f05459e83c52",
+      "commence_time": "2026-06-15T22:00:00Z",
+      "home_team": "Saudi Arabia",
+      "away_team": "Uruguay",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 7.29,
+        "draw": 4.46,
+        "away": 1.48
+      },
+      "prob": {
+        "home_win": 0.1323,
+        "draw": 0.2162,
+        "away_win": 0.6515
+      }
+    },
+    {
+      "id": "ec51b9c44ad5e34552f3ab53f7262813",
+      "commence_time": "2026-06-16T01:00:00Z",
+      "home_team": "Iran",
+      "away_team": "New Zealand",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.91,
+        "draw": 3.49,
+        "away": 4.42
+      },
+      "prob": {
+        "home_win": 0.5052,
+        "draw": 0.2765,
+        "away_win": 0.2183
+      }
+    },
+    {
+      "id": "73a4fcd14cc9766b9b9bfd50b8ca153a",
+      "commence_time": "2026-06-16T19:00:00Z",
+      "home_team": "France",
+      "away_team": "Senegal",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.47,
+        "draw": 4.54,
+        "away": 7.28
+      },
+      "prob": {
+        "home_win": 0.6554,
+        "draw": 0.2122,
+        "away_win": 0.1323
+      }
+    },
+    {
+      "id": "4d4f2b9b78182b557d4fbf8dcf4f4af2",
+      "commence_time": "2026-06-16T22:00:00Z",
+      "home_team": "Iraq",
+      "away_team": "Norway",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 13.94,
+        "draw": 7.18,
+        "away": 1.21
+      },
+      "prob": {
+        "home_win": 0.0691,
+        "draw": 0.1342,
+        "away_win": 0.7966
+      }
+    },
+    {
+      "id": "f31b2ee9e1cc6f7e641467f8237eaa21",
+      "commence_time": "2026-06-17T01:00:00Z",
+      "home_team": "Argentina",
+      "away_team": "Algeria",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.4,
+        "draw": 4.61,
+        "away": 9.23
+      },
+      "prob": {
+        "home_win": 0.6871,
+        "draw": 0.2087,
+        "away_win": 0.1042
+      }
+    },
+    {
+      "id": "25161cf6cf0cd9be17ae2e7e224a1f45",
+      "commence_time": "2026-06-17T04:00:00Z",
+      "home_team": "Austria",
+      "away_team": "Jordan",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.33,
+        "draw": 5.6,
+        "away": 9.41
+      },
+      "prob": {
+        "home_win": 0.7252,
+        "draw": 0.1722,
+        "away_win": 0.1025
+      }
+    },
+    {
+      "id": "6cc871c121a1869b4612d3fb22fa9d55",
+      "commence_time": "2026-06-17T17:00:00Z",
+      "home_team": "Portugal",
+      "away_team": "DR Congo",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.29,
+        "draw": 5.71,
+        "away": 11.19
+      },
+      "prob": {
+        "home_win": 0.7456,
+        "draw": 0.1684,
+        "away_win": 0.086
+      }
+    },
+    {
+      "id": "689096c8cd7e2753b9fec95321943c5d",
+      "commence_time": "2026-06-17T20:00:00Z",
+      "home_team": "England",
+      "away_team": "Croatia",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.74,
+        "draw": 3.9,
+        "away": 4.9
+      },
+      "prob": {
+        "home_win": 0.5552,
+        "draw": 0.2477,
+        "away_win": 0.1971
+      }
+    },
+    {
+      "id": "87afdb85c977b451e1c00f5e3e632601",
+      "commence_time": "2026-06-17T23:00:00Z",
+      "home_team": "Ghana",
+      "away_team": "Panama",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.07,
+        "draw": 3.59,
+        "away": 3.66
+      },
+      "prob": {
+        "home_win": 0.4668,
+        "draw": 0.2692,
+        "away_win": 0.264
+      }
+    },
+    {
+      "id": "22083e7a8e5362c711bc05c1e1319a1f",
+      "commence_time": "2026-06-18T02:00:00Z",
+      "home_team": "Uzbekistan",
+      "away_team": "Colombia",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 8.5,
+        "draw": 4.56,
+        "away": 1.43
+      },
+      "prob": {
+        "home_win": 0.1135,
+        "draw": 0.2116,
+        "away_win": 0.6748
+      }
+    },
+    {
+      "id": "66ebb9e3f949caded535d97ce686ca09",
+      "commence_time": "2026-06-18T16:00:00Z",
+      "home_team": "Czech Republic",
+      "away_team": "South Africa",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.94,
+        "draw": 3.28,
+        "away": 4.01
+      },
+      "prob": {
+        "home_win": 0.4819,
+        "draw": 0.285,
+        "away_win": 0.2331
+      }
+    },
+    {
+      "id": "289bc2e9f5adad8ae4d9a75a7c5461ad",
+      "commence_time": "2026-06-18T19:00:00Z",
+      "home_team": "Switzerland",
+      "away_team": "Bosnia & Herzegovina",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.59,
+        "draw": 3.94,
+        "away": 5.25
+      },
+      "prob": {
+        "home_win": 0.586,
+        "draw": 0.2365,
+        "away_win": 0.1775
+      }
+    },
+    {
+      "id": "fa9502285b257b03e62968d50d9229fc",
+      "commence_time": "2026-06-18T22:00:00Z",
+      "home_team": "Canada",
+      "away_team": "Qatar",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.31,
+        "draw": 4.84,
+        "away": 9.26
+      },
+      "prob": {
+        "home_win": 0.7082,
+        "draw": 0.1917,
+        "away_win": 0.1002
+      }
+    },
+    {
+      "id": "0f2aeae6ac8e77223848d23a4ca86b0d",
+      "commence_time": "2026-06-19T01:00:00Z",
+      "home_team": "Mexico",
+      "away_team": "South Korea",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.79,
+        "draw": 3.49,
+        "away": 4.41
+      },
+      "prob": {
+        "home_win": 0.5212,
+        "draw": 0.2673,
+        "away_win": 0.2115
+      }
+    },
+    {
+      "id": "065b3573e875f8d23803357f73e5b99e",
+      "commence_time": "2026-06-19T19:00:00Z",
+      "home_team": "USA",
+      "away_team": "Australia",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.71,
+        "draw": 3.94,
+        "away": 4.28
+      },
+      "prob": {
+        "home_win": 0.5454,
+        "draw": 0.2367,
+        "away_win": 0.2179
+      }
+    },
+    {
+      "id": "4cd769aa7bae0ad9762bd69b80ef2903",
+      "commence_time": "2026-06-19T22:00:00Z",
+      "home_team": "Scotland",
+      "away_team": "Morocco",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 4.07,
+        "draw": 3.19,
+        "away": 1.96
+      },
+      "prob": {
+        "home_win": 0.2298,
+        "draw": 0.2931,
+        "away_win": 0.4771
+      }
+    },
+    {
+      "id": "ef0f74a991d3e35798ae5af77667bce1",
+      "commence_time": "2026-06-20T01:00:00Z",
+      "home_team": "Brazil",
+      "away_team": "Haiti",
+      "bookmaker": "williamhill",
+      "odds": {
+        "home": 1.07,
+        "draw": 11.0,
+        "away": 34.0
+      },
+      "prob": {
+        "home_win": 0.8859,
+        "draw": 0.0862,
+        "away_win": 0.0279
+      }
+    },
+    {
+      "id": "f955d4b3395ce6e3b5ac1031ca52ca4e",
+      "commence_time": "2026-06-20T03:00:00Z",
+      "home_team": "Turkey",
+      "away_team": "Paraguay",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.21,
+        "draw": 3.12,
+        "away": 3.42
+      },
+      "prob": {
+        "home_win": 0.4247,
+        "draw": 0.3008,
+        "away_win": 0.2744
+      }
+    },
+    {
+      "id": "4f0c518545b0096c68326daf25bffc1e",
+      "commence_time": "2026-06-20T17:00:00Z",
+      "home_team": "Netherlands",
+      "away_team": "Sweden",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.61,
+        "draw": 3.98,
+        "away": 4.96
+      },
+      "prob": {
+        "home_win": 0.5783,
+        "draw": 0.2339,
+        "away_win": 0.1877
+      }
+    },
+    {
+      "id": "f1ab0f69832972a329243522ceaa7804",
+      "commence_time": "2026-06-20T20:00:00Z",
+      "home_team": "Germany",
+      "away_team": "Ivory Coast",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.55,
+        "draw": 4.24,
+        "away": 5.22
+      },
+      "prob": {
+        "home_win": 0.6015,
+        "draw": 0.2199,
+        "away_win": 0.1786
+      }
+    },
+    {
+      "id": "681895f294b670b4c7b14495dfb583bc",
+      "commence_time": "2026-06-21T00:00:00Z",
+      "home_team": "Ecuador",
+      "away_team": "Curaçao",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.19,
+        "draw": 7.0,
+        "away": 11.33
+      },
+      "prob": {
+        "home_win": 0.7843,
+        "draw": 0.1333,
+        "away_win": 0.0824
+      }
+    },
+    {
+      "id": "dfc5202cf1b8ae002cf952cd04f235b9",
+      "commence_time": "2026-06-21T04:00:00Z",
+      "home_team": "Tunisia",
+      "away_team": "Japan",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 4.81,
+        "draw": 3.43,
+        "away": 1.75
+      },
+      "prob": {
+        "home_win": 0.1941,
+        "draw": 0.2722,
+        "away_win": 0.5336
+      }
+    },
+    {
+      "id": "73529a242e319a86bf3d00ddb4accc37",
+      "commence_time": "2026-06-21T16:00:00Z",
+      "home_team": "Spain",
+      "away_team": "Saudi Arabia",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.09,
+        "draw": 9.98,
+        "away": 20.81
+      },
+      "prob": {
+        "home_win": 0.8609,
+        "draw": 0.094,
+        "away_win": 0.0451
+      }
+    },
+    {
+      "id": "5f92f257386ec5bf7c6e2498a21f3a61",
+      "commence_time": "2026-06-21T19:00:00Z",
+      "home_team": "Belgium",
+      "away_team": "Iran",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.37,
+        "draw": 4.59,
+        "away": 7.65
+      },
+      "prob": {
+        "home_win": 0.6768,
+        "draw": 0.202,
+        "away_win": 0.1212
+      }
+    },
+    {
+      "id": "852a3abe6d46820720febc0fedebff9a",
+      "commence_time": "2026-06-21T22:00:00Z",
+      "home_team": "Uruguay",
+      "away_team": "Cape Verde",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.4,
+        "draw": 4.42,
+        "away": 7.4
+      },
+      "prob": {
+        "home_win": 0.664,
+        "draw": 0.2103,
+        "away_win": 0.1256
+      }
+    },
+    {
+      "id": "c1ec9a65f4b4cf74477b368a7d6282de",
+      "commence_time": "2026-06-22T01:00:00Z",
+      "home_team": "New Zealand",
+      "away_team": "Egypt",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 4.46,
+        "draw": 3.87,
+        "away": 1.7
+      },
+      "prob": {
+        "home_win": 0.2094,
+        "draw": 0.2413,
+        "away_win": 0.5493
+      }
+    },
+    {
+      "id": "be6c63f416c67bca1300a98f5b89c3af",
+      "commence_time": "2026-06-22T17:00:00Z",
+      "home_team": "Argentina",
+      "away_team": "Austria",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.64,
+        "draw": 3.67,
+        "away": 5.28
+      },
+      "prob": {
+        "home_win": 0.569,
+        "draw": 0.2543,
+        "away_win": 0.1767
+      }
+    },
+    {
+      "id": "7ad7a0ce2ef2618bb59b066da5642f70",
+      "commence_time": "2026-06-22T21:00:00Z",
+      "home_team": "France",
+      "away_team": "Iraq",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.12,
+        "draw": 7.72,
+        "away": 22.63
+      },
+      "prob": {
+        "home_win": 0.8371,
+        "draw": 0.1214,
+        "away_win": 0.0414
+      }
+    },
+    {
+      "id": "3f48473742ca0fd2a85930554720c75e",
+      "commence_time": "2026-06-23T00:00:00Z",
+      "home_team": "Norway",
+      "away_team": "Senegal",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.08,
+        "draw": 3.5,
+        "away": 3.33
+      },
+      "prob": {
+        "home_win": 0.4507,
+        "draw": 0.2678,
+        "away_win": 0.2815
+      }
+    },
+    {
+      "id": "fd8533b650e655030f6a7946f8795db2",
+      "commence_time": "2026-06-23T03:00:00Z",
+      "home_team": "Jordan",
+      "away_team": "Algeria",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 5.63,
+        "draw": 3.98,
+        "away": 1.55
+      },
+      "prob": {
+        "home_win": 0.1654,
+        "draw": 0.2339,
+        "away_win": 0.6007
+      }
+    },
+    {
+      "id": "8ba93d190f1f934e33862a97a6353a6e",
+      "commence_time": "2026-06-23T17:00:00Z",
+      "home_team": "Portugal",
+      "away_team": "Uzbekistan",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.22,
+        "draw": 6.2,
+        "away": 10.48
+      },
+      "prob": {
+        "home_win": 0.7615,
+        "draw": 0.1498,
+        "away_win": 0.0886
+      }
+    },
+    {
+      "id": "2f49dd8deae3079dc4eb2d634d18a99c",
+      "commence_time": "2026-06-23T20:00:00Z",
+      "home_team": "England",
+      "away_team": "Ghana",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.29,
+        "draw": 5.31,
+        "away": 8.89
+      },
+      "prob": {
+        "home_win": 0.7204,
+        "draw": 0.175,
+        "away_win": 0.1045
+      }
+    },
+    {
+      "id": "c1bc8c26480cd42b89a0de5329581314",
+      "commence_time": "2026-06-23T23:00:00Z",
+      "home_team": "Panama",
+      "away_team": "Croatia",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 6.84,
+        "draw": 3.86,
+        "away": 1.49
+      },
+      "prob": {
+        "home_win": 0.1358,
+        "draw": 0.2407,
+        "away_win": 0.6235
+      }
+    },
+    {
+      "id": "68bfc965eb267508e04d8e8d75c1a0ae",
+      "commence_time": "2026-06-24T02:00:00Z",
+      "home_team": "Colombia",
+      "away_team": "DR Congo",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.44,
+        "draw": 4.19,
+        "away": 7.08
+      },
+      "prob": {
+        "home_win": 0.6464,
+        "draw": 0.2221,
+        "away_win": 0.1315
+      }
+    },
+    {
+      "id": "512ac18beb5aa936a59f7ea3e497ada2",
+      "commence_time": "2026-06-24T19:00:00Z",
+      "home_team": "Bosnia & Herzegovina",
+      "away_team": "Qatar",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.57,
+        "draw": 3.79,
+        "away": 5.76
+      },
+      "prob": {
+        "home_win": 0.5928,
+        "draw": 0.2456,
+        "away_win": 0.1616
+      }
+    },
+    {
+      "id": "c9ef5822ee64fd5275f7c73251bb56c7",
+      "commence_time": "2026-06-24T19:00:00Z",
+      "home_team": "Switzerland",
+      "away_team": "Canada",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.11,
+        "draw": 3.32,
+        "away": 3.44
+      },
+      "prob": {
+        "home_win": 0.4447,
+        "draw": 0.2826,
+        "away_win": 0.2727
+      }
+    },
+    {
+      "id": "885ba95805db310a7bcc3fb1a7a6dd28",
+      "commence_time": "2026-06-24T22:00:00Z",
+      "home_team": "Scotland",
+      "away_team": "Brazil",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 5.17,
+        "draw": 4.74,
+        "away": 1.49
+      },
+      "prob": {
+        "home_win": 0.1798,
+        "draw": 0.1962,
+        "away_win": 0.624
+      }
+    },
+    {
+      "id": "d1279ce7f33136a33e99ad442fc855e8",
+      "commence_time": "2026-06-24T22:00:00Z",
+      "home_team": "Morocco",
+      "away_team": "Haiti",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.32,
+        "draw": 4.94,
+        "away": 8.73
+      },
+      "prob": {
+        "home_win": 0.705,
+        "draw": 0.1884,
+        "away_win": 0.1066
+      }
+    },
+    {
+      "id": "5993bd5196ca09f83990f0c3261e442e",
+      "commence_time": "2026-06-25T01:00:00Z",
+      "home_team": "Czech Republic",
+      "away_team": "Mexico",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 4.52,
+        "draw": 3.54,
+        "away": 1.76
+      },
+      "prob": {
+        "home_win": 0.2064,
+        "draw": 0.2635,
+        "away_win": 0.5301
+      }
+    },
+    {
+      "id": "c0355dfc6e26ec327e379b6ef5824a5f",
+      "commence_time": "2026-06-25T01:00:00Z",
+      "home_team": "South Africa",
+      "away_team": "South Korea",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 4.02,
+        "draw": 3.38,
+        "away": 1.91
+      },
+      "prob": {
+        "home_win": 0.2329,
+        "draw": 0.277,
+        "away_win": 0.4901
+      }
+    },
+    {
+      "id": "a5a0b544a984ab16e564264f3e859b43",
+      "commence_time": "2026-06-25T20:00:00Z",
+      "home_team": "Curaçao",
+      "away_team": "Ivory Coast",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 10.36,
+        "draw": 6.16,
+        "away": 1.23
+      },
+      "prob": {
+        "home_win": 0.0901,
+        "draw": 0.1515,
+        "away_win": 0.7585
+      }
+    },
+    {
+      "id": "0ec28b84ec399bd4dffbe8d1bc72b3c4",
+      "commence_time": "2026-06-25T20:00:00Z",
+      "home_team": "Ecuador",
+      "away_team": "Germany",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 4.73,
+        "draw": 3.77,
+        "away": 1.68
+      },
+      "prob": {
+        "home_win": 0.1972,
+        "draw": 0.2475,
+        "away_win": 0.5553
+      }
+    },
+    {
+      "id": "0ed0233bddc4eafc8507f86a9c17b998",
+      "commence_time": "2026-06-25T23:00:00Z",
+      "home_team": "Japan",
+      "away_team": "Sweden",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.04,
+        "draw": 3.38,
+        "away": 3.56
+      },
+      "prob": {
+        "home_win": 0.4594,
+        "draw": 0.2773,
+        "away_win": 0.2633
+      }
+    },
+    {
+      "id": "f3c4657daa143a0c5bd62cb370d01ce4",
+      "commence_time": "2026-06-25T23:00:00Z",
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 6.19,
+        "draw": 4.2,
+        "away": 1.48
+      },
+      "prob": {
+        "home_win": 0.1502,
+        "draw": 0.2214,
+        "away_win": 0.6283
+      }
+    },
+    {
+      "id": "22f6ac06dfcc88a847920f62633e6459",
+      "commence_time": "2026-06-26T02:00:00Z",
+      "home_team": "Paraguay",
+      "away_team": "Australia",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.19,
+        "draw": 3.13,
+        "away": 3.45
+      },
+      "prob": {
+        "home_win": 0.4284,
+        "draw": 0.2997,
+        "away_win": 0.2719
+      }
+    },
+    {
+      "id": "f41aeac9a8343a84b4950f15ea25fba2",
+      "commence_time": "2026-06-26T02:00:00Z",
+      "home_team": "Turkey",
+      "away_team": "USA",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.66,
+        "draw": 3.4,
+        "away": 2.53
+      },
+      "prob": {
+        "home_win": 0.3529,
+        "draw": 0.2761,
+        "away_win": 0.371
+      }
+    },
+    {
+      "id": "b86b4d60f773e9e3c46c00e9a6496e79",
+      "commence_time": "2026-06-26T19:00:00Z",
+      "home_team": "Norway",
+      "away_team": "France",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 4.2,
+        "draw": 3.55,
+        "away": 1.82
+      },
+      "prob": {
+        "home_win": 0.2227,
+        "draw": 0.2634,
+        "away_win": 0.5139
+      }
+    },
+    {
+      "id": "7e6aee294ea1a4792c59558791084528",
+      "commence_time": "2026-06-26T19:00:00Z",
+      "home_team": "Senegal",
+      "away_team": "Iraq",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.42,
+        "draw": 4.38,
+        "away": 7.07
+      },
+      "prob": {
+        "home_win": 0.6557,
+        "draw": 0.2126,
+        "away_win": 0.1317
+      }
+    },
+    {
+      "id": "e07b1926be5a4d515c7eb108dbcee9c5",
+      "commence_time": "2026-06-27T00:00:00Z",
+      "home_team": "Cape Verde",
+      "away_team": "Saudi Arabia",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.58,
+        "draw": 3.2,
+        "away": 2.74
+      },
+      "prob": {
+        "home_win": 0.3639,
+        "draw": 0.2934,
+        "away_win": 0.3427
+      }
+    },
+    {
+      "id": "dcff2e31c0bce001a4db5caaf4fa8822",
+      "commence_time": "2026-06-27T00:00:00Z",
+      "home_team": "Uruguay",
+      "away_team": "Spain",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 5.18,
+        "draw": 3.88,
+        "away": 1.61
+      },
+      "prob": {
+        "home_win": 0.1801,
+        "draw": 0.2404,
+        "away_win": 0.5795
+      }
+    },
+    {
+      "id": "581691da05dcd75b5c6d3be91ee9d2ab",
+      "commence_time": "2026-06-27T03:00:00Z",
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 9.19,
+        "draw": 5.59,
+        "away": 1.27
+      },
+      "prob": {
+        "home_win": 0.1012,
+        "draw": 0.1664,
+        "away_win": 0.7324
+      }
+    },
+    {
+      "id": "3e3b5fa2b3c963e74cf044c60db0b573",
+      "commence_time": "2026-06-27T03:00:00Z",
+      "home_team": "Egypt",
+      "away_team": "Iran",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.24,
+        "draw": 2.98,
+        "away": 3.52
+      },
+      "prob": {
+        "home_win": 0.4188,
+        "draw": 0.3148,
+        "away_win": 0.2665
+      }
+    },
+    {
+      "id": "537c0997cd899394f47f16545b7068b2",
+      "commence_time": "2026-06-27T21:00:00Z",
+      "home_team": "Croatia",
+      "away_team": "Ghana",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 1.6,
+        "draw": 3.77,
+        "away": 5.46
+      },
+      "prob": {
+        "home_win": 0.5823,
+        "draw": 0.2471,
+        "away_win": 0.1706
+      }
+    },
+    {
+      "id": "4be17c8e1ccfecb0f2a5ef79e045c415",
+      "commence_time": "2026-06-27T21:00:00Z",
+      "home_team": "Panama",
+      "away_team": "England",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 7.24,
+        "draw": 6.19,
+        "away": 1.29
+      },
+      "prob": {
+        "home_win": 0.1285,
+        "draw": 0.1503,
+        "away_win": 0.7212
+      }
+    },
+    {
+      "id": "67ae5751c401a98409b8566ae4897069",
+      "commence_time": "2026-06-27T23:30:00Z",
+      "home_team": "Colombia",
+      "away_team": "Portugal",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 3.39,
+        "draw": 3.24,
+        "away": 2.16
+      },
+      "prob": {
+        "home_win": 0.2766,
+        "draw": 0.2894,
+        "away_win": 0.4341
+      }
+    },
+    {
+      "id": "13eab94a136b9c264ba974cf437a5f71",
+      "commence_time": "2026-06-27T23:30:00Z",
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 2.26,
+        "draw": 3.32,
+        "away": 3.09
+      },
+      "prob": {
+        "home_win": 0.4146,
+        "draw": 0.2822,
+        "away_win": 0.3032
+      }
+    },
+    {
+      "id": "8756200e539155e571557c4f2e0d7f05",
+      "commence_time": "2026-06-28T02:00:00Z",
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 3.36,
+        "draw": 2.98,
+        "away": 2.31
+      },
+      "prob": {
+        "home_win": 0.2792,
+        "draw": 0.3148,
+        "away_win": 0.4061
+      }
+    },
+    {
+      "id": "54697f453437ab26276d773be1d72e9b",
+      "commence_time": "2026-06-28T02:00:00Z",
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "bookmaker": "pinnacle",
+      "odds": {
+        "home": 13.04,
+        "draw": 6.98,
+        "away": 1.17
+      },
+      "prob": {
+        "home_win": 0.0714,
+        "draw": 0.1333,
+        "away_win": 0.7953
+      }
+    }
+  ]
+}
