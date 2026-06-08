@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-05T19:41:45.074475+00:00",
+  "fetched_at": "2026-06-08T13:03:12.145395+00:00",
   "source": "the-odds-api.com",
   "games": [
     {
@@ -9,14 +9,14 @@
       "away_team": "South Africa",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.44,
-        "draw": 4.49,
-        "away": 8.31
+        "home": 1.42,
+        "draw": 4.59,
+        "away": 8.69
       },
       "prob": {
-        "home_win": 0.6693,
-        "draw": 0.2147,
-        "away_win": 0.116
+        "home_win": 0.679,
+        "draw": 0.2101,
+        "away_win": 0.111
       }
     },
     {
@@ -26,14 +26,14 @@
       "away_team": "Czech Republic",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 2.73,
-        "draw": 3.13,
-        "away": 2.88
+        "home": 2.69,
+        "draw": 3.12,
+        "away": 2.93
       },
       "prob": {
-        "home_win": 0.3546,
-        "draw": 0.3093,
-        "away_win": 0.3361
+        "home_win": 0.3597,
+        "draw": 0.3101,
+        "away_win": 0.3302
       }
     },
     {
@@ -43,14 +43,14 @@
       "away_team": "Bosnia & Herzegovina",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.81,
-        "draw": 3.78,
-        "away": 4.61
+        "home": 1.82,
+        "draw": 3.72,
+        "away": 4.6
       },
       "prob": {
-        "home_win": 0.5343,
-        "draw": 0.2559,
-        "away_win": 0.2098
+        "home_win": 0.5305,
+        "draw": 0.2596,
+        "away_win": 0.2099
       }
     },
     {
@@ -60,14 +60,14 @@
       "away_team": "Paraguay",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 2.01,
+        "home": 2.0,
         "draw": 3.5,
-        "away": 3.99
+        "away": 4.02
       },
       "prob": {
-        "home_win": 0.4812,
-        "draw": 0.2764,
-        "away_win": 0.2424
+        "home_win": 0.4833,
+        "draw": 0.2762,
+        "away_win": 0.2405
       }
     },
     {
@@ -77,14 +77,14 @@
       "away_team": "Switzerland",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 11.87,
-        "draw": 6.66,
-        "away": 1.25
+        "home": 12.3,
+        "draw": 6.79,
+        "away": 1.24
       },
       "prob": {
-        "home_win": 0.0814,
-        "draw": 0.1452,
-        "away_win": 0.7734
+        "home_win": 0.0785,
+        "draw": 0.1423,
+        "away_win": 0.7792
       }
     },
     {
@@ -94,14 +94,14 @@
       "away_team": "Morocco",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.64,
-        "draw": 3.84,
-        "away": 5.95
+        "home": 1.68,
+        "draw": 3.76,
+        "away": 5.63
       },
       "prob": {
-        "home_win": 0.5873,
-        "draw": 0.2508,
-        "away_win": 0.1619
+        "home_win": 0.573,
+        "draw": 0.256,
+        "away_win": 0.171
       }
     },
     {
@@ -111,14 +111,14 @@
       "away_team": "Scotland",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 6.79,
-        "draw": 4.39,
-        "away": 1.51
+        "home": 6.72,
+        "draw": 4.46,
+        "away": 1.5
       },
       "prob": {
-        "home_win": 0.142,
-        "draw": 0.2196,
-        "away_win": 0.6384
+        "home_win": 0.1431,
+        "draw": 0.2157,
+        "away_win": 0.6412
       }
     },
     {
@@ -128,14 +128,14 @@
       "away_team": "Turkey",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 4.82,
-        "draw": 3.75,
-        "away": 1.78
+        "home": 4.88,
+        "draw": 3.77,
+        "away": 1.76
       },
       "prob": {
-        "home_win": 0.2003,
-        "draw": 0.2574,
-        "away_win": 0.5423
+        "home_win": 0.1973,
+        "draw": 0.2555,
+        "away_win": 0.5472
       }
     },
     {
@@ -145,14 +145,14 @@
       "away_team": "Curaçao",
       "bookmaker": "williamhill",
       "odds": {
-        "home": 1.04,
-        "draw": 13.0,
+        "home": 1.05,
+        "draw": 15.0,
         "away": 56.0
       },
       "prob": {
-        "home_win": 0.9103,
-        "draw": 0.0728,
-        "away_win": 0.0169
+        "home_win": 0.9185,
+        "draw": 0.0643,
+        "away_win": 0.0172
       }
     },
     {
@@ -162,14 +162,14 @@
       "away_team": "Japan",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.99,
-        "draw": 3.73,
-        "away": 3.79
+        "home": 2.01,
+        "draw": 3.63,
+        "away": 3.82
       },
       "prob": {
-        "home_win": 0.4858,
-        "draw": 0.2592,
-        "away_win": 0.2551
+        "home_win": 0.4808,
+        "draw": 0.2662,
+        "away_win": 0.253
       }
     },
     {
@@ -179,14 +179,14 @@
       "away_team": "Ecuador",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 3.78,
-        "draw": 2.8,
-        "away": 2.43
+        "home": 3.72,
+        "draw": 2.81,
+        "away": 2.45
       },
       "prob": {
-        "home_win": 0.256,
-        "draw": 0.3457,
-        "away_win": 0.3983
+        "home_win": 0.2603,
+        "draw": 0.3446,
+        "away_win": 0.3952
       }
     },
     {
@@ -197,13 +197,13 @@
       "bookmaker": "pinnacle",
       "odds": {
         "home": 1.93,
-        "draw": 3.48,
-        "away": 4.32
+        "draw": 3.49,
+        "away": 4.36
       },
       "prob": {
-        "home_win": 0.4997,
+        "home_win": 0.5011,
         "draw": 0.2771,
-        "away_win": 0.2232
+        "away_win": 0.2218
       }
     },
     {
@@ -214,13 +214,13 @@
       "bookmaker": "pinnacle",
       "odds": {
         "home": 1.08,
-        "draw": 11.75,
-        "away": 28.67
+        "draw": 11.8,
+        "away": 28.85
       },
       "prob": {
-        "home_win": 0.8853,
-        "draw": 0.0814,
-        "away_win": 0.0333
+        "home_win": 0.8858,
+        "draw": 0.0811,
+        "away_win": 0.0332
       }
     },
     {
@@ -230,14 +230,14 @@
       "away_team": "Egypt",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.68,
-        "draw": 3.93,
-        "away": 5.38
+        "home": 1.67,
+        "draw": 3.94,
+        "away": 5.4
       },
       "prob": {
-        "home_win": 0.5748,
-        "draw": 0.2457,
-        "away_win": 0.1795
+        "home_win": 0.577,
+        "draw": 0.2446,
+        "away_win": 0.1784
       }
     },
     {
@@ -247,14 +247,14 @@
       "away_team": "Uruguay",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 7.29,
-        "draw": 4.46,
-        "away": 1.48
+        "home": 7.27,
+        "draw": 4.36,
+        "away": 1.49
       },
       "prob": {
-        "home_win": 0.1323,
-        "draw": 0.2162,
-        "away_win": 0.6515
+        "home_win": 0.1325,
+        "draw": 0.221,
+        "away_win": 0.6465
       }
     },
     {
@@ -264,14 +264,14 @@
       "away_team": "New Zealand",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.91,
-        "draw": 3.49,
-        "away": 4.42
+        "home": 1.92,
+        "draw": 3.47,
+        "away": 4.46
       },
       "prob": {
-        "home_win": 0.5052,
-        "draw": 0.2765,
-        "away_win": 0.2183
+        "home_win": 0.5041,
+        "draw": 0.2789,
+        "away_win": 0.217
       }
     },
     {
@@ -281,14 +281,14 @@
       "away_team": "Senegal",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.47,
-        "draw": 4.54,
-        "away": 7.28
+        "home": 1.48,
+        "draw": 4.45,
+        "away": 7.29
       },
       "prob": {
-        "home_win": 0.6554,
-        "draw": 0.2122,
-        "away_win": 0.1323
+        "home_win": 0.6512,
+        "draw": 0.2166,
+        "away_win": 0.1322
       }
     },
     {
@@ -298,14 +298,14 @@
       "away_team": "Norway",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 13.94,
-        "draw": 7.18,
+        "home": 14.24,
+        "draw": 7.26,
         "away": 1.21
       },
       "prob": {
-        "home_win": 0.0691,
-        "draw": 0.1342,
-        "away_win": 0.7966
+        "home_win": 0.0679,
+        "draw": 0.1332,
+        "away_win": 0.799
       }
     },
     {
@@ -315,14 +315,14 @@
       "away_team": "Algeria",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.4,
-        "draw": 4.61,
-        "away": 9.23
+        "home": 1.41,
+        "draw": 4.57,
+        "away": 9.07
       },
       "prob": {
-        "home_win": 0.6871,
-        "draw": 0.2087,
-        "away_win": 0.1042
+        "home_win": 0.6831,
+        "draw": 0.2107,
+        "away_win": 0.1062
       }
     },
     {
@@ -334,12 +334,12 @@
       "odds": {
         "home": 1.33,
         "draw": 5.6,
-        "away": 9.41
+        "away": 9.45
       },
       "prob": {
-        "home_win": 0.7252,
-        "draw": 0.1722,
-        "away_win": 0.1025
+        "home_win": 0.7256,
+        "draw": 0.1723,
+        "away_win": 0.1021
       }
     },
     {
@@ -351,12 +351,12 @@
       "odds": {
         "home": 1.29,
         "draw": 5.71,
-        "away": 11.19
+        "away": 11.2
       },
       "prob": {
-        "home_win": 0.7456,
-        "draw": 0.1684,
-        "away_win": 0.086
+        "home_win": 0.7457,
+        "draw": 0.1685,
+        "away_win": 0.0859
       }
     },
     {
@@ -383,14 +383,14 @@
       "away_team": "Panama",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 2.07,
-        "draw": 3.59,
-        "away": 3.66
+        "home": 2.08,
+        "draw": 3.58,
+        "away": 3.65
       },
       "prob": {
-        "home_win": 0.4668,
-        "draw": 0.2692,
-        "away_win": 0.264
+        "home_win": 0.4649,
+        "draw": 0.2701,
+        "away_win": 0.2649
       }
     },
     {
@@ -400,14 +400,14 @@
       "away_team": "Colombia",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 8.5,
-        "draw": 4.56,
+        "home": 8.51,
+        "draw": 4.54,
         "away": 1.43
       },
       "prob": {
-        "home_win": 0.1135,
-        "draw": 0.2116,
-        "away_win": 0.6748
+        "home_win": 0.1133,
+        "draw": 0.2124,
+        "away_win": 0.6743
       }
     },
     {
@@ -417,14 +417,14 @@
       "away_team": "South Africa",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.94,
-        "draw": 3.28,
-        "away": 4.01
+        "home": 1.93,
+        "draw": 3.29,
+        "away": 4.06
       },
       "prob": {
-        "home_win": 0.4819,
-        "draw": 0.285,
-        "away_win": 0.2331
+        "home_win": 0.485,
+        "draw": 0.2845,
+        "away_win": 0.2305
       }
     },
     {
@@ -434,14 +434,14 @@
       "away_team": "Bosnia & Herzegovina",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.59,
-        "draw": 3.94,
-        "away": 5.25
+        "home": 1.61,
+        "draw": 3.91,
+        "away": 5.05
       },
       "prob": {
-        "home_win": 0.586,
-        "draw": 0.2365,
-        "away_win": 0.1775
+        "home_win": 0.5778,
+        "draw": 0.2379,
+        "away_win": 0.1842
       }
     },
     {
@@ -451,14 +451,14 @@
       "away_team": "Qatar",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.31,
-        "draw": 4.84,
-        "away": 9.26
+        "home": 1.29,
+        "draw": 5.02,
+        "away": 9.57
       },
       "prob": {
-        "home_win": 0.7082,
-        "draw": 0.1917,
-        "away_win": 0.1002
+        "home_win": 0.7185,
+        "draw": 0.1846,
+        "away_win": 0.0969
       }
     },
     {
@@ -468,14 +468,14 @@
       "away_team": "South Korea",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.79,
-        "draw": 3.49,
-        "away": 4.41
+        "home": 1.77,
+        "draw": 3.57,
+        "away": 4.44
       },
       "prob": {
-        "home_win": 0.5212,
-        "draw": 0.2673,
-        "away_win": 0.2115
+        "home_win": 0.5279,
+        "draw": 0.2617,
+        "away_win": 0.2104
       }
     },
     {
@@ -502,14 +502,14 @@
       "away_team": "Morocco",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 4.07,
-        "draw": 3.19,
-        "away": 1.96
+        "home": 4.1,
+        "draw": 3.2,
+        "away": 1.95
       },
       "prob": {
-        "home_win": 0.2298,
-        "draw": 0.2931,
-        "away_win": 0.4771
+        "home_win": 0.2281,
+        "draw": 0.2923,
+        "away_win": 0.4796
       }
     },
     {
@@ -519,14 +519,14 @@
       "away_team": "Haiti",
       "bookmaker": "williamhill",
       "odds": {
-        "home": 1.07,
+        "home": 1.08,
         "draw": 11.0,
-        "away": 34.0
+        "away": 29.0
       },
       "prob": {
-        "home_win": 0.8859,
-        "draw": 0.0862,
-        "away_win": 0.0279
+        "home_win": 0.8807,
+        "draw": 0.0865,
+        "away_win": 0.0328
       }
     },
     {
@@ -570,14 +570,14 @@
       "away_team": "Ivory Coast",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.55,
-        "draw": 4.24,
-        "away": 5.22
+        "home": 1.53,
+        "draw": 4.29,
+        "away": 5.29
       },
       "prob": {
-        "home_win": 0.6015,
-        "draw": 0.2199,
-        "away_win": 0.1786
+        "home_win": 0.6076,
+        "draw": 0.2167,
+        "away_win": 0.1757
       }
     },
     {
@@ -587,14 +587,14 @@
       "away_team": "Curaçao",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.19,
-        "draw": 7.0,
-        "away": 11.33
+        "home": 1.18,
+        "draw": 7.04,
+        "away": 11.47
       },
       "prob": {
-        "home_win": 0.7843,
-        "draw": 0.1333,
-        "away_win": 0.0824
+        "home_win": 0.7871,
+        "draw": 0.1319,
+        "away_win": 0.081
       }
     },
     {
@@ -622,13 +622,13 @@
       "bookmaker": "pinnacle",
       "odds": {
         "home": 1.09,
-        "draw": 9.98,
-        "away": 20.81
+        "draw": 10.04,
+        "away": 20.96
       },
       "prob": {
-        "home_win": 0.8609,
-        "draw": 0.094,
-        "away_win": 0.0451
+        "home_win": 0.8616,
+        "draw": 0.0935,
+        "away_win": 0.0448
       }
     },
     {
@@ -672,14 +672,14 @@
       "away_team": "Egypt",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 4.46,
-        "draw": 3.87,
-        "away": 1.7
+        "home": 4.29,
+        "draw": 3.8,
+        "away": 1.74
       },
       "prob": {
-        "home_win": 0.2094,
-        "draw": 0.2413,
-        "away_win": 0.5493
+        "home_win": 0.2177,
+        "draw": 0.2457,
+        "away_win": 0.5366
       }
     },
     {
@@ -689,14 +689,14 @@
       "away_team": "Austria",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.64,
-        "draw": 3.67,
-        "away": 5.28
+        "home": 1.61,
+        "draw": 3.71,
+        "away": 5.44
       },
       "prob": {
-        "home_win": 0.569,
-        "draw": 0.2543,
-        "away_win": 0.1767
+        "home_win": 0.5781,
+        "draw": 0.2509,
+        "away_win": 0.1711
       }
     },
     {
@@ -707,13 +707,13 @@
       "bookmaker": "pinnacle",
       "odds": {
         "home": 1.12,
-        "draw": 7.72,
-        "away": 22.63
+        "draw": 7.77,
+        "away": 22.86
       },
       "prob": {
-        "home_win": 0.8371,
-        "draw": 0.1214,
-        "away_win": 0.0414
+        "home_win": 0.8381,
+        "draw": 0.1208,
+        "away_win": 0.0411
       }
     },
     {
@@ -723,14 +723,14 @@
       "away_team": "Senegal",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 2.08,
+        "home": 2.11,
         "draw": 3.5,
-        "away": 3.33
+        "away": 3.26
       },
       "prob": {
-        "home_win": 0.4507,
-        "draw": 0.2678,
-        "away_win": 0.2815
+        "home_win": 0.4444,
+        "draw": 0.2679,
+        "away_win": 0.2876
       }
     },
     {
@@ -740,14 +740,14 @@
       "away_team": "Algeria",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 5.63,
-        "draw": 3.98,
-        "away": 1.55
+        "home": 6.21,
+        "draw": 4.19,
+        "away": 1.48
       },
       "prob": {
-        "home_win": 0.1654,
-        "draw": 0.2339,
-        "away_win": 0.6007
+        "home_win": 0.1497,
+        "draw": 0.2219,
+        "away_win": 0.6283
       }
     },
     {
@@ -758,13 +758,13 @@
       "bookmaker": "pinnacle",
       "odds": {
         "home": 1.22,
-        "draw": 6.2,
-        "away": 10.48
+        "draw": 6.24,
+        "away": 10.54
       },
       "prob": {
-        "home_win": 0.7615,
-        "draw": 0.1498,
-        "away_win": 0.0886
+        "home_win": 0.7626,
+        "draw": 0.1491,
+        "away_win": 0.0883
       }
     },
     {
@@ -775,13 +775,13 @@
       "bookmaker": "pinnacle",
       "odds": {
         "home": 1.29,
-        "draw": 5.31,
-        "away": 8.89
+        "draw": 5.29,
+        "away": 8.87
       },
       "prob": {
-        "home_win": 0.7204,
-        "draw": 0.175,
-        "away_win": 0.1045
+        "home_win": 0.7198,
+        "draw": 0.1755,
+        "away_win": 0.1047
       }
     },
     {
@@ -825,14 +825,14 @@
       "away_team": "Qatar",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.57,
-        "draw": 3.79,
-        "away": 5.76
+        "home": 1.54,
+        "draw": 3.85,
+        "away": 6.1
       },
       "prob": {
-        "home_win": 0.5928,
-        "draw": 0.2456,
-        "away_win": 0.1616
+        "home_win": 0.6052,
+        "draw": 0.2421,
+        "away_win": 0.1528
       }
     },
     {
@@ -859,14 +859,14 @@
       "away_team": "Brazil",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 5.17,
-        "draw": 4.74,
-        "away": 1.49
+        "home": 5.37,
+        "draw": 4.82,
+        "away": 1.47
       },
       "prob": {
-        "home_win": 0.1798,
-        "draw": 0.1962,
-        "away_win": 0.624
+        "home_win": 0.1734,
+        "draw": 0.1932,
+        "away_win": 0.6334
       }
     },
     {
@@ -878,12 +878,12 @@
       "odds": {
         "home": 1.32,
         "draw": 4.94,
-        "away": 8.73
+        "away": 8.78
       },
       "prob": {
-        "home_win": 0.705,
-        "draw": 0.1884,
-        "away_win": 0.1066
+        "home_win": 0.7054,
+        "draw": 0.1885,
+        "away_win": 0.1061
       }
     },
     {
@@ -927,14 +927,14 @@
       "away_team": "Ivory Coast",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 10.36,
-        "draw": 6.16,
-        "away": 1.23
+        "home": 10.8,
+        "draw": 6.26,
+        "away": 1.22
       },
       "prob": {
-        "home_win": 0.0901,
-        "draw": 0.1515,
-        "away_win": 0.7585
+        "home_win": 0.0864,
+        "draw": 0.149,
+        "away_win": 0.7646
       }
     },
     {
@@ -944,14 +944,14 @@
       "away_team": "Germany",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 4.73,
-        "draw": 3.77,
-        "away": 1.68
+        "home": 4.57,
+        "draw": 3.72,
+        "away": 1.71
       },
       "prob": {
-        "home_win": 0.1972,
-        "draw": 0.2475,
-        "away_win": 0.5553
+        "home_win": 0.204,
+        "draw": 0.2507,
+        "away_win": 0.5453
       }
     },
     {
@@ -978,14 +978,14 @@
       "away_team": "Netherlands",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 6.19,
-        "draw": 4.2,
-        "away": 1.48
+        "home": 6.28,
+        "draw": 4.22,
+        "away": 1.47
       },
       "prob": {
-        "home_win": 0.1502,
-        "draw": 0.2214,
-        "away_win": 0.6283
+        "home_win": 0.1479,
+        "draw": 0.2201,
+        "away_win": 0.6319
       }
     },
     {
@@ -1012,14 +1012,14 @@
       "away_team": "USA",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 2.66,
-        "draw": 3.4,
+        "home": 2.59,
+        "draw": 3.51,
         "away": 2.53
       },
       "prob": {
-        "home_win": 0.3529,
-        "draw": 0.2761,
-        "away_win": 0.371
+        "home_win": 0.3621,
+        "draw": 0.2672,
+        "away_win": 0.3707
       }
     },
     {
@@ -1046,14 +1046,14 @@
       "away_team": "Iraq",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 1.42,
-        "draw": 4.38,
-        "away": 7.07
+        "home": 1.4,
+        "draw": 4.45,
+        "away": 7.38
       },
       "prob": {
-        "home_win": 0.6557,
-        "draw": 0.2126,
-        "away_win": 0.1317
+        "home_win": 0.6648,
+        "draw": 0.2091,
+        "away_win": 0.1261
       }
     },
     {
@@ -1063,14 +1063,14 @@
       "away_team": "Saudi Arabia",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 2.58,
-        "draw": 3.2,
-        "away": 2.74
+        "home": 2.56,
+        "draw": 3.24,
+        "away": 2.73
       },
       "prob": {
-        "home_win": 0.3639,
-        "draw": 0.2934,
-        "away_win": 0.3427
+        "home_win": 0.3666,
+        "draw": 0.2897,
+        "away_win": 0.3438
       }
     },
     {
@@ -1080,14 +1080,14 @@
       "away_team": "Spain",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 5.18,
-        "draw": 3.88,
-        "away": 1.61
+        "home": 5.22,
+        "draw": 3.89,
+        "away": 1.6
       },
       "prob": {
-        "home_win": 0.1801,
-        "draw": 0.2404,
-        "away_win": 0.5795
+        "home_win": 0.1784,
+        "draw": 0.2394,
+        "away_win": 0.5821
       }
     },
     {
@@ -1097,14 +1097,14 @@
       "away_team": "Belgium",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 9.19,
-        "draw": 5.59,
-        "away": 1.27
+        "home": 9.48,
+        "draw": 5.68,
+        "away": 1.26
       },
       "prob": {
-        "home_win": 0.1012,
-        "draw": 0.1664,
-        "away_win": 0.7324
+        "home_win": 0.0981,
+        "draw": 0.1637,
+        "away_win": 0.7381
       }
     },
     {
@@ -1148,14 +1148,14 @@
       "away_team": "England",
       "bookmaker": "pinnacle",
       "odds": {
-        "home": 7.24,
-        "draw": 6.19,
-        "away": 1.29
+        "home": 7.32,
+        "draw": 6.26,
+        "away": 1.28
       },
       "prob": {
-        "home_win": 0.1285,
-        "draw": 0.1503,
-        "away_win": 0.7212
+        "home_win": 0.1268,
+        "draw": 0.1482,
+        "away_win": 0.725
       }
     },
     {
