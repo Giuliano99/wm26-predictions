@@ -29,9 +29,9 @@ ODDS_FILE        = BASE_DIR / "odds.json"
 PREDICTIONS_FILE = BASE_DIR / "predictions.json"
 
 # ── Konfiguration ─────────────────────────────────────────────────────────────
-ODDS_WEIGHT       = 0.60
+ODDS_WEIGHT       = 0.70
 MODEL_WEIGHT      = 1.0 - ODDS_WEIGHT
-TEAM_FILTER_YEARS = 6
+TEAM_FILTER_YEARS = 20
 RHO               = 0.07
 INITIAL_ELO       = 1500
 

@@ -1,0 +1,6260 @@
+{
+  "generated_at": "2026-06-09T20:21:11.687447+00:00",
+  "odds_fetched_at": "2026-06-08T13:03:12.145395+00:00",
+  "odds_weight": 0.7,
+  "model_weight": 0.30000000000000004,
+  "groups": {
+    "A": [
+      "Mexico",
+      "South Africa",
+      "South Korea",
+      "Czech Republic"
+    ],
+    "B": [
+      "Canada",
+      "Bosnia and Herzegovina",
+      "Qatar",
+      "Switzerland"
+    ],
+    "C": [
+      "Brazil",
+      "Morocco",
+      "Haiti",
+      "Scotland"
+    ],
+    "D": [
+      "United States",
+      "Paraguay",
+      "Australia",
+      "Turkey"
+    ],
+    "E": [
+      "Germany",
+      "Curacao",
+      "Ivory Coast",
+      "Ecuador"
+    ],
+    "F": [
+      "Netherlands",
+      "Japan",
+      "Sweden",
+      "Tunisia"
+    ],
+    "G": [
+      "Belgium",
+      "Egypt",
+      "Iran",
+      "New Zealand"
+    ],
+    "H": [
+      "Spain",
+      "Cape Verde",
+      "Saudi Arabia",
+      "Uruguay"
+    ],
+    "I": [
+      "France",
+      "Senegal",
+      "Iraq",
+      "Norway"
+    ],
+    "J": [
+      "Argentina",
+      "Algeria",
+      "Austria",
+      "Jordan"
+    ],
+    "K": [
+      "Portugal",
+      "DR Congo",
+      "Uzbekistan",
+      "Colombia"
+    ],
+    "L": [
+      "England",
+      "Croatia",
+      "Ghana",
+      "Panama"
+    ]
+  },
+  "matches": [
+    {
+      "group": "A",
+      "home": "Mexico",
+      "away": "South Africa",
+      "date_iso": "2026-06-11T19:00:00Z",
+      "date_local": "11.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6131,
+      "p_draw": 0.2308,
+      "p_away": 0.1561,
+      "p_home_model": 0.4595,
+      "p_draw_model": 0.279,
+      "p_away_model": 0.2615,
+      "p_home_odds": 0.6789,
+      "p_draw_odds": 0.2101,
+      "p_away_odds": 0.111,
+      "expected_goals_home": 1.211,
+      "expected_goals_away": 0.827,
+      "elo_home": 1819,
+      "elo_away": 1646,
+      "form_home": 0.91,
+      "form_away": 0.58,
+      "source": "ensemble",
+      "odds_home": 1.42,
+      "odds_draw": 4.59,
+      "odds_away": 8.69,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1668
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1214
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1211
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1169
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0955
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.079
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.054
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0446
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0386
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0327
+        }
+      ],
+      "confidence": 0.6131,
+      "outcome": "win1"
+    },
+    {
+      "group": "A",
+      "home": "Mexico",
+      "away": "South Korea",
+      "date_iso": "2026-06-19T01:00:00Z",
+      "date_local": "19.06.2026",
+      "time_local": "01:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.4693,
+      "p_draw": 0.2712,
+      "p_away": 0.2596,
+      "p_home_model": 0.3325,
+      "p_draw_model": 0.2932,
+      "p_away_model": 0.3743,
+      "p_home_odds": 0.5279,
+      "p_draw_odds": 0.2617,
+      "p_away_odds": 0.2104,
+      "expected_goals_home": 0.939,
+      "expected_goals_away": 1.019,
+      "elo_home": 1819,
+      "elo_away": 1775,
+      "form_home": 0.91,
+      "form_away": 0.72,
+      "source": "ensemble",
+      "odds_home": 1.77,
+      "odds_draw": 3.57,
+      "odds_away": 4.44,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1532
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.142
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1317
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1256
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0732
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0688
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0634
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0623
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0323
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0249
+        }
+      ],
+      "confidence": 0.4693,
+      "outcome": "win1"
+    },
+    {
+      "group": "A",
+      "home": "Mexico",
+      "away": "Czech Republic",
+      "date_iso": "2026-06-25T01:00:00Z",
+      "date_local": "25.06.2026",
+      "time_local": "01:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.4763,
+      "p_draw": 0.2678,
+      "p_away": 0.2559,
+      "p_home_model": 0.3506,
+      "p_draw_model": 0.2779,
+      "p_away_model": 0.3714,
+      "p_home_odds": 0.5301,
+      "p_draw_odds": 0.2635,
+      "p_away_odds": 0.2064,
+      "expected_goals_home": 1.045,
+      "expected_goals_away": 1.086,
+      "elo_home": 1819,
+      "elo_away": 1682,
+      "form_home": 0.91,
+      "form_away": 0.86,
+      "source": "ensemble",
+      "odds_home": 4.52,
+      "odds_draw": 3.54,
+      "odds_away": 1.76,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1383
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1335
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1253
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1092
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0732
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0704
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.07
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0648
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0382
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0265
+        }
+      ],
+      "confidence": 0.4763,
+      "outcome": "win1"
+    },
+    {
+      "group": "A",
+      "home": "South Africa",
+      "away": "South Korea",
+      "date_iso": "2026-06-25T01:00:00Z",
+      "date_local": "25.06.2026",
+      "time_local": "01:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.2369,
+      "p_draw": 0.2688,
+      "p_away": 0.4943,
+      "p_home_model": 0.2461,
+      "p_draw_model": 0.2498,
+      "p_away_model": 0.5041,
+      "p_home_odds": 0.2329,
+      "p_draw_odds": 0.277,
+      "p_away_odds": 0.4901,
+      "expected_goals_home": 0.91,
+      "expected_goals_away": 1.444,
+      "elo_home": 1646,
+      "elo_away": 1775,
+      "form_home": 0.58,
+      "form_away": 0.72,
+      "source": "ensemble",
+      "odds_home": 4.02,
+      "odds_draw": 3.38,
+      "odds_away": 1.91,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1459
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1161
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0991
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0952
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0901
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0862
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0568
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0477
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0434
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.041
+        }
+      ],
+      "confidence": 0.4943,
+      "outcome": "win2"
+    },
+    {
+      "group": "A",
+      "home": "South Africa",
+      "away": "Czech Republic",
+      "date_iso": "2026-06-18T16:00:00Z",
+      "date_local": "18.06.2026",
+      "time_local": "16:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.2386,
+      "p_draw": 0.2708,
+      "p_away": 0.4906,
+      "p_home_model": 0.2576,
+      "p_draw_model": 0.2387,
+      "p_away_model": 0.5037,
+      "p_home_odds": 0.2305,
+      "p_draw_odds": 0.2845,
+      "p_away_odds": 0.485,
+      "expected_goals_home": 1.013,
+      "expected_goals_away": 1.54,
+      "elo_home": 1646,
+      "elo_away": 1682,
+      "form_home": 0.58,
+      "form_away": 0.86,
+      "source": "ensemble",
+      "odds_home": 1.93,
+      "odds_draw": 3.29,
+      "odds_away": 4.06,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1284
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1129
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0935
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0924
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0874
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0694
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0615
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.048
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0474
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0473
+        }
+      ],
+      "confidence": 0.4906,
+      "outcome": "win2"
+    },
+    {
+      "group": "A",
+      "home": "South Korea",
+      "away": "Czech Republic",
+      "date_iso": "2026-06-12T02:00:00Z",
+      "date_local": "12.06.2026",
+      "time_local": "02:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.3672,
+      "p_draw": 0.2938,
+      "p_away": 0.339,
+      "p_home_model": 0.3847,
+      "p_draw_model": 0.2556,
+      "p_away_model": 0.3597,
+      "p_home_odds": 0.3597,
+      "p_draw_odds": 0.3101,
+      "p_away_odds": 0.3302,
+      "expected_goals_home": 1.246,
+      "expected_goals_away": 1.194,
+      "elo_home": 1775,
+      "elo_away": 1682,
+      "form_home": 0.72,
+      "form_away": 0.86,
+      "source": "ensemble",
+      "odds_home": 2.69,
+      "odds_draw": 3.12,
+      "odds_away": 2.93,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1206
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1176
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1131
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0808
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.078
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0774
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0677
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0621
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0483
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0336
+        }
+      ],
+      "confidence": 0.3672,
+      "outcome": "win1"
+    },
+    {
+      "group": "B",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "date_iso": "2026-06-12T19:00:00Z",
+      "date_local": "12.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5134,
+      "p_draw": 0.2571,
+      "p_away": 0.2295,
+      "p_home_model": 0.4735,
+      "p_draw_model": 0.2513,
+      "p_away_model": 0.2752,
+      "p_home_odds": 0.5305,
+      "p_draw_odds": 0.2596,
+      "p_away_odds": 0.2099,
+      "expected_goals_home": 1.408,
+      "expected_goals_away": 0.996,
+      "elo_home": 1779,
+      "elo_away": 1541,
+      "form_home": 0.66,
+      "form_away": 0.5,
+      "source": "ensemble",
+      "odds_home": 1.82,
+      "odds_draw": 3.72,
+      "odds_away": 4.6,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1361
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1178
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0989
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0896
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0892
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0815
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0631
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0448
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0444
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.042
+        }
+      ],
+      "confidence": 0.5134,
+      "outcome": "win1"
+    },
+    {
+      "group": "B",
+      "home": "Canada",
+      "away": "Qatar",
+      "date_iso": "2026-06-18T22:00:00Z",
+      "date_local": "18.06.2026",
+      "time_local": "22:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6804,
+      "p_draw": 0.1916,
+      "p_away": 0.128,
+      "p_home_model": 0.5916,
+      "p_draw_model": 0.2079,
+      "p_away_model": 0.2006,
+      "p_home_odds": 0.7185,
+      "p_draw_odds": 0.1846,
+      "p_away_odds": 0.0969,
+      "expected_goals_home": 1.88,
+      "expected_goals_away": 0.981,
+      "elo_home": 1779,
+      "elo_away": 1603,
+      "form_home": 0.66,
+      "form_away": 0.255,
+      "source": "ensemble",
+      "odds_home": 1.29,
+      "odds_draw": 5.02,
+      "odds_away": 9.57,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.115
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1011
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0992
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0982
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0635
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0634
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0622
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0518
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0499
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0486
+        }
+      ],
+      "confidence": 0.6804,
+      "outcome": "win1"
+    },
+    {
+      "group": "B",
+      "home": "Canada",
+      "away": "Switzerland",
+      "date_iso": "2026-06-24T19:00:00Z",
+      "date_local": "24.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.2482,
+      "p_draw": 0.2655,
+      "p_away": 0.4863,
+      "p_home_model": 0.191,
+      "p_draw_model": 0.2255,
+      "p_away_model": 0.5835,
+      "p_home_odds": 0.2727,
+      "p_draw_odds": 0.2826,
+      "p_away_odds": 0.4447,
+      "expected_goals_home": 0.824,
+      "expected_goals_away": 1.674,
+      "elo_home": 1779,
+      "elo_away": 1786,
+      "form_home": 0.66,
+      "form_away": 0.57,
+      "source": "ensemble",
+      "odds_home": 2.11,
+      "odds_draw": 3.32,
+      "odds_away": 3.44,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1456
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1152
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1055
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.095
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0757
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0743
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0643
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.053
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0468
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0391
+        }
+      ],
+      "confidence": 0.4863,
+      "outcome": "win2"
+    },
+    {
+      "group": "B",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "date_iso": "2026-06-24T19:00:00Z",
+      "date_local": "24.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 2,
+      "tipp_away": 1,
+      "p_home": 0.5712,
+      "p_draw": 0.2346,
+      "p_away": 0.1942,
+      "p_home_model": 0.4919,
+      "p_draw_model": 0.2171,
+      "p_away_model": 0.291,
+      "p_home_odds": 0.6051,
+      "p_draw_odds": 0.2421,
+      "p_away_odds": 0.1528,
+      "expected_goals_home": 1.782,
+      "expected_goals_away": 1.314,
+      "elo_home": 1541,
+      "elo_away": 1603,
+      "form_home": 0.5,
+      "form_away": 0.255,
+      "source": "ensemble",
+      "odds_home": 1.54,
+      "odds_draw": 3.85,
+      "odds_away": 6.1,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0985
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0944
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.088
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0718
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0696
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0669
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.062
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.056
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0426
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0391
+        }
+      ],
+      "confidence": 0.5712,
+      "outcome": "win1"
+    },
+    {
+      "group": "B",
+      "home": "Bosnia and Herzegovina",
+      "away": "Switzerland",
+      "date_iso": "2026-06-18T19:00:00Z",
+      "date_local": "18.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 0,
+      "tipp_away": 2,
+      "p_home": 0.1653,
+      "p_draw": 0.2168,
+      "p_away": 0.6179,
+      "p_home_model": 0.1213,
+      "p_draw_model": 0.1673,
+      "p_away_model": 0.7114,
+      "p_home_odds": 0.1842,
+      "p_draw_odds": 0.2379,
+      "p_away_odds": 0.5779,
+      "expected_goals_home": 0.781,
+      "expected_goals_away": 2.243,
+      "elo_home": 1541,
+      "elo_away": 1786,
+      "form_home": 0.5,
+      "form_away": 0.57,
+      "source": "ensemble",
+      "odds_home": 1.61,
+      "odds_draw": 3.91,
+      "odds_away": 5.05,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1223
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.115
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0956
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0914
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0792
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0714
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.0513
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.044
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0427
+        },
+        {
+          "home": 1,
+          "away": 4,
+          "prob": 0.0401
+        }
+      ],
+      "confidence": 0.6179,
+      "outcome": "win2"
+    },
+    {
+      "group": "B",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "date_iso": "2026-06-13T19:00:00Z",
+      "date_local": "13.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 0,
+      "tipp_away": 2,
+      "p_home": 0.0758,
+      "p_draw": 0.1325,
+      "p_away": 0.7917,
+      "p_home_model": 0.0696,
+      "p_draw_model": 0.1095,
+      "p_away_model": 0.8209,
+      "p_home_odds": 0.0785,
+      "p_draw_odds": 0.1423,
+      "p_away_odds": 0.7792,
+      "expected_goals_home": 0.77,
+      "expected_goals_away": 2.994,
+      "elo_home": 1603,
+      "elo_away": 1786,
+      "form_home": 0.255,
+      "form_away": 0.57,
+      "source": "ensemble",
+      "odds_home": 12.3,
+      "odds_draw": 6.79,
+      "odds_away": 1.24,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1044
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.1042
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0803
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0802
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.078
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0735
+        },
+        {
+          "home": 1,
+          "away": 4,
+          "prob": 0.06
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0499
+        },
+        {
+          "home": 0,
+          "away": 5,
+          "prob": 0.0467
+        },
+        {
+          "home": 1,
+          "away": 5,
+          "prob": 0.0359
+        }
+      ],
+      "confidence": 0.7917,
+      "outcome": "win2"
+    },
+    {
+      "group": "C",
+      "home": "Brazil",
+      "away": "Morocco",
+      "date_iso": "2026-06-13T22:00:00Z",
+      "date_local": "13.06.2026",
+      "time_local": "22:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5168,
+      "p_draw": 0.2727,
+      "p_away": 0.2104,
+      "p_home_model": 0.3858,
+      "p_draw_model": 0.3118,
+      "p_away_model": 0.3024,
+      "p_home_odds": 0.573,
+      "p_draw_odds": 0.256,
+      "p_away_odds": 0.171,
+      "expected_goals_home": 0.963,
+      "expected_goals_away": 0.811,
+      "elo_home": 1885,
+      "elo_away": 1895,
+      "form_home": 0.855,
+      "form_away": 0.765,
+      "source": "ensemble",
+      "odds_home": 1.68,
+      "odds_draw": 3.76,
+      "odds_away": 5.63,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1726
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1604
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1469
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1232
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0786
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0638
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0558
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0537
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0259
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0252
+        }
+      ],
+      "confidence": 0.5168,
+      "outcome": "win1"
+    },
+    {
+      "group": "C",
+      "home": "Brazil",
+      "away": "Haiti",
+      "date_iso": "2026-06-20T01:00:00Z",
+      "date_local": "20.06.2026",
+      "time_local": "01:00",
+      "tipp_home": 4,
+      "tipp_away": 0,
+      "p_home": 0.9032,
+      "p_draw": 0.0705,
+      "p_away": 0.0262,
+      "p_home_model": 0.9558,
+      "p_draw_model": 0.0332,
+      "p_away_model": 0.0109,
+      "p_home_odds": 0.8807,
+      "p_draw_odds": 0.0865,
+      "p_away_odds": 0.0328,
+      "expected_goals_home": 4.205,
+      "expected_goals_away": 0.386,
+      "elo_home": 1885,
+      "elo_away": 1652,
+      "form_home": 0.855,
+      "form_away": 0.405,
+      "source": "ensemble",
+      "odds_home": 1.08,
+      "odds_draw": 11.0,
+      "odds_away": 29.0,
+      "top10_scores": [
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.136
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1293
+        },
+        {
+          "home": 5,
+          "away": 0,
+          "prob": 0.1144
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0923
+        },
+        {
+          "home": 6,
+          "away": 0,
+          "prob": 0.0801
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0525
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0499
+        },
+        {
+          "home": 7,
+          "away": 0,
+          "prob": 0.0481
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0451
+        },
+        {
+          "home": 5,
+          "away": 1,
+          "prob": 0.0441
+        }
+      ],
+      "confidence": 0.9032,
+      "outcome": "win1"
+    },
+    {
+      "group": "C",
+      "home": "Brazil",
+      "away": "Scotland",
+      "date_iso": "2026-06-24T22:00:00Z",
+      "date_local": "24.06.2026",
+      "time_local": "22:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6338,
+      "p_draw": 0.1975,
+      "p_away": 0.1687,
+      "p_home_model": 0.6347,
+      "p_draw_model": 0.2077,
+      "p_away_model": 0.1577,
+      "p_home_odds": 0.6334,
+      "p_draw_odds": 0.1932,
+      "p_away_odds": 0.1734,
+      "expected_goals_home": 1.825,
+      "expected_goals_away": 0.76,
+      "elo_home": 1885,
+      "elo_away": 1712,
+      "form_home": 0.855,
+      "form_away": 0.72,
+      "source": "ensemble",
+      "odds_home": 5.37,
+      "odds_draw": 4.82,
+      "odds_away": 1.47,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.145
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1256
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0972
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0954
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0764
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0681
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0646
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0581
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0397
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0362
+        }
+      ],
+      "confidence": 0.6338,
+      "outcome": "win1"
+    },
+    {
+      "group": "C",
+      "home": "Morocco",
+      "away": "Haiti",
+      "date_iso": "2026-06-24T22:00:00Z",
+      "date_local": "24.06.2026",
+      "time_local": "22:00",
+      "tipp_home": 3,
+      "tipp_away": 0,
+      "p_home": 0.768,
+      "p_draw": 0.1514,
+      "p_away": 0.0807,
+      "p_home_model": 0.9139,
+      "p_draw_model": 0.0647,
+      "p_away_model": 0.0214,
+      "p_home_odds": 0.7054,
+      "p_draw_odds": 0.1885,
+      "p_away_odds": 0.1061,
+      "expected_goals_home": 3.253,
+      "expected_goals_away": 0.354,
+      "elo_home": 1895,
+      "elo_away": 1652,
+      "form_home": 0.765,
+      "form_away": 0.405,
+      "source": "ensemble",
+      "odds_home": 1.32,
+      "odds_draw": 4.94,
+      "odds_away": 8.78,
+      "top10_scores": [
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1566
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1444
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.1274
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.091
+        },
+        {
+          "home": 5,
+          "away": 0,
+          "prob": 0.0829
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0555
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0512
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0451
+        },
+        {
+          "home": 6,
+          "away": 0,
+          "prob": 0.0449
+        },
+        {
+          "home": 5,
+          "away": 1,
+          "prob": 0.0294
+        }
+      ],
+      "confidence": 0.768,
+      "outcome": "win1"
+    },
+    {
+      "group": "C",
+      "home": "Morocco",
+      "away": "Scotland",
+      "date_iso": "2026-06-19T22:00:00Z",
+      "date_local": "19.06.2026",
+      "time_local": "22:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5008,
+      "p_draw": 0.2817,
+      "p_away": 0.2175,
+      "p_home_model": 0.5502,
+      "p_draw_model": 0.2569,
+      "p_away_model": 0.1929,
+      "p_home_odds": 0.4796,
+      "p_draw_odds": 0.2923,
+      "p_away_odds": 0.2281,
+      "expected_goals_home": 1.412,
+      "expected_goals_away": 0.697,
+      "elo_home": 1895,
+      "elo_away": 1712,
+      "form_home": 0.765,
+      "form_away": 0.72,
+      "source": "ensemble",
+      "odds_home": 4.1,
+      "odds_draw": 3.2,
+      "odds_away": 1.95,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1797
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1209
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.113
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1111
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.093
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0843
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0569
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0417
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0397
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0295
+        }
+      ],
+      "confidence": 0.5008,
+      "outcome": "win1"
+    },
+    {
+      "group": "C",
+      "home": "Haiti",
+      "away": "Scotland",
+      "date_iso": "2026-06-14T01:00:00Z",
+      "date_local": "14.06.2026",
+      "time_local": "01:00",
+      "tipp_home": 0,
+      "tipp_away": 3,
+      "p_home": 0.117,
+      "p_draw": 0.1808,
+      "p_away": 0.7022,
+      "p_home_model": 0.0562,
+      "p_draw_model": 0.0995,
+      "p_away_model": 0.8444,
+      "p_home_odds": 0.1431,
+      "p_draw_odds": 0.2157,
+      "p_away_odds": 0.6412,
+      "expected_goals_home": 0.672,
+      "expected_goals_away": 3.046,
+      "elo_home": 1652,
+      "elo_away": 1712,
+      "form_home": 0.405,
+      "form_away": 0.72,
+      "source": "ensemble",
+      "odds_home": 6.72,
+      "odds_draw": 4.46,
+      "odds_away": 1.5,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.1149
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1132
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.0875
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0778
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0772
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.076
+        },
+        {
+          "home": 1,
+          "away": 4,
+          "prob": 0.0588
+        },
+        {
+          "home": 0,
+          "away": 5,
+          "prob": 0.0533
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0464
+        },
+        {
+          "home": 1,
+          "away": 5,
+          "prob": 0.0358
+        }
+      ],
+      "confidence": 0.7022,
+      "outcome": "win2"
+    },
+    {
+      "group": "D",
+      "home": "United States",
+      "away": "Paraguay",
+      "date_iso": "2026-06-13T01:00:00Z",
+      "date_local": "13.06.2026",
+      "time_local": "01:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.4354,
+      "p_draw": 0.2819,
+      "p_away": 0.2828,
+      "p_home_model": 0.3235,
+      "p_draw_model": 0.2951,
+      "p_away_model": 0.3814,
+      "p_home_odds": 0.4833,
+      "p_draw_odds": 0.2762,
+      "p_away_odds": 0.2405,
+      "expected_goals_home": 0.913,
+      "expected_goals_away": 1.023,
+      "elo_home": 1782,
+      "elo_away": 1718,
+      "form_home": 0.32,
+      "form_away": 0.68,
+      "source": "ensemble",
+      "odds_home": 2.0,
+      "odds_draw": 3.5,
+      "odds_away": 4.02,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.157
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1412
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1349
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1253
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0754
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0689
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0615
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0602
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0315
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0257
+        }
+      ],
+      "confidence": 0.4354,
+      "outcome": "win1"
+    },
+    {
+      "group": "D",
+      "home": "United States",
+      "away": "Australia",
+      "date_iso": "2026-06-19T19:00:00Z",
+      "date_local": "19.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.4761,
+      "p_draw": 0.2475,
+      "p_away": 0.2764,
+      "p_home_model": 0.3145,
+      "p_draw_model": 0.2726,
+      "p_away_model": 0.4128,
+      "p_home_odds": 0.5454,
+      "p_draw_odds": 0.2367,
+      "p_away_odds": 0.2179,
+      "expected_goals_home": 0.991,
+      "expected_goals_away": 1.186,
+      "elo_home": 1782,
+      "elo_away": 1799,
+      "form_home": 0.32,
+      "form_away": 0.48,
+      "source": "ensemble",
+      "odds_home": 1.71,
+      "odds_draw": 3.94,
+      "odds_away": 4.28,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1437
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1239
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1217
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.104
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0797
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.079
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0661
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0557
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0392
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0315
+        }
+      ],
+      "confidence": 0.4761,
+      "outcome": "win1"
+    },
+    {
+      "group": "D",
+      "home": "United States",
+      "away": "Turkey",
+      "date_iso": "2026-06-26T02:00:00Z",
+      "date_local": "26.06.2026",
+      "time_local": "02:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.3494,
+      "p_draw": 0.256,
+      "p_away": 0.3947,
+      "p_home_model": 0.2996,
+      "p_draw_model": 0.2297,
+      "p_away_model": 0.4707,
+      "p_home_odds": 0.3707,
+      "p_draw_odds": 0.2672,
+      "p_away_odds": 0.3621,
+      "expected_goals_home": 1.227,
+      "expected_goals_away": 1.608,
+      "elo_home": 1782,
+      "elo_away": 1792,
+      "form_home": 0.32,
+      "form_away": 0.965,
+      "source": "ensemble",
+      "odds_home": 2.59,
+      "odds_draw": 3.51,
+      "odds_away": 2.53,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1077
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1026
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0932
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0802
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.076
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0711
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0571
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0506
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0499
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0442
+        }
+      ],
+      "confidence": 0.3947,
+      "outcome": "win2"
+    },
+    {
+      "group": "D",
+      "home": "Paraguay",
+      "away": "Australia",
+      "date_iso": "2026-06-26T02:00:00Z",
+      "date_local": "26.06.2026",
+      "time_local": "02:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.3983,
+      "p_draw": 0.3032,
+      "p_away": 0.2985,
+      "p_home_model": 0.328,
+      "p_draw_model": 0.3114,
+      "p_away_model": 0.3606,
+      "p_home_odds": 0.4284,
+      "p_draw_odds": 0.2997,
+      "p_away_odds": 0.2719,
+      "expected_goals_home": 0.864,
+      "expected_goals_away": 0.923,
+      "elo_home": 1718,
+      "elo_away": 1799,
+      "form_home": 0.68,
+      "form_away": 0.48,
+      "source": "ensemble",
+      "odds_home": 2.19,
+      "odds_draw": 3.13,
+      "odds_away": 3.45,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1639
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1581
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.154
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1242
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0714
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0625
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0617
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0577
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0266
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.022
+        }
+      ],
+      "confidence": 0.3983,
+      "outcome": "win1"
+    },
+    {
+      "group": "D",
+      "home": "Paraguay",
+      "away": "Turkey",
+      "date_iso": "2026-06-20T03:00:00Z",
+      "date_local": "20.06.2026",
+      "time_local": "03:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.2893,
+      "p_draw": 0.2893,
+      "p_away": 0.4215,
+      "p_home_model": 0.3239,
+      "p_draw_model": 0.2623,
+      "p_away_model": 0.4138,
+      "p_home_odds": 0.2744,
+      "p_draw_odds": 0.3008,
+      "p_away_odds": 0.4247,
+      "expected_goals_home": 1.069,
+      "expected_goals_away": 1.252,
+      "elo_home": 1718,
+      "elo_away": 1792,
+      "form_home": 0.68,
+      "form_away": 0.965,
+      "source": "ensemble",
+      "odds_home": 2.21,
+      "odds_draw": 3.12,
+      "odds_away": 3.42,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1321
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1222
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1142
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.089
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0822
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0769
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0702
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0561
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.044
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0343
+        }
+      ],
+      "confidence": 0.4215,
+      "outcome": "win2"
+    },
+    {
+      "group": "D",
+      "home": "Australia",
+      "away": "Turkey",
+      "date_iso": "2026-06-14T04:00:00Z",
+      "date_local": "14.06.2026",
+      "time_local": "04:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.2429,
+      "p_draw": 0.2526,
+      "p_away": 0.5045,
+      "p_home_model": 0.3492,
+      "p_draw_model": 0.2459,
+      "p_away_model": 0.4049,
+      "p_home_odds": 0.1973,
+      "p_draw_odds": 0.2555,
+      "p_away_odds": 0.5472,
+      "expected_goals_home": 1.24,
+      "expected_goals_away": 1.359,
+      "elo_home": 1799,
+      "elo_away": 1792,
+      "form_home": 0.48,
+      "form_away": 0.965,
+      "source": "ensemble",
+      "odds_home": 4.88,
+      "odds_draw": 3.77,
+      "odds_away": 1.76,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1165
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1098
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.101
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0851
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0777
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0687
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0656
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0572
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0528
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0386
+        }
+      ],
+      "confidence": 0.5045,
+      "outcome": "win2"
+    },
+    {
+      "group": "E",
+      "home": "Germany",
+      "away": "Curacao",
+      "date_iso": "2026-06-14T17:00:00Z",
+      "date_local": "14.06.2026",
+      "time_local": "17:00",
+      "tipp_home": 5,
+      "tipp_away": 0,
+      "p_home": 0.94,
+      "p_draw": 0.0475,
+      "p_away": 0.0125,
+      "p_home_model": 0.9903,
+      "p_draw_model": 0.0081,
+      "p_away_model": 0.0015,
+      "p_home_odds": 0.9185,
+      "p_draw_odds": 0.0643,
+      "p_away_odds": 0.0172,
+      "expected_goals_home": 5.554,
+      "expected_goals_away": 0.197,
+      "elo_home": 1870,
+      "elo_away": 1500,
+      "form_home": 1.0,
+      "form_away": 0.5,
+      "source": "ensemble",
+      "odds_home": 1.05,
+      "odds_draw": 15.0,
+      "odds_away": 56.0,
+      "top10_scores": [
+        {
+          "home": 5,
+          "away": 0,
+          "prob": 0.1574
+        },
+        {
+          "home": 6,
+          "away": 0,
+          "prob": 0.1457
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.1417
+        },
+        {
+          "home": 7,
+          "away": 0,
+          "prob": 0.1156
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.102
+        },
+        {
+          "home": 8,
+          "away": 0,
+          "prob": 0.0803
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0551
+        },
+        {
+          "home": 5,
+          "away": 1,
+          "prob": 0.031
+        },
+        {
+          "home": 6,
+          "away": 1,
+          "prob": 0.0287
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0279
+        }
+      ],
+      "confidence": 0.94,
+      "outcome": "win1"
+    },
+    {
+      "group": "E",
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "date_iso": "2026-06-20T20:00:00Z",
+      "date_local": "20.06.2026",
+      "time_local": "20:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6277,
+      "p_draw": 0.2087,
+      "p_away": 0.1636,
+      "p_home_model": 0.6745,
+      "p_draw_model": 0.1902,
+      "p_away_model": 0.1353,
+      "p_home_odds": 0.6076,
+      "p_draw_odds": 0.2167,
+      "p_away_odds": 0.1757,
+      "expected_goals_home": 1.98,
+      "expected_goals_away": 0.73,
+      "elo_home": 1870,
+      "elo_away": 1734,
+      "form_home": 1.0,
+      "form_away": 0.89,
+      "source": "ensemble",
+      "odds_home": 1.53,
+      "odds_draw": 4.29,
+      "odds_away": 5.29,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1385
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1304
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0952
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0895
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0861
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0629
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0598
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0553
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0426
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0351
+        }
+      ],
+      "confidence": 0.6277,
+      "outcome": "win1"
+    },
+    {
+      "group": "E",
+      "home": "Germany",
+      "away": "Ecuador",
+      "date_iso": "2026-06-25T20:00:00Z",
+      "date_local": "25.06.2026",
+      "time_local": "20:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5255,
+      "p_draw": 0.2555,
+      "p_away": 0.219,
+      "p_home_model": 0.4793,
+      "p_draw_model": 0.2666,
+      "p_away_model": 0.2541,
+      "p_home_odds": 0.5453,
+      "p_draw_odds": 0.2507,
+      "p_away_odds": 0.204,
+      "expected_goals_home": 1.305,
+      "expected_goals_away": 0.856,
+      "elo_home": 1870,
+      "elo_away": 1820,
+      "form_home": 1.0,
+      "form_away": 0.86,
+      "source": "ensemble",
+      "odds_home": 4.57,
+      "odds_draw": 3.72,
+      "odds_away": 1.71,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1593
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1197
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1077
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1062
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.098
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.084
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0551
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0426
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0422
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0365
+        }
+      ],
+      "confidence": 0.5255,
+      "outcome": "win1"
+    },
+    {
+      "group": "E",
+      "home": "Curacao",
+      "away": "Ivory Coast",
+      "date_iso": "2026-06-25T20:00:00Z",
+      "date_local": "25.06.2026",
+      "time_local": "20:00",
+      "tipp_home": 0,
+      "tipp_away": 2,
+      "p_home": 0.0684,
+      "p_draw": 0.1365,
+      "p_away": 0.7951,
+      "p_home_model": 0.0263,
+      "p_draw_model": 0.1074,
+      "p_away_model": 0.8662,
+      "p_home_odds": 0.0864,
+      "p_draw_odds": 0.149,
+      "p_away_odds": 0.7646,
+      "expected_goals_home": 0.237,
+      "expected_goals_away": 2.459,
+      "elo_home": 1500,
+      "elo_away": 1734,
+      "form_home": 0.5,
+      "form_away": 0.89,
+      "source": "ensemble",
+      "odds_home": 10.8,
+      "odds_draw": 6.26,
+      "odds_away": 1.22,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.2043
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1689
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.1675
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.103
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0648
+        },
+        {
+          "home": 0,
+          "away": 5,
+          "prob": 0.0506
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0483
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0396
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0365
+        },
+        {
+          "home": 1,
+          "away": 4,
+          "prob": 0.0244
+        }
+      ],
+      "confidence": 0.7951,
+      "outcome": "win2"
+    },
+    {
+      "group": "E",
+      "home": "Curacao",
+      "away": "Ecuador",
+      "date_iso": "2026-06-21T00:00:00Z",
+      "date_local": "21.06.2026",
+      "time_local": "00:00",
+      "tipp_home": 0,
+      "tipp_away": 2,
+      "p_home": 0.0602,
+      "p_draw": 0.113,
+      "p_away": 0.8268,
+      "p_home_model": 0.0115,
+      "p_draw_model": 0.0691,
+      "p_away_model": 0.9194,
+      "p_home_odds": 0.081,
+      "p_draw_odds": 0.1319,
+      "p_away_odds": 0.7871,
+      "expected_goals_home": 0.156,
+      "expected_goals_away": 2.884,
+      "elo_home": 1500,
+      "elo_away": 1820,
+      "form_home": 0.5,
+      "form_away": 0.86,
+      "source": "ensemble",
+      "odds_home": 1.18,
+      "odds_draw": 7.04,
+      "odds_away": 11.47,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1995
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.1918
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1399
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.1383
+        },
+        {
+          "home": 0,
+          "away": 5,
+          "prob": 0.0798
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0465
+        },
+        {
+          "home": 0,
+          "away": 6,
+          "prob": 0.0384
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0311
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0299
+        },
+        {
+          "home": 1,
+          "away": 4,
+          "prob": 0.0216
+        }
+      ],
+      "confidence": 0.8268,
+      "outcome": "win2"
+    },
+    {
+      "group": "E",
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "date_iso": "2026-06-14T23:00:00Z",
+      "date_local": "14.06.2026",
+      "time_local": "23:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.2457,
+      "p_draw": 0.3378,
+      "p_away": 0.4165,
+      "p_home_model": 0.2116,
+      "p_draw_model": 0.3222,
+      "p_away_model": 0.4662,
+      "p_home_odds": 0.2603,
+      "p_draw_odds": 0.3446,
+      "p_away_odds": 0.3952,
+      "expected_goals_home": 0.578,
+      "expected_goals_away": 1.028,
+      "elo_home": 1734,
+      "elo_away": 1820,
+      "form_home": 0.89,
+      "form_away": 0.86,
+      "source": "ensemble",
+      "odds_home": 3.72,
+      "odds_draw": 2.81,
+      "odds_away": 2.45,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.2147
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1924
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1243
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1109
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1061
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0613
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0364
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0344
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0335
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.021
+        }
+      ],
+      "confidence": 0.4165,
+      "outcome": "win2"
+    },
+    {
+      "group": "F",
+      "home": "Netherlands",
+      "away": "Japan",
+      "date_iso": "2026-06-14T20:00:00Z",
+      "date_local": "14.06.2026",
+      "time_local": "20:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.4758,
+      "p_draw": 0.2598,
+      "p_away": 0.2644,
+      "p_home_model": 0.4642,
+      "p_draw_model": 0.2449,
+      "p_away_model": 0.2909,
+      "p_home_odds": 0.4808,
+      "p_draw_odds": 0.2662,
+      "p_away_odds": 0.253,
+      "expected_goals_home": 1.452,
+      "expected_goals_away": 1.084,
+      "elo_home": 1859,
+      "elo_away": 1869,
+      "form_home": 0.44,
+      "form_away": 1.0,
+      "source": "ensemble",
+      "odds_home": 2.01,
+      "odds_draw": 3.63,
+      "odds_away": 3.82,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1237
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1159
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0946
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0905
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0835
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0705
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0675
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.049
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0465
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0438
+        }
+      ],
+      "confidence": 0.4758,
+      "outcome": "win1"
+    },
+    {
+      "group": "F",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "date_iso": "2026-06-20T17:00:00Z",
+      "date_local": "20.06.2026",
+      "time_local": "17:00",
+      "tipp_home": 2,
+      "tipp_away": 1,
+      "p_home": 0.59,
+      "p_draw": 0.2207,
+      "p_away": 0.1893,
+      "p_home_model": 0.6172,
+      "p_draw_model": 0.1897,
+      "p_away_model": 0.1931,
+      "p_home_odds": 0.5784,
+      "p_draw_odds": 0.2339,
+      "p_away_odds": 0.1877,
+      "expected_goals_home": 2.132,
+      "expected_goals_away": 1.095,
+      "elo_home": 1859,
+      "elo_away": 1660,
+      "form_home": 0.44,
+      "form_away": 0.515,
+      "source": "ensemble",
+      "odds_home": 1.61,
+      "odds_draw": 3.98,
+      "odds_away": 4.96,
+      "top10_scores": [
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0988
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0911
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0902
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0862
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0702
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0641
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0541
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0507
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0499
+        },
+        {
+          "home": 3,
+          "away": 2,
+          "prob": 0.0384
+        }
+      ],
+      "confidence": 0.59,
+      "outcome": "win1"
+    },
+    {
+      "group": "F",
+      "home": "Netherlands",
+      "away": "Tunisia",
+      "date_iso": "2026-06-25T23:00:00Z",
+      "date_local": "25.06.2026",
+      "time_local": "23:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6267,
+      "p_draw": 0.2209,
+      "p_away": 0.1525,
+      "p_home_model": 0.6144,
+      "p_draw_model": 0.2226,
+      "p_away_model": 0.1631,
+      "p_home_odds": 0.632,
+      "p_draw_odds": 0.2201,
+      "p_away_odds": 0.1479,
+      "expected_goals_home": 1.683,
+      "expected_goals_away": 0.714,
+      "elo_home": 1859,
+      "elo_away": 1664,
+      "form_home": 0.44,
+      "form_away": 0.23,
+      "source": "ensemble",
+      "odds_home": 6.28,
+      "odds_draw": 4.22,
+      "odds_away": 1.47,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1608
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1289
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1017
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.092
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0833
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0726
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0723
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0516
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.039
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0328
+        }
+      ],
+      "confidence": 0.6267,
+      "outcome": "win1"
+    },
+    {
+      "group": "F",
+      "home": "Japan",
+      "away": "Sweden",
+      "date_iso": "2026-06-25T23:00:00Z",
+      "date_local": "25.06.2026",
+      "time_local": "23:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.4694,
+      "p_draw": 0.2655,
+      "p_away": 0.2651,
+      "p_home_model": 0.4927,
+      "p_draw_model": 0.2379,
+      "p_away_model": 0.2695,
+      "p_home_odds": 0.4594,
+      "p_draw_odds": 0.2773,
+      "p_away_odds": 0.2633,
+      "expected_goals_home": 1.541,
+      "expected_goals_away": 1.06,
+      "elo_home": 1869,
+      "elo_away": 1660,
+      "form_home": 1.0,
+      "form_away": 0.515,
+      "source": "ensemble",
+      "odds_home": 2.04,
+      "odds_draw": 3.38,
+      "odds_away": 3.56,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1228
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1127
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0934
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0881
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0871
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0657
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0642
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0495
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.048
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0453
+        }
+      ],
+      "confidence": 0.4694,
+      "outcome": "win1"
+    },
+    {
+      "group": "F",
+      "home": "Japan",
+      "away": "Tunisia",
+      "date_iso": "2026-06-21T04:00:00Z",
+      "date_local": "21.06.2026",
+      "time_local": "04:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5224,
+      "p_draw": 0.2759,
+      "p_away": 0.2017,
+      "p_home_model": 0.4961,
+      "p_draw_model": 0.2846,
+      "p_away_model": 0.2193,
+      "p_home_odds": 0.5337,
+      "p_draw_odds": 0.2722,
+      "p_away_odds": 0.1941,
+      "expected_goals_home": 1.217,
+      "expected_goals_away": 0.691,
+      "elo_home": 1869,
+      "elo_away": 1664,
+      "form_home": 1.0,
+      "form_away": 0.23,
+      "source": "ensemble",
+      "odds_home": 4.81,
+      "odds_draw": 3.43,
+      "odds_away": 1.75,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1893
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1397
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1161
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1113
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1098
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0759
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0445
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0431
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0354
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0308
+        }
+      ],
+      "confidence": 0.5224,
+      "outcome": "win1"
+    },
+    {
+      "group": "F",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "date_iso": "2026-06-15T02:00:00Z",
+      "date_local": "15.06.2026",
+      "time_local": "02:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.4767,
+      "p_draw": 0.2741,
+      "p_away": 0.2492,
+      "p_home_model": 0.4197,
+      "p_draw_model": 0.2672,
+      "p_away_model": 0.3131,
+      "p_home_odds": 0.5011,
+      "p_draw_odds": 0.2771,
+      "p_away_odds": 0.2218,
+      "expected_goals_home": 1.229,
+      "expected_goals_away": 1.015,
+      "elo_home": 1660,
+      "elo_away": 1664,
+      "form_home": 0.515,
+      "form_away": 0.23,
+      "source": "ensemble",
+      "odds_home": 1.93,
+      "odds_draw": 3.49,
+      "odds_away": 4.36,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1396
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.123
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1169
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0968
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0813
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0801
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0671
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0546
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0412
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0333
+        }
+      ],
+      "confidence": 0.4767,
+      "outcome": "win1"
+    },
+    {
+      "group": "G",
+      "home": "Belgium",
+      "away": "Egypt",
+      "date_iso": "2026-06-15T19:00:00Z",
+      "date_local": "15.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5763,
+      "p_draw": 0.2441,
+      "p_away": 0.1796,
+      "p_home_model": 0.5747,
+      "p_draw_model": 0.243,
+      "p_away_model": 0.1823,
+      "p_home_odds": 0.577,
+      "p_draw_odds": 0.2446,
+      "p_away_odds": 0.1784,
+      "expected_goals_home": 1.517,
+      "expected_goals_away": 0.71,
+      "elo_home": 1801,
+      "elo_away": 1728,
+      "form_home": 0.915,
+      "form_away": 0.48,
+      "source": "ensemble",
+      "odds_home": 1.67,
+      "odds_draw": 3.94,
+      "odds_away": 5.4,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1718
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1242
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.108
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0998
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0881
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0847
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0628
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0446
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0412
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0313
+        }
+      ],
+      "confidence": 0.5763,
+      "outcome": "win1"
+    },
+    {
+      "group": "G",
+      "home": "Belgium",
+      "away": "Iran",
+      "date_iso": "2026-06-21T19:00:00Z",
+      "date_local": "21.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6569,
+      "p_draw": 0.2044,
+      "p_away": 0.1387,
+      "p_home_model": 0.6105,
+      "p_draw_model": 0.2099,
+      "p_away_model": 0.1796,
+      "p_home_odds": 0.6768,
+      "p_draw_odds": 0.202,
+      "p_away_odds": 0.1212,
+      "expected_goals_home": 1.831,
+      "expected_goals_away": 0.86,
+      "elo_home": 1801,
+      "elo_away": 1804,
+      "form_home": 0.915,
+      "form_away": 0.855,
+      "source": "ensemble",
+      "odds_home": 1.37,
+      "odds_draw": 4.59,
+      "odds_away": 7.65,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1317
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1137
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0993
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0978
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0694
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0658
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0604
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0597
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0459
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.042
+        }
+      ],
+      "confidence": 0.6569,
+      "outcome": "win1"
+    },
+    {
+      "group": "G",
+      "home": "Belgium",
+      "away": "New Zealand",
+      "date_iso": "2026-06-27T03:00:00Z",
+      "date_local": "27.06.2026",
+      "time_local": "03:00",
+      "tipp_home": 2,
+      "tipp_away": 0,
+      "p_home": 0.7599,
+      "p_draw": 0.1536,
+      "p_away": 0.0865,
+      "p_home_model": 0.8105,
+      "p_draw_model": 0.1301,
+      "p_away_model": 0.0595,
+      "p_home_odds": 0.7382,
+      "p_draw_odds": 0.1637,
+      "p_away_odds": 0.0981,
+      "expected_goals_home": 2.432,
+      "expected_goals_away": 0.478,
+      "elo_home": 1801,
+      "elo_away": 1681,
+      "form_home": 0.915,
+      "form_away": 0.17,
+      "source": "ensemble",
+      "odds_home": 9.48,
+      "odds_draw": 5.68,
+      "odds_away": 1.26,
+      "top10_scores": [
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1612
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.137
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1307
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0794
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0771
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0625
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.059
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0501
+        },
+        {
+          "home": 5,
+          "away": 0,
+          "prob": 0.0386
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.038
+        }
+      ],
+      "confidence": 0.7599,
+      "outcome": "win1"
+    },
+    {
+      "group": "G",
+      "home": "Egypt",
+      "away": "Iran",
+      "date_iso": "2026-06-27T03:00:00Z",
+      "date_local": "27.06.2026",
+      "time_local": "03:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.397,
+      "p_draw": 0.312,
+      "p_away": 0.291,
+      "p_home_model": 0.3463,
+      "p_draw_model": 0.3054,
+      "p_away_model": 0.3483,
+      "p_home_odds": 0.4188,
+      "p_draw_odds": 0.3148,
+      "p_away_odds": 0.2665,
+      "expected_goals_home": 0.919,
+      "expected_goals_away": 0.923,
+      "elo_home": 1728,
+      "elo_away": 1804,
+      "form_home": 0.48,
+      "form_away": 0.855,
+      "source": "ensemble",
+      "odds_home": 2.24,
+      "odds_draw": 2.98,
+      "odds_away": 3.52,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1556
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.155
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.149
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.125
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0675
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0669
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0621
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0618
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0285
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0208
+        }
+      ],
+      "confidence": 0.397,
+      "outcome": "win1"
+    },
+    {
+      "group": "G",
+      "home": "Egypt",
+      "away": "New Zealand",
+      "date_iso": "2026-06-22T01:00:00Z",
+      "date_local": "22.06.2026",
+      "time_local": "01:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5394,
+      "p_draw": 0.259,
+      "p_away": 0.2015,
+      "p_home_model": 0.546,
+      "p_draw_model": 0.2902,
+      "p_away_model": 0.1638,
+      "p_home_odds": 0.5366,
+      "p_draw_odds": 0.2457,
+      "p_away_odds": 0.2177,
+      "expected_goals_home": 1.221,
+      "expected_goals_away": 0.514,
+      "elo_home": 1728,
+      "elo_away": 1681,
+      "form_home": 0.48,
+      "form_away": 0.17,
+      "source": "ensemble",
+      "odds_home": 4.29,
+      "odds_draw": 3.8,
+      "odds_away": 1.74,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.2232
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1686
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1315
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1029
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0984
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0676
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0536
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0284
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0275
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0233
+        }
+      ],
+      "confidence": 0.5394,
+      "outcome": "win1"
+    },
+    {
+      "group": "G",
+      "home": "Iran",
+      "away": "New Zealand",
+      "date_iso": "2026-06-16T01:00:00Z",
+      "date_local": "16.06.2026",
+      "time_local": "01:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5296,
+      "p_draw": 0.2695,
+      "p_away": 0.2008,
+      "p_home_model": 0.5892,
+      "p_draw_model": 0.2477,
+      "p_away_model": 0.1631,
+      "p_home_odds": 0.5041,
+      "p_draw_odds": 0.2789,
+      "p_away_odds": 0.217,
+      "expected_goals_home": 1.48,
+      "expected_goals_away": 0.62,
+      "elo_home": 1804,
+      "elo_away": 1681,
+      "form_home": 0.855,
+      "form_away": 0.17,
+      "source": "ensemble",
+      "odds_home": 1.92,
+      "odds_draw": 3.47,
+      "odds_away": 4.46,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1891
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1341
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1146
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1045
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0838
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0831
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0662
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.041
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0348
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0258
+        }
+      ],
+      "confidence": 0.5296,
+      "outcome": "win1"
+    },
+    {
+      "group": "H",
+      "home": "Spain",
+      "away": "Cape Verde",
+      "date_iso": "2026-06-15T16:00:00Z",
+      "date_local": "15.06.2026",
+      "time_local": "16:00",
+      "tipp_home": 3,
+      "tipp_away": 0,
+      "p_home": 0.8964,
+      "p_draw": 0.0744,
+      "p_away": 0.0293,
+      "p_home_model": 0.9213,
+      "p_draw_model": 0.0586,
+      "p_away_model": 0.0201,
+      "p_home_odds": 0.8857,
+      "p_draw_odds": 0.0811,
+      "p_away_odds": 0.0332,
+      "expected_goals_home": 3.418,
+      "expected_goals_away": 0.376,
+      "elo_home": 1998,
+      "elo_away": 1586,
+      "form_home": 0.62,
+      "form_away": 0.37,
+      "source": "ensemble",
+      "odds_home": 1.08,
+      "odds_draw": 11.8,
+      "odds_away": 28.85,
+      "top10_scores": [
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.151
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1326
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.1291
+        },
+        {
+          "home": 5,
+          "away": 0,
+          "prob": 0.0882
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0796
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0568
+        },
+        {
+          "home": 6,
+          "away": 0,
+          "prob": 0.0503
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0499
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0486
+        },
+        {
+          "home": 5,
+          "away": 1,
+          "prob": 0.0332
+        }
+      ],
+      "confidence": 0.8964,
+      "outcome": "win1"
+    },
+    {
+      "group": "H",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "date_iso": "2026-06-21T16:00:00Z",
+      "date_local": "21.06.2026",
+      "time_local": "16:00",
+      "tipp_home": 2,
+      "tipp_away": 0,
+      "p_home": 0.8535,
+      "p_draw": 0.1011,
+      "p_away": 0.0454,
+      "p_home_model": 0.8343,
+      "p_draw_model": 0.1188,
+      "p_away_model": 0.0468,
+      "p_home_odds": 0.8617,
+      "p_draw_odds": 0.0935,
+      "p_away_odds": 0.0448,
+      "expected_goals_home": 2.494,
+      "expected_goals_away": 0.406,
+      "elo_home": 1998,
+      "elo_away": 1657,
+      "form_home": 0.62,
+      "form_away": 0.4,
+      "source": "ensemble",
+      "odds_home": 1.09,
+      "odds_draw": 10.04,
+      "odds_away": 20.96,
+      "top10_scores": [
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1713
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1424
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1412
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0888
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0696
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0578
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0519
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0511
+        },
+        {
+          "home": 5,
+          "away": 0,
+          "prob": 0.0443
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0361
+        }
+      ],
+      "confidence": 0.8535,
+      "outcome": "win1"
+    },
+    {
+      "group": "H",
+      "home": "Spain",
+      "away": "Uruguay",
+      "date_iso": "2026-06-27T00:00:00Z",
+      "date_local": "27.06.2026",
+      "time_local": "00:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5825,
+      "p_draw": 0.2392,
+      "p_away": 0.1783,
+      "p_home_model": 0.5833,
+      "p_draw_model": 0.2386,
+      "p_away_model": 0.1781,
+      "p_home_odds": 0.5822,
+      "p_draw_odds": 0.2394,
+      "p_away_odds": 0.1784,
+      "expected_goals_home": 1.552,
+      "expected_goals_away": 0.71,
+      "elo_home": 1998,
+      "elo_away": 1804,
+      "form_home": 0.62,
+      "form_away": 0.45,
+      "source": "ensemble",
+      "odds_home": 5.22,
+      "odds_draw": 3.89,
+      "odds_away": 1.6,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1696
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1254
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1068
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0961
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0891
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.082
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0648
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0461
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0408
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0316
+        }
+      ],
+      "confidence": 0.5825,
+      "outcome": "win1"
+    },
+    {
+      "group": "H",
+      "home": "Cape Verde",
+      "away": "Saudi Arabia",
+      "date_iso": "2026-06-27T00:00:00Z",
+      "date_local": "27.06.2026",
+      "time_local": "00:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.3329,
+      "p_draw": 0.2929,
+      "p_away": 0.3742,
+      "p_home_model": 0.2545,
+      "p_draw_model": 0.3003,
+      "p_away_model": 0.4452,
+      "p_home_odds": 0.3666,
+      "p_draw_odds": 0.2897,
+      "p_away_odds": 0.3438,
+      "expected_goals_home": 0.737,
+      "expected_goals_away": 1.091,
+      "elo_home": 1586,
+      "elo_away": 1657,
+      "form_home": 0.37,
+      "form_away": 0.4,
+      "source": "ensemble",
+      "odds_home": 2.56,
+      "odds_draw": 3.24,
+      "odds_away": 2.73,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1843
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1516
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1275
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1202
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0956
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0705
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0477
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0437
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0348
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.026
+        }
+      ],
+      "confidence": 0.3742,
+      "outcome": "win2"
+    },
+    {
+      "group": "H",
+      "home": "Cape Verde",
+      "away": "Uruguay",
+      "date_iso": "2026-06-21T22:00:00Z",
+      "date_local": "21.06.2026",
+      "time_local": "22:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.1137,
+      "p_draw": 0.2025,
+      "p_away": 0.6838,
+      "p_home_model": 0.0858,
+      "p_draw_model": 0.1842,
+      "p_away_model": 0.73,
+      "p_home_odds": 0.1256,
+      "p_draw_odds": 0.2103,
+      "p_away_odds": 0.6641,
+      "expected_goals_home": 0.459,
+      "expected_goals_away": 1.908,
+      "elo_home": 1586,
+      "elo_away": 1804,
+      "form_home": 0.37,
+      "form_away": 0.45,
+      "source": "ensemble",
+      "odds_home": 1.4,
+      "odds_draw": 4.42,
+      "odds_away": 7.4,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1847
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1707
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.1086
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0881
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0783
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0764
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.0518
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0498
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0488
+        },
+        {
+          "home": 1,
+          "away": 4,
+          "prob": 0.0238
+        }
+      ],
+      "confidence": 0.6838,
+      "outcome": "win2"
+    },
+    {
+      "group": "H",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "date_iso": "2026-06-15T22:00:00Z",
+      "date_local": "15.06.2026",
+      "time_local": "22:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.1343,
+      "p_draw": 0.2329,
+      "p_away": 0.6327,
+      "p_home_model": 0.1387,
+      "p_draw_model": 0.2607,
+      "p_away_model": 0.6007,
+      "p_home_odds": 0.1325,
+      "p_draw_odds": 0.221,
+      "p_away_odds": 0.6465,
+      "expected_goals_home": 0.495,
+      "expected_goals_away": 1.392,
+      "elo_home": 1657,
+      "elo_away": 1804,
+      "form_home": 0.4,
+      "form_away": 0.45,
+      "source": "ensemble",
+      "odds_home": 7.27,
+      "odds_draw": 4.36,
+      "odds_away": 1.49,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.2182
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1468
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1441
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0971
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0823
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0727
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0681
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0337
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0259
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.0237
+        }
+      ],
+      "confidence": 0.6327,
+      "outcome": "win2"
+    },
+    {
+      "group": "I",
+      "home": "France",
+      "away": "Senegal",
+      "date_iso": "2026-06-16T19:00:00Z",
+      "date_local": "16.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6283,
+      "p_draw": 0.2251,
+      "p_away": 0.1466,
+      "p_home_model": 0.575,
+      "p_draw_model": 0.245,
+      "p_away_model": 0.18,
+      "p_home_odds": 0.6512,
+      "p_draw_odds": 0.2166,
+      "p_away_odds": 0.1322,
+      "expected_goals_home": 1.502,
+      "expected_goals_away": 0.694,
+      "elo_home": 1928,
+      "elo_away": 1797,
+      "form_home": 0.6,
+      "form_away": 0.49,
+      "source": "ensemble",
+      "odds_home": 1.48,
+      "odds_draw": 4.45,
+      "odds_away": 7.29,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1753
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1255
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1078
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1032
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0871
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0853
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0628
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0436
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0402
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0302
+        }
+      ],
+      "confidence": 0.6283,
+      "outcome": "win1"
+    },
+    {
+      "group": "I",
+      "home": "France",
+      "away": "Iraq",
+      "date_iso": "2026-06-22T21:00:00Z",
+      "date_local": "22.06.2026",
+      "time_local": "21:00",
+      "tipp_home": 2,
+      "tipp_away": 0,
+      "p_home": 0.8243,
+      "p_draw": 0.128,
+      "p_away": 0.0477,
+      "p_home_model": 0.7921,
+      "p_draw_model": 0.1449,
+      "p_away_model": 0.063,
+      "p_home_odds": 0.8381,
+      "p_draw_odds": 0.1208,
+      "p_away_odds": 0.0411,
+      "expected_goals_home": 2.246,
+      "expected_goals_away": 0.442,
+      "elo_home": 1928,
+      "elo_away": 1687,
+      "form_home": 0.6,
+      "form_away": 0.62,
+      "source": "ensemble",
+      "odds_home": 1.12,
+      "odds_draw": 7.77,
+      "odds_away": 22.86,
+      "top10_scores": [
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1716
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1575
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1285
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0759
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0721
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0633
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0628
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0568
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0348
+        },
+        {
+          "home": 5,
+          "away": 0,
+          "prob": 0.0324
+        }
+      ],
+      "confidence": 0.8243,
+      "outcome": "win1"
+    },
+    {
+      "group": "I",
+      "home": "France",
+      "away": "Norway",
+      "date_iso": "2026-06-26T19:00:00Z",
+      "date_local": "26.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5194,
+      "p_draw": 0.2509,
+      "p_away": 0.2297,
+      "p_home_model": 0.5324,
+      "p_draw_model": 0.2217,
+      "p_away_model": 0.2459,
+      "p_home_odds": 0.5139,
+      "p_draw_odds": 0.2634,
+      "p_away_odds": 0.2227,
+      "expected_goals_home": 1.731,
+      "expected_goals_away": 1.087,
+      "elo_home": 1928,
+      "elo_away": 1802,
+      "form_home": 0.6,
+      "form_away": 0.605,
+      "source": "ensemble",
+      "odds_home": 4.2,
+      "odds_draw": 3.55,
+      "odds_away": 1.82,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1113
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1045
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0973
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0895
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0728
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0611
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0561
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0529
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0519
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0516
+        }
+      ],
+      "confidence": 0.5194,
+      "outcome": "win1"
+    },
+    {
+      "group": "I",
+      "home": "Senegal",
+      "away": "Iraq",
+      "date_iso": "2026-06-26T19:00:00Z",
+      "date_local": "26.06.2026",
+      "time_local": "19:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6361,
+      "p_draw": 0.2257,
+      "p_away": 0.1382,
+      "p_home_model": 0.569,
+      "p_draw_model": 0.2646,
+      "p_away_model": 0.1664,
+      "p_home_odds": 0.6648,
+      "p_draw_odds": 0.2091,
+      "p_away_odds": 0.1261,
+      "expected_goals_home": 1.366,
+      "expected_goals_away": 0.582,
+      "elo_home": 1797,
+      "elo_away": 1687,
+      "form_home": 0.49,
+      "form_away": 0.62,
+      "source": "ensemble",
+      "odds_home": 1.4,
+      "odds_draw": 4.45,
+      "odds_away": 7.38,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.2026
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1345
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.133
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1054
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0909
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0775
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0606
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0353
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.033
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0242
+        }
+      ],
+      "confidence": 0.6361,
+      "outcome": "win1"
+    },
+    {
+      "group": "I",
+      "home": "Senegal",
+      "away": "Norway",
+      "date_iso": "2026-06-23T00:00:00Z",
+      "date_local": "23.06.2026",
+      "time_local": "00:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.2873,
+      "p_draw": 0.2618,
+      "p_away": 0.4509,
+      "p_home_model": 0.2864,
+      "p_draw_model": 0.2475,
+      "p_away_model": 0.4661,
+      "p_home_odds": 0.2876,
+      "p_draw_odds": 0.2679,
+      "p_away_odds": 0.4444,
+      "expected_goals_home": 1.053,
+      "expected_goals_away": 1.432,
+      "elo_home": 1797,
+      "elo_away": 1802,
+      "form_home": 0.49,
+      "form_away": 0.605,
+      "source": "ensemble",
+      "odds_home": 2.11,
+      "odds_draw": 3.5,
+      "odds_away": 3.26,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1281
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1169
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0966
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.09
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0854
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0745
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0662
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0474
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0462
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0429
+        }
+      ],
+      "confidence": 0.4509,
+      "outcome": "win2"
+    },
+    {
+      "group": "I",
+      "home": "Iraq",
+      "away": "Norway",
+      "date_iso": "2026-06-16T22:00:00Z",
+      "date_local": "16.06.2026",
+      "time_local": "22:00",
+      "tipp_home": 0,
+      "tipp_away": 2,
+      "p_home": 0.0804,
+      "p_draw": 0.1445,
+      "p_away": 0.7751,
+      "p_home_model": 0.1096,
+      "p_draw_model": 0.1708,
+      "p_away_model": 0.7196,
+      "p_home_odds": 0.0679,
+      "p_draw_odds": 0.1332,
+      "p_away_odds": 0.7989,
+      "expected_goals_home": 0.671,
+      "expected_goals_away": 2.141,
+      "elo_home": 1687,
+      "elo_away": 1802,
+      "form_home": 0.62,
+      "form_away": 0.605,
+      "source": "ensemble",
+      "odds_home": 14.24,
+      "odds_draw": 7.26,
+      "odds_away": 1.21,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1377
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1347
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0983
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0925
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0803
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.066
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.054
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.0526
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0464
+        },
+        {
+          "home": 1,
+          "away": 4,
+          "prob": 0.0353
+        }
+      ],
+      "confidence": 0.7751,
+      "outcome": "win2"
+    },
+    {
+      "group": "J",
+      "home": "Argentina",
+      "away": "Algeria",
+      "date_iso": "2026-06-17T01:00:00Z",
+      "date_local": "17.06.2026",
+      "time_local": "01:00",
+      "tipp_home": 2,
+      "tipp_away": 0,
+      "p_home": 0.6966,
+      "p_draw": 0.1984,
+      "p_away": 0.105,
+      "p_home_model": 0.7282,
+      "p_draw_model": 0.1697,
+      "p_away_model": 0.1022,
+      "p_home_odds": 0.6831,
+      "p_draw_odds": 0.2107,
+      "p_away_odds": 0.1062,
+      "expected_goals_home": 2.125,
+      "expected_goals_away": 0.625,
+      "elo_home": 1979,
+      "elo_away": 1782,
+      "form_home": 1.0,
+      "form_away": 0.765,
+      "source": "ensemble",
+      "odds_home": 1.41,
+      "odds_draw": 4.57,
+      "odds_away": 9.07,
+      "top10_scores": [
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1444
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1419
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1023
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0902
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.079
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0639
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.058
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0544
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0459
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.034
+        }
+      ],
+      "confidence": 0.6966,
+      "outcome": "win1"
+    },
+    {
+      "group": "J",
+      "home": "Argentina",
+      "away": "Austria",
+      "date_iso": "2026-06-22T17:00:00Z",
+      "date_local": "22.06.2026",
+      "time_local": "17:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5948,
+      "p_draw": 0.2401,
+      "p_away": 0.1651,
+      "p_home_model": 0.634,
+      "p_draw_model": 0.2149,
+      "p_away_model": 0.1511,
+      "p_home_odds": 0.578,
+      "p_draw_odds": 0.2509,
+      "p_away_odds": 0.1711,
+      "expected_goals_home": 1.744,
+      "expected_goals_away": 0.692,
+      "elo_home": 1979,
+      "elo_away": 1761,
+      "form_home": 1.0,
+      "form_away": 0.945,
+      "source": "ensemble",
+      "odds_home": 1.61,
+      "odds_draw": 3.71,
+      "odds_away": 5.44,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1601
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1331
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0982
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0921
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0802
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0774
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.068
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0535
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0365
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0337
+        }
+      ],
+      "confidence": 0.5948,
+      "outcome": "win1"
+    },
+    {
+      "group": "J",
+      "home": "Argentina",
+      "away": "Jordan",
+      "date_iso": "2026-06-28T02:00:00Z",
+      "date_local": "28.06.2026",
+      "time_local": "02:00",
+      "tipp_home": 2,
+      "tipp_away": 0,
+      "p_home": 0.7928,
+      "p_draw": 0.1372,
+      "p_away": 0.07,
+      "p_home_model": 0.7868,
+      "p_draw_model": 0.1464,
+      "p_away_model": 0.0668,
+      "p_home_odds": 0.7953,
+      "p_draw_odds": 0.1333,
+      "p_away_odds": 0.0714,
+      "expected_goals_home": 2.25,
+      "expected_goals_away": 0.467,
+      "elo_home": 1979,
+      "elo_away": 1705,
+      "form_home": 1.0,
+      "form_away": 0.14,
+      "source": "ensemble",
+      "odds_home": 13.04,
+      "odds_draw": 6.98,
+      "odds_away": 1.17,
+      "top10_scores": [
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1673
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1535
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1255
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0782
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0706
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0646
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0612
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0586
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0357
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.033
+        }
+      ],
+      "confidence": 0.7928,
+      "outcome": "win1"
+    },
+    {
+      "group": "J",
+      "home": "Algeria",
+      "away": "Austria",
+      "date_iso": "2026-06-28T02:00:00Z",
+      "date_local": "28.06.2026",
+      "time_local": "02:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.2825,
+      "p_draw": 0.2908,
+      "p_away": 0.4267,
+      "p_home_model": 0.2903,
+      "p_draw_model": 0.2347,
+      "p_away_model": 0.4749,
+      "p_home_odds": 0.2792,
+      "p_draw_odds": 0.3148,
+      "p_away_odds": 0.4061,
+      "expected_goals_home": 1.154,
+      "expected_goals_away": 1.558,
+      "elo_home": 1782,
+      "elo_away": 1761,
+      "form_home": 0.765,
+      "form_away": 0.945,
+      "source": "ensemble",
+      "odds_home": 3.36,
+      "odds_draw": 2.98,
+      "odds_away": 2.31,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1118
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.111
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.093
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.085
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0806
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0689
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.058
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0537
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0483
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0442
+        }
+      ],
+      "confidence": 0.4267,
+      "outcome": "win2"
+    },
+    {
+      "group": "J",
+      "home": "Algeria",
+      "away": "Jordan",
+      "date_iso": "2026-06-23T03:00:00Z",
+      "date_local": "23.06.2026",
+      "time_local": "03:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5843,
+      "p_draw": 0.2281,
+      "p_away": 0.1877,
+      "p_home_model": 0.4813,
+      "p_draw_model": 0.2425,
+      "p_away_model": 0.2762,
+      "p_home_odds": 0.6284,
+      "p_draw_odds": 0.2219,
+      "p_away_odds": 0.1497,
+      "expected_goals_home": 1.49,
+      "expected_goals_away": 1.052,
+      "elo_home": 1782,
+      "elo_away": 1705,
+      "form_home": 0.765,
+      "form_away": 0.14,
+      "source": "ensemble",
+      "odds_home": 6.21,
+      "odds_draw": 4.19,
+      "odds_away": 1.48,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1259
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1148
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0919
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0915
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0873
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0701
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0649
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0484
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0456
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0436
+        }
+      ],
+      "confidence": 0.5843,
+      "outcome": "win1"
+    },
+    {
+      "group": "J",
+      "home": "Austria",
+      "away": "Jordan",
+      "date_iso": "2026-06-17T04:00:00Z",
+      "date_local": "17.06.2026",
+      "time_local": "04:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6783,
+      "p_draw": 0.1891,
+      "p_away": 0.1326,
+      "p_home_model": 0.5679,
+      "p_draw_model": 0.2284,
+      "p_away_model": 0.2037,
+      "p_home_odds": 0.7256,
+      "p_draw_odds": 0.1723,
+      "p_away_odds": 0.1021,
+      "expected_goals_home": 1.65,
+      "expected_goals_away": 0.863,
+      "elo_home": 1761,
+      "elo_away": 1705,
+      "form_home": 0.945,
+      "form_away": 0.14,
+      "source": "ensemble",
+      "odds_home": 1.33,
+      "odds_draw": 5.6,
+      "odds_away": 9.45,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1417
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1103
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1073
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0952
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.078
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0729
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0606
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0524
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0498
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0411
+        }
+      ],
+      "confidence": 0.6783,
+      "outcome": "win1"
+    },
+    {
+      "group": "K",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "date_iso": "2026-06-17T17:00:00Z",
+      "date_local": "17.06.2026",
+      "time_local": "17:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.7386,
+      "p_draw": 0.1701,
+      "p_away": 0.0912,
+      "p_home_model": 0.7222,
+      "p_draw_model": 0.174,
+      "p_away_model": 0.1037,
+      "p_home_odds": 0.7456,
+      "p_draw_odds": 0.1685,
+      "p_away_odds": 0.0859,
+      "expected_goals_home": 2.077,
+      "expected_goals_away": 0.613,
+      "elo_home": 1887,
+      "elo_away": 1688,
+      "form_home": 0.845,
+      "form_away": 0.69,
+      "source": "ensemble",
+      "odds_home": 1.29,
+      "odds_draw": 5.71,
+      "odds_away": 11.2,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1471
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1464
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1014
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0898
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0804
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0622
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0619
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0526
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0477
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0323
+        }
+      ],
+      "confidence": 0.7386,
+      "outcome": "win1"
+    },
+    {
+      "group": "K",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "date_iso": "2026-06-23T17:00:00Z",
+      "date_local": "23.06.2026",
+      "time_local": "17:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.7433,
+      "p_draw": 0.1607,
+      "p_away": 0.0959,
+      "p_home_model": 0.6984,
+      "p_draw_model": 0.1879,
+      "p_away_model": 0.1137,
+      "p_home_odds": 0.7626,
+      "p_draw_odds": 0.1491,
+      "p_away_odds": 0.0883,
+      "expected_goals_home": 1.948,
+      "expected_goals_away": 0.611,
+      "elo_home": 1887,
+      "elo_away": 1756,
+      "form_home": 0.845,
+      "form_away": 0.385,
+      "source": "ensemble",
+      "odds_home": 1.22,
+      "odds_draw": 6.24,
+      "odds_away": 10.54,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1571
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1468
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0954
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0897
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0857
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0709
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0583
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0537
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0464
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0284
+        }
+      ],
+      "confidence": 0.7433,
+      "outcome": "win1"
+    },
+    {
+      "group": "K",
+      "home": "Portugal",
+      "away": "Colombia",
+      "date_iso": "2026-06-27T23:30:00Z",
+      "date_local": "27.06.2026",
+      "time_local": "23:30",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.4405,
+      "p_draw": 0.2736,
+      "p_away": 0.2859,
+      "p_home_model": 0.4554,
+      "p_draw_model": 0.2368,
+      "p_away_model": 0.3078,
+      "p_home_odds": 0.4341,
+      "p_draw_odds": 0.2894,
+      "p_away_odds": 0.2766,
+      "expected_goals_home": 1.517,
+      "expected_goals_away": 1.195,
+      "elo_home": 1887,
+      "elo_away": 1878,
+      "form_home": 0.845,
+      "form_away": 0.72,
+      "source": "ensemble",
+      "odds_home": 3.39,
+      "odds_draw": 3.24,
+      "odds_away": 2.16,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1119
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1091
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0913
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0877
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0764
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0719
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0579
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0546
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0474
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0462
+        }
+      ],
+      "confidence": 0.4405,
+      "outcome": "win1"
+    },
+    {
+      "group": "K",
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "date_iso": "2026-06-27T23:30:00Z",
+      "date_local": "27.06.2026",
+      "time_local": "23:30",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.3871,
+      "p_draw": 0.2952,
+      "p_away": 0.3177,
+      "p_home_model": 0.323,
+      "p_draw_model": 0.3257,
+      "p_away_model": 0.3514,
+      "p_home_odds": 0.4146,
+      "p_draw_odds": 0.2822,
+      "p_away_odds": 0.3032,
+      "expected_goals_home": 0.81,
+      "expected_goals_away": 0.86,
+      "elo_home": 1688,
+      "elo_away": 1756,
+      "form_home": 0.69,
+      "form_away": 0.385,
+      "source": "ensemble",
+      "odds_home": 2.26,
+      "odds_draw": 3.32,
+      "odds_away": 3.09,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.179
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1711
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1616
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.122
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0697
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0617
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0564
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0531
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0228
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.02
+        }
+      ],
+      "confidence": 0.3871,
+      "outcome": "win1"
+    },
+    {
+      "group": "K",
+      "home": "DR Congo",
+      "away": "Colombia",
+      "date_iso": "2026-06-24T02:00:00Z",
+      "date_local": "24.06.2026",
+      "time_local": "02:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.135,
+      "p_draw": 0.2217,
+      "p_away": 0.6433,
+      "p_home_model": 0.1432,
+      "p_draw_model": 0.2207,
+      "p_away_model": 0.6361,
+      "p_home_odds": 0.1315,
+      "p_draw_odds": 0.2221,
+      "p_away_odds": 0.6464,
+      "expected_goals_home": 0.631,
+      "expected_goals_away": 1.682,
+      "elo_home": 1688,
+      "elo_away": 1878,
+      "form_home": 0.69,
+      "form_away": 0.72,
+      "source": "ensemble",
+      "odds_home": 1.44,
+      "odds_draw": 4.19,
+      "odds_away": 7.08,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1739
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.14
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0977
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0916
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0883
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0785
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0698
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0495
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0331
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.033
+        }
+      ],
+      "confidence": 0.6433,
+      "outcome": "win2"
+    },
+    {
+      "group": "K",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "date_iso": "2026-06-18T02:00:00Z",
+      "date_local": "18.06.2026",
+      "time_local": "02:00",
+      "tipp_home": 0,
+      "tipp_away": 1,
+      "p_home": 0.1255,
+      "p_draw": 0.2189,
+      "p_away": 0.6556,
+      "p_home_model": 0.154,
+      "p_draw_model": 0.2342,
+      "p_away_model": 0.6118,
+      "p_home_odds": 0.1133,
+      "p_draw_odds": 0.2124,
+      "p_away_odds": 0.6743,
+      "expected_goals_home": 0.629,
+      "expected_goals_away": 1.578,
+      "elo_home": 1756,
+      "elo_away": 1878,
+      "form_home": 0.385,
+      "form_away": 0.72,
+      "source": "ensemble",
+      "odds_home": 8.51,
+      "odds_draw": 4.54,
+      "odds_away": 1.43,
+      "top10_scores": [
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1813
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.1371
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1024
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1015
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0862
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.0768
+        },
+        {
+          "home": 0,
+          "away": 3,
+          "prob": 0.0721
+        },
+        {
+          "home": 1,
+          "away": 3,
+          "prob": 0.0453
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0343
+        },
+        {
+          "home": 0,
+          "away": 4,
+          "prob": 0.0284
+        }
+      ],
+      "confidence": 0.6556,
+      "outcome": "win2"
+    },
+    {
+      "group": "L",
+      "home": "England",
+      "away": "Croatia",
+      "date_iso": "2026-06-17T20:00:00Z",
+      "date_local": "17.06.2026",
+      "time_local": "20:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.5545,
+      "p_draw": 0.2487,
+      "p_away": 0.1968,
+      "p_home_model": 0.5528,
+      "p_draw_model": 0.251,
+      "p_away_model": 0.1962,
+      "p_home_odds": 0.5552,
+      "p_draw_odds": 0.2477,
+      "p_away_odds": 0.1971,
+      "expected_goals_home": 1.455,
+      "expected_goals_away": 0.731,
+      "elo_home": 1914,
+      "elo_away": 1805,
+      "form_home": 0.665,
+      "form_away": 0.58,
+      "source": "ensemble",
+      "odds_home": 1.74,
+      "odds_draw": 3.9,
+      "odds_away": 4.9,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1719
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.119
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1112
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.1041
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0905
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0869
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0577
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0437
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0421
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0318
+        }
+      ],
+      "confidence": 0.5545,
+      "outcome": "win1"
+    },
+    {
+      "group": "L",
+      "home": "England",
+      "away": "Ghana",
+      "date_iso": "2026-06-23T20:00:00Z",
+      "date_local": "23.06.2026",
+      "time_local": "20:00",
+      "tipp_home": 2,
+      "tipp_away": 0,
+      "p_home": 0.75,
+      "p_draw": 0.1611,
+      "p_away": 0.0889,
+      "p_home_model": 0.8206,
+      "p_draw_model": 0.1274,
+      "p_away_model": 0.052,
+      "p_home_odds": 0.7198,
+      "p_draw_odds": 0.1755,
+      "p_away_odds": 0.1047,
+      "expected_goals_home": 2.409,
+      "expected_goals_away": 0.419,
+      "elo_home": 1914,
+      "elo_away": 1565,
+      "form_home": 0.665,
+      "form_away": 0.2,
+      "source": "ensemble",
+      "odds_home": 1.29,
+      "odds_draw": 5.29,
+      "odds_away": 8.87,
+      "top10_scores": [
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1718
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1468
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1379
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0831
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0719
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0578
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0555
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.055
+        },
+        {
+          "home": 5,
+          "away": 0,
+          "prob": 0.04
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0348
+        }
+      ],
+      "confidence": 0.75,
+      "outcome": "win1"
+    },
+    {
+      "group": "L",
+      "home": "England",
+      "away": "Panama",
+      "date_iso": "2026-06-27T21:00:00Z",
+      "date_local": "27.06.2026",
+      "time_local": "21:00",
+      "tipp_home": 2,
+      "tipp_away": 0,
+      "p_home": 0.7745,
+      "p_draw": 0.1282,
+      "p_away": 0.0973,
+      "p_home_model": 0.8901,
+      "p_draw_model": 0.0815,
+      "p_away_model": 0.0285,
+      "p_home_odds": 0.725,
+      "p_draw_odds": 0.1482,
+      "p_away_odds": 0.1268,
+      "expected_goals_home": 2.966,
+      "expected_goals_away": 0.369,
+      "elo_home": 1914,
+      "elo_away": 1726,
+      "form_home": 0.665,
+      "form_away": 0.595,
+      "source": "ensemble",
+      "odds_home": 7.32,
+      "odds_draw": 6.26,
+      "odds_away": 1.28,
+      "top10_scores": [
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1572
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1554
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.1153
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1087
+        },
+        {
+          "home": 5,
+          "away": 0,
+          "prob": 0.0684
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.058
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0573
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0425
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0364
+        },
+        {
+          "home": 6,
+          "away": 0,
+          "prob": 0.0338
+        }
+      ],
+      "confidence": 0.7745,
+      "outcome": "win1"
+    },
+    {
+      "group": "L",
+      "home": "Croatia",
+      "away": "Ghana",
+      "date_iso": "2026-06-27T21:00:00Z",
+      "date_local": "27.06.2026",
+      "time_local": "21:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.6117,
+      "p_draw": 0.2308,
+      "p_away": 0.1576,
+      "p_home_model": 0.6802,
+      "p_draw_model": 0.1927,
+      "p_away_model": 0.1271,
+      "p_home_odds": 0.5823,
+      "p_draw_odds": 0.2471,
+      "p_away_odds": 0.1706,
+      "expected_goals_home": 1.93,
+      "expected_goals_away": 0.668,
+      "elo_home": 1805,
+      "elo_away": 1565,
+      "form_home": 0.58,
+      "form_away": 0.2,
+      "source": "ensemble",
+      "odds_home": 1.6,
+      "odds_draw": 3.77,
+      "odds_away": 5.46,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1504
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1386
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0926
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0892
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0892
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0677
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0596
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0564
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.043
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.032
+        }
+      ],
+      "confidence": 0.6117,
+      "outcome": "win1"
+    },
+    {
+      "group": "L",
+      "home": "Croatia",
+      "away": "Panama",
+      "date_iso": "2026-06-23T23:00:00Z",
+      "date_local": "23.06.2026",
+      "time_local": "23:00",
+      "tipp_home": 2,
+      "tipp_away": 0,
+      "p_home": 0.6698,
+      "p_draw": 0.2114,
+      "p_away": 0.1187,
+      "p_home_model": 0.7779,
+      "p_draw_model": 0.1432,
+      "p_away_model": 0.079,
+      "p_home_odds": 0.6235,
+      "p_draw_odds": 0.2407,
+      "p_away_odds": 0.1358,
+      "expected_goals_home": 2.376,
+      "expected_goals_away": 0.588,
+      "elo_home": 1805,
+      "elo_away": 1726,
+      "form_home": 0.58,
+      "form_away": 0.595,
+      "source": "ensemble",
+      "odds_home": 6.84,
+      "odds_draw": 3.86,
+      "odds_away": 1.49,
+      "top10_scores": [
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.1457
+        },
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1277
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.1154
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0857
+        },
+        {
+          "home": 4,
+          "away": 0,
+          "prob": 0.0686
+        },
+        {
+          "home": 3,
+          "away": 1,
+          "prob": 0.0679
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.0671
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0466
+        },
+        {
+          "home": 4,
+          "away": 1,
+          "prob": 0.0404
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.0354
+        }
+      ],
+      "confidence": 0.6698,
+      "outcome": "win1"
+    },
+    {
+      "group": "L",
+      "home": "Ghana",
+      "away": "Panama",
+      "date_iso": "2026-06-17T23:00:00Z",
+      "date_local": "17.06.2026",
+      "time_local": "23:00",
+      "tipp_home": 1,
+      "tipp_away": 0,
+      "p_home": 0.4653,
+      "p_draw": 0.266,
+      "p_away": 0.2687,
+      "p_home_model": 0.4662,
+      "p_draw_model": 0.2564,
+      "p_away_model": 0.2773,
+      "p_home_odds": 0.4649,
+      "p_draw_odds": 0.2701,
+      "p_away_odds": 0.2649,
+      "expected_goals_home": 1.362,
+      "expected_goals_away": 0.974,
+      "elo_home": 1565,
+      "elo_away": 1726,
+      "form_home": 0.2,
+      "form_away": 0.595,
+      "source": "ensemble",
+      "odds_home": 2.08,
+      "odds_draw": 3.58,
+      "odds_away": 3.65,
+      "top10_scores": [
+        {
+          "home": 1,
+          "away": 0,
+          "prob": 0.1407
+        },
+        {
+          "home": 1,
+          "away": 1,
+          "prob": 0.1193
+        },
+        {
+          "home": 0,
+          "away": 1,
+          "prob": 0.1032
+        },
+        {
+          "home": 2,
+          "away": 0,
+          "prob": 0.0897
+        },
+        {
+          "home": 0,
+          "away": 0,
+          "prob": 0.0877
+        },
+        {
+          "home": 2,
+          "away": 1,
+          "prob": 0.0874
+        },
+        {
+          "home": 1,
+          "away": 2,
+          "prob": 0.0625
+        },
+        {
+          "home": 0,
+          "away": 2,
+          "prob": 0.0459
+        },
+        {
+          "home": 2,
+          "away": 2,
+          "prob": 0.0426
+        },
+        {
+          "home": 3,
+          "away": 0,
+          "prob": 0.0407
+        }
+      ],
+      "confidence": 0.4653,
+      "outcome": "win1"
+    }
+  ],
+  "elo_table": [
+    {
+      "team": "Spain",
+      "elo": 1998
+    },
+    {
+      "team": "Argentina",
+      "elo": 1979
+    },
+    {
+      "team": "France",
+      "elo": 1928
+    },
+    {
+      "team": "England",
+      "elo": 1914
+    },
+    {
+      "team": "Morocco",
+      "elo": 1895
+    },
+    {
+      "team": "Portugal",
+      "elo": 1887
+    },
+    {
+      "team": "Brazil",
+      "elo": 1885
+    },
+    {
+      "team": "Colombia",
+      "elo": 1878
+    },
+    {
+      "team": "Germany",
+      "elo": 1870
+    },
+    {
+      "team": "Japan",
+      "elo": 1869
+    },
+    {
+      "team": "Netherlands",
+      "elo": 1859
+    },
+    {
+      "team": "Ecuador",
+      "elo": 1820
+    },
+    {
+      "team": "Mexico",
+      "elo": 1819
+    },
+    {
+      "team": "Croatia",
+      "elo": 1805
+    },
+    {
+      "team": "Uruguay",
+      "elo": 1804
+    },
+    {
+      "team": "Iran",
+      "elo": 1804
+    },
+    {
+      "team": "Norway",
+      "elo": 1802
+    },
+    {
+      "team": "Belgium",
+      "elo": 1801
+    },
+    {
+      "team": "Australia",
+      "elo": 1799
+    },
+    {
+      "team": "Senegal",
+      "elo": 1797
+    },
+    {
+      "team": "Turkey",
+      "elo": 1792
+    },
+    {
+      "team": "Italy",
+      "elo": 1787
+    },
+    {
+      "team": "Switzerland",
+      "elo": 1786
+    },
+    {
+      "team": "Nigeria",
+      "elo": 1783
+    },
+    {
+      "team": "United States",
+      "elo": 1782
+    },
+    {
+      "team": "Algeria",
+      "elo": 1782
+    },
+    {
+      "team": "Canada",
+      "elo": 1779
+    },
+    {
+      "team": "South Korea",
+      "elo": 1775
+    },
+    {
+      "team": "Denmark",
+      "elo": 1773
+    },
+    {
+      "team": "Austria",
+      "elo": 1761
+    },
+    {
+      "team": "Uzbekistan",
+      "elo": 1756
+    },
+    {
+      "team": "Ivory Coast",
+      "elo": 1734
+    },
+    {
+      "team": "Russia",
+      "elo": 1730
+    },
+    {
+      "team": "Egypt",
+      "elo": 1728
+    },
+    {
+      "team": "Panama",
+      "elo": 1726
+    },
+    {
+      "team": "Paraguay",
+      "elo": 1718
+    },
+    {
+      "team": "Scotland",
+      "elo": 1712
+    },
+    {
+      "team": "Jordan",
+      "elo": 1705
+    },
+    {
+      "team": "Jersey",
+      "elo": 1705
+    },
+    {
+      "team": "Greece",
+      "elo": 1699
+    },
+    {
+      "team": "Serbia",
+      "elo": 1689
+    },
+    {
+      "team": "DR Congo",
+      "elo": 1688
+    },
+    {
+      "team": "Iraq",
+      "elo": 1687
+    },
+    {
+      "team": "Costa Rica",
+      "elo": 1686
+    },
+    {
+      "team": "Venezuela",
+      "elo": 1684
+    },
+    {
+      "team": "Czech Republic",
+      "elo": 1682
+    },
+    {
+      "team": "New Zealand",
+      "elo": 1681
+    },
+    {
+      "team": "Ukraine",
+      "elo": 1679
+    },
+    {
+      "team": "Cameroon",
+      "elo": 1671
+    },
+    {
+      "team": "Guernsey",
+      "elo": 1664
+    }
+  ]
+}
