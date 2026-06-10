@@ -108,8 +108,8 @@ BASE_HTML = """
   <div class="container">
     <a class="navbar-brand fw-bold" href="/">&#x26BD; WM 2026 Tipps</a>
     <div class="d-flex gap-3">
-      <a class="nav-link {{ 'active' if active=='schedule' }}" href="/">Gruppen</a>
-      <a class="nav-link {{ 'active' if active=='bydate' }}" href="/by-date">Nach Datum</a>
+      <a class="nav-link {{ 'active' if active=='schedule' }}" href="/">Nach Datum</a>
+      <a class="nav-link {{ 'active' if active=='groups' }}" href="/groups">Gruppen</a>
       <a class="nav-link {{ 'active' if active=='elo' }}" href="/elo">Elo-Tabelle</a>
     </div>
   </div>
@@ -323,24 +323,23 @@ DETAIL_HTML = BASE_HTML.replace("{% block content %}{% endblock %}", """
 """)
 
 
-# ── Nach-Datum-Ansicht ───────────────────────────────────────────────────────
+# ── Gruppen-Ansicht ─────────────────────────────────────────────────────────
 
-BYDATE_HTML = BASE_HTML.replace("{% block content %}{% endblock %}", """
+GROUPS_HTML = BASE_HTML.replace("{% block content %}{% endblock %}", """
 {% block content %}
 <div class="d-flex justify-content-between align-items-center mb-3">
-  <h4 class="mb-0">Spielplan nach Datum</h4>
+  <h4 class="mb-0">Gruppenphase – Alle Spiele</h4>
   <span class="updated">Stand: {{ generated_at }}</span>
 </div>
 
-{% for day, matches in days.items() %}
+{% for group, matches in groups.items() %}
 <div class="card mb-3">
-  <div class="card-header group-header">{{ day }}</div>
+  <div class="card-header group-header">Gruppe {{ group }}</div>
   <div class="table-responsive">
     <table class="table table-hover mb-0 align-middle">
       <thead>
         <tr>
-          <th style="width:70px">Uhrzeit</th>
-          <th style="width:60px">Gruppe</th>
+          <th style="width:110px">Datum</th>
           <th>Heim</th>
           <th class="text-center">Tipp</th>
           <th>Gast</th>
@@ -354,8 +353,7 @@ BYDATE_HTML = BASE_HTML.replace("{% block content %}{% endblock %}", """
       <tbody>
         {% for m in matches %}
         <tr>
-          <td class="text-muted" style="font-size:.85rem">{{ m.time_display }}</td>
-          <td><span class="badge bg-secondary">{{ m.group }}</span></td>
+          <td class="text-muted" style="font-size:.85rem">{{ m.date_display }}</td>
           <td>{{ m.home }}</td>
           <td class="text-center">
             <span class="tipp-score">{{ m.tipp_home }}:{{ m.tipp_away }}</span>
@@ -542,63 +540,42 @@ def match_detail(match_id):
     return render_template_string(DETAIL_HTML, **ctx)
 
 
-@app.route("/by-date")
-def by_date():
+@app.route("/groups")
+def groups_view():
     data = load_predictions()
     if not data:
         return "<h2>Keine Vorhersagen gefunden. Bitte predict.py ausfuehren.</h2>", 503
 
     generated_at = fmt_dt(data["generated_at"])
+    groups_out   = {}
 
-    # Alle Matches mit parse-barem Datum sammeln und sortieren
-    dated   = []
-    undated = []
     for m in data["matches"]:
-        iso = m.get("date_iso")
-        if iso:
-            try:
-                dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
-                dated.append((dt, m))
-            except Exception:
-                undated.append(m)
-        else:
-            undated.append(m)
-
-    dated.sort(key=lambda x: x[0])
-
-    # Nach Tag gruppieren
-    from collections import OrderedDict
-    days = OrderedDict()
-    for dt, m in dated:
-        day_key = dt.strftime("%A, %d.%m.%Y")  # z.B. "Monday, 12.06.2026"
-        if day_key not in days:
-            days[day_key] = []
-
+        g = m["group"]
+        if g not in groups_out:
+            groups_out[g] = []
         match_id = f"{m['home'].lower().replace(' ','-')}--{m['away'].lower().replace(' ','-')}"
-        days[day_key].append({
-            "match_id":   match_id,
-            "group":      m["group"],
-            "home":       m["home"],
-            "away":       m["away"],
-            "tipp_home":  m["tipp_home"],
-            "tipp_away":  m["tipp_away"],
-            "time_display": dt.strftime("%H:%M"),
-            "p_home_pct": fmt_pct(m["p_home"]),
-            "p_draw_pct": fmt_pct(m["p_draw"]),
-            "p_away_pct": fmt_pct(m["p_away"]),
-            "p_home_w":   round(m["p_home"] * 100, 1),
-            "p_draw_w":   round(m["p_draw"] * 100, 1),
-            "p_away_w":   round(m["p_away"] * 100, 1),
-            "conf_pct":   fmt_pct(m["confidence"]),
-            "conf_color": confidence_color(m["confidence"]),
-            "source":     m["source"],
+        groups_out[g].append({
+            "match_id":    match_id,
+            "home":        m["home"],
+            "away":        m["away"],
+            "tipp_home":   m["tipp_home"],
+            "tipp_away":   m["tipp_away"],
+            "date_display": fmt_dt(m.get("date_iso")),
+            "p_home_pct":  fmt_pct(m["p_home"]),
+            "p_draw_pct":  fmt_pct(m["p_draw"]),
+            "p_away_pct":  fmt_pct(m["p_away"]),
+            "p_home_w":    round(m["p_home"] * 100, 1),
+            "p_draw_w":    round(m["p_draw"] * 100, 1),
+            "p_away_w":    round(m["p_away"] * 100, 1),
+            "conf_pct":    fmt_pct(m["confidence"]),
+            "conf_color":  confidence_color(m["confidence"]),
         })
 
     return render_template_string(
-        BYDATE_HTML,
-        days=days,
+        GROUPS_HTML,
+        groups=groups_out,
         generated_at=generated_at,
-        active="bydate"
+        active="groups"
     )
 
 
