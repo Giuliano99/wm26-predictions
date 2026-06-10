@@ -15,6 +15,7 @@ Produktion (Raspberry Pi):
 """
 
 import json
+import pickle
 from pathlib import Path
 from datetime import datetime
 from flask import Flask, render_template_string, abort
@@ -23,6 +24,7 @@ app = Flask(__name__)
 
 BASE_DIR         = Path(__file__).parent
 PREDICTIONS_FILE = BASE_DIR / "predictions.json"
+MODEL_FILE       = BASE_DIR / "model.pkl"
 
 
 def load_predictions():
@@ -30,6 +32,18 @@ def load_predictions():
         return None
     with open(PREDICTIONS_FILE, encoding="utf-8") as f:
         return json.load(f)
+
+
+def load_model_trained_at():
+    """Liest trained_at aus model.pkl ohne das ganze Modell zu laden."""
+    if not MODEL_FILE.exists():
+        return None
+    try:
+        with open(MODEL_FILE, "rb") as f:
+            payload = pickle.load(f)
+        return payload.get("trained_at")
+    except Exception:
+        return None
 
 
 def fmt_pct(v):
@@ -109,23 +123,28 @@ BASE_HTML = """
 """
 
 
-# ── Spielplan ─────────────────────────────────────────────────────────────────
+# ── Spielplan (nach Datum, Startseite) ──────────────────────────────────────
 
 SCHEDULE_HTML = BASE_HTML.replace("{% block content %}{% endblock %}", """
 {% block content %}
 <div class="d-flex justify-content-between align-items-center mb-3">
-  <h4 class="mb-0">Gruppenphase – Alle Spiele</h4>
-  <span class="updated">Stand: {{ generated_at }}</span>
+  <h4 class="mb-0">Spielplan WM 2026</h4>
+  <div class="text-end updated">
+    <div>&#x1F4CA; Vorhersage: {{ generated_at }}</div>
+    <div>&#x1F4B9; Quoten: {{ odds_fetched_at }}</div>
+    <div>&#x1F9E0; Modell: {{ model_trained_at }}</div>
+  </div>
 </div>
 
-{% for group, matches in groups.items() %}
+{% for day, matches in days.items() %}
 <div class="card mb-3">
-  <div class="card-header group-header">Gruppe {{ group }}</div>
+  <div class="card-header group-header">{{ day }}</div>
   <div class="table-responsive">
     <table class="table table-hover mb-0 align-middle">
       <thead>
         <tr>
-          <th style="width:110px">Datum</th>
+          <th style="width:70px">Uhrzeit</th>
+          <th style="width:60px">Gruppe</th>
           <th>Heim</th>
           <th class="text-center">Tipp</th>
           <th>Gast</th>
@@ -133,14 +152,14 @@ SCHEDULE_HTML = BASE_HTML.replace("{% block content %}{% endblock %}", """
           <th class="text-center">X</th>
           <th class="text-center">2</th>
           <th class="text-center">Conf.</th>
-          <th class="text-center">Quelle</th>
           <th></th>
         </tr>
       </thead>
       <tbody>
         {% for m in matches %}
         <tr>
-          <td class="text-muted" style="font-size:.85rem">{{ m.date_display }}</td>
+          <td class="text-muted" style="font-size:.85rem">{{ m.time_display }}</td>
+          <td><span class="badge bg-secondary">{{ m.group }}</span></td>
           <td>{{ m.home }}</td>
           <td class="text-center">
             <span class="tipp-score">{{ m.tipp_home }}:{{ m.tipp_away }}</span>
@@ -160,9 +179,6 @@ SCHEDULE_HTML = BASE_HTML.replace("{% block content %}{% endblock %}", """
           </td>
           <td class="text-center">
             <span class="badge bg-{{ m.conf_color }}">{{ m.conf_pct }}</span>
-          </td>
-          <td class="text-center">
-            <span class="badge bg-{{ m.src_color }}">{{ m.source }}</span>
           </td>
           <td>
             <a href="/match/{{ m.match_id }}" class="btn btn-sm btn-outline-secondary py-0">Details</a>
@@ -410,23 +426,40 @@ def schedule():
     if not data:
         return "<h2>Keine Vorhersagen gefunden. Bitte predict.py ausfuehren.</h2>", 503
 
-    generated_at = fmt_dt(data["generated_at"])
-    groups_out   = {}
+    generated_at    = fmt_dt(data["generated_at"])
+    odds_fetched_at = fmt_dt(data.get("odds_fetched_at"))
+    model_trained_at = fmt_dt(load_model_trained_at())
 
+    # Matches nach Datum sortieren und nach Tag gruppieren
+    from collections import OrderedDict
+    dated, undated = [], []
     for m in data["matches"]:
-        g = m["group"]
-        if g not in groups_out:
-            groups_out[g] = []
+        iso = m.get("date_iso")
+        if iso:
+            try:
+                dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+                dated.append((dt, m))
+            except Exception:
+                undated.append(m)
+        else:
+            undated.append(m)
 
+    dated.sort(key=lambda x: x[0])
+
+    days = OrderedDict()
+    for dt, m in dated:
+        day_key = dt.strftime("%A, %d.%m.%Y")
+        if day_key not in days:
+            days[day_key] = []
         match_id = f"{m['home'].lower().replace(' ','-')}--{m['away'].lower().replace(' ','-')}"
-
-        groups_out[g].append({
+        days[day_key].append({
             "match_id":    match_id,
+            "group":       m["group"],
             "home":        m["home"],
             "away":        m["away"],
             "tipp_home":   m["tipp_home"],
             "tipp_away":   m["tipp_away"],
-            "date_display": fmt_dt(m.get("date_iso")),
+            "time_display": dt.strftime("%H:%M"),
             "p_home_pct":  fmt_pct(m["p_home"]),
             "p_draw_pct":  fmt_pct(m["p_draw"]),
             "p_away_pct":  fmt_pct(m["p_away"]),
@@ -441,8 +474,10 @@ def schedule():
 
     return render_template_string(
         SCHEDULE_HTML,
-        groups=groups_out,
+        days=days,
         generated_at=generated_at,
+        odds_fetched_at=odds_fetched_at,
+        model_trained_at=model_trained_at,
         active="schedule"
     )
 

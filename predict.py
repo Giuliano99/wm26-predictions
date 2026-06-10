@@ -30,7 +30,7 @@ PREDICTIONS_FILE = BASE_DIR / "predictions.json"
 MODEL_FILE       = BASE_DIR / "model.pkl"
 
 # ── Konfiguration ─────────────────────────────────────────────────────────────
-ODDS_WEIGHT       = 0.70
+ODDS_WEIGHT       = 0.60
 MODEL_WEIGHT      = 1.0 - ODDS_WEIGHT
 TEAM_FILTER_YEARS = 20
 RHO               = 0.07
