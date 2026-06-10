@@ -27,6 +27,7 @@ BASE_DIR         = Path(__file__).parent
 RESULTS_FILE     = BASE_DIR / "results.csv"
 ODDS_FILE        = BASE_DIR / "odds.json"
 PREDICTIONS_FILE = BASE_DIR / "predictions.json"
+MODEL_FILE       = BASE_DIR / "model.pkl"
 
 # ── Konfiguration ─────────────────────────────────────────────────────────────
 ODDS_WEIGHT       = 0.70
@@ -292,7 +293,7 @@ def dixon_coles_tau(x, y, mu1, mu2):
 def predict_goals(poisson_model, elo, recent, team, opponent):
     params    = poisson_model.params
     elo_diff  = elo.get(team, INITIAL_ELO) - elo.get(opponent, INITIAL_ELO)
-    form_diff = weighted_form(recent[team]) - weighted_form(recent[opponent])
+    form_diff = weighted_form(recent.get(team, deque())) - weighted_form(recent.get(opponent, deque()))
     lp  = float(params.get("Intercept", 0.0))
     lp += float(params.get(f"team[T.{team}]", 0.0))
     lp += float(params.get(f"opponent[T.{opponent}]", 0.0))
@@ -377,8 +378,8 @@ def predict_match(poisson_model, elo, recent, odds_lookup, odds_raw_map, team1, 
         "expected_goals_away": round(mu2, 3),
         "elo_home":      round(elo.get(model_name(team1), INITIAL_ELO)),
         "elo_away":      round(elo.get(model_name(team2), INITIAL_ELO)),
-        "form_home":     round(weighted_form(recent[model_name(team1)]), 3),
-        "form_away":     round(weighted_form(recent[model_name(team2)]), 3),
+                "form_home":     round(weighted_form(recent.get(model_name(team1), deque())), 3),
+        "form_away":     round(weighted_form(recent.get(model_name(team2), deque())), 3),
         "source":        source,
         "odds_home":     raw_odds.get("home"),
         "odds_draw":     raw_odds.get("draw"),
@@ -421,9 +422,27 @@ def main():
     print("\n[4/5] Form berechnen ...")
     recent, all_matches = compute_form(all_matches)
 
-    # Poisson
-    print("\n[5/5] Poisson-Modell trainieren ...")
-    poisson_model = train_poisson(all_matches, model_matches)
+            # Poisson – gespeichertes Modell laden oder neu trainieren
+    print("\n[5/5] Poisson-Modell ...")
+    if MODEL_FILE.exists():
+        print("  Lade gespeichertes Modell (model.pkl) ...")
+        import pickle
+        with open(MODEL_FILE, "rb") as f:
+            payload = pickle.load(f)
+        poisson_model = payload["poisson_model"]
+        trained_at    = pd.Timestamp(payload["trained_at"])
+        new_matches   = all_matches[all_matches["date"] > trained_at]
+        print(f"  Modell trainiert am: {payload['trained_at'][:16]}  |  {payload['num_matches']} Spiele")
+        if len(new_matches) > 0:
+            print(f"  {len(new_matches)} neue Spiele seit Training – Elo/Form neu berechnen ...")
+        else:
+            print("  Keine neuen Spiele seit Training.")
+        # Elo und Form werden immer aus compute_elo/compute_form oben verwendet –
+        # recent ist bereits ein defaultdict(deque) aus compute_form
+    else:
+        print("  Kein model.pkl gefunden – trainiere neu (kann auf Pi lange dauern!) ...")
+        print("  Tipp: Auf Laptop train_model.py ausfuehren und model.pkl hierher kopieren.")
+        poisson_model = train_poisson(all_matches, model_matches)
 
     # Vorhersagen
     print("\n  Vorhersagen berechnen ...")

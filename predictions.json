@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T20:21:11.687447+00:00",
+  "generated_at": "2026-06-10T15:02:12.475649+00:00",
   "odds_fetched_at": "2026-06-08T13:03:12.145395+00:00",
   "odds_weight": 0.7,
   "model_weight": 0.30000000000000004,
@@ -89,15 +89,15 @@
       "tipp_away": 0,
       "p_home": 0.6131,
       "p_draw": 0.2308,
-      "p_away": 0.1561,
-      "p_home_model": 0.4595,
+      "p_away": 0.1562,
+      "p_home_model": 0.4594,
       "p_draw_model": 0.279,
-      "p_away_model": 0.2615,
+      "p_away_model": 0.2616,
       "p_home_odds": 0.6789,
       "p_draw_odds": 0.2101,
       "p_away_odds": 0.111,
       "expected_goals_home": 1.211,
-      "expected_goals_away": 0.827,
+      "expected_goals_away": 0.828,
       "elo_home": 1819,
       "elo_away": 1646,
       "form_home": 0.91,
@@ -150,7 +150,7 @@
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0386
+          "prob": 0.0385
         },
         {
           "home": 2,
@@ -170,12 +170,12 @@
       "time_local": "01:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.4693,
+      "p_home": 0.4692,
       "p_draw": 0.2712,
       "p_away": 0.2596,
-      "p_home_model": 0.3325,
+      "p_home_model": 0.3324,
       "p_draw_model": 0.2932,
-      "p_away_model": 0.3743,
+      "p_away_model": 0.3744,
       "p_home_odds": 0.5279,
       "p_draw_odds": 0.2617,
       "p_away_odds": 0.2104,
@@ -241,7 +241,7 @@
           "prob": 0.0249
         }
       ],
-      "confidence": 0.4693,
+      "confidence": 0.4692,
       "outcome": "win1"
     },
     {
@@ -253,17 +253,17 @@
       "time_local": "01:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.4763,
+      "p_home": 0.4762,
       "p_draw": 0.2678,
-      "p_away": 0.2559,
-      "p_home_model": 0.3506,
-      "p_draw_model": 0.2779,
-      "p_away_model": 0.3714,
+      "p_away": 0.256,
+      "p_home_model": 0.3504,
+      "p_draw_model": 0.278,
+      "p_away_model": 0.3716,
       "p_home_odds": 0.5301,
       "p_draw_odds": 0.2635,
       "p_away_odds": 0.2064,
       "expected_goals_home": 1.045,
-      "expected_goals_away": 1.086,
+      "expected_goals_away": 1.087,
       "elo_home": 1819,
       "elo_away": 1682,
       "form_home": 0.91,
@@ -276,12 +276,12 @@
         {
           "home": 0,
           "away": 1,
-          "prob": 0.1383
+          "prob": 0.1384
         },
         {
           "home": 1,
           "away": 0,
-          "prob": 0.1335
+          "prob": 0.1334
         },
         {
           "home": 1,
@@ -324,7 +324,7 @@
           "prob": 0.0265
         }
       ],
-      "confidence": 0.4763,
+      "confidence": 0.4762,
       "outcome": "win1"
     },
     {
@@ -421,14 +421,14 @@
       "tipp_away": 1,
       "p_home": 0.2386,
       "p_draw": 0.2708,
-      "p_away": 0.4906,
-      "p_home_model": 0.2576,
+      "p_away": 0.4907,
+      "p_home_model": 0.2575,
       "p_draw_model": 0.2387,
-      "p_away_model": 0.5037,
+      "p_away_model": 0.5038,
       "p_home_odds": 0.2305,
       "p_draw_odds": 0.2845,
       "p_away_odds": 0.485,
-      "expected_goals_home": 1.013,
+      "expected_goals_home": 1.012,
       "expected_goals_away": 1.54,
       "elo_home": 1646,
       "elo_away": 1682,
@@ -442,7 +442,7 @@
         {
           "home": 0,
           "away": 1,
-          "prob": 0.1284
+          "prob": 0.1285
         },
         {
           "home": 1,
@@ -462,7 +462,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.0874
+          "prob": 0.0873
         },
         {
           "home": 0,
@@ -490,7 +490,7 @@
           "prob": 0.0473
         }
       ],
-      "confidence": 0.4906,
+      "confidence": 0.4907,
       "outcome": "win2"
     },
     {
@@ -504,15 +504,15 @@
       "tipp_away": 0,
       "p_home": 0.3672,
       "p_draw": 0.2938,
-      "p_away": 0.339,
-      "p_home_model": 0.3847,
+      "p_away": 0.3391,
+      "p_home_model": 0.3846,
       "p_draw_model": 0.2556,
-      "p_away_model": 0.3597,
+      "p_away_model": 0.3598,
       "p_home_odds": 0.3597,
       "p_draw_odds": 0.3101,
       "p_away_odds": 0.3302,
       "expected_goals_home": 1.246,
-      "expected_goals_away": 1.194,
+      "expected_goals_away": 1.195,
       "elo_home": 1775,
       "elo_away": 1682,
       "form_home": 0.72,
@@ -555,7 +555,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.0677
+          "prob": 0.0676
         },
         {
           "home": 0,
@@ -585,16 +585,16 @@
       "time_local": "19:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.5134,
+      "p_home": 0.5133,
       "p_draw": 0.2571,
       "p_away": 0.2295,
-      "p_home_model": 0.4735,
-      "p_draw_model": 0.2513,
-      "p_away_model": 0.2752,
+      "p_home_model": 0.4732,
+      "p_draw_model": 0.2514,
+      "p_away_model": 0.2754,
       "p_home_odds": 0.5305,
       "p_draw_odds": 0.2596,
       "p_away_odds": 0.2099,
-      "expected_goals_home": 1.408,
+      "expected_goals_home": 1.407,
       "expected_goals_away": 0.996,
       "elo_home": 1779,
       "elo_away": 1541,
@@ -613,7 +613,7 @@
         {
           "home": 1,
           "away": 1,
-          "prob": 0.1178
+          "prob": 0.1179
         },
         {
           "home": 0,
@@ -623,7 +623,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.0896
+          "prob": 0.0895
         },
         {
           "home": 2,
@@ -643,7 +643,7 @@
         {
           "home": 0,
           "away": 2,
-          "prob": 0.0448
+          "prob": 0.0449
         },
         {
           "home": 2,
@@ -656,7 +656,7 @@
           "prob": 0.042
         }
       ],
-      "confidence": 0.5134,
+      "confidence": 0.5133,
       "outcome": "win1"
     },
     {
@@ -671,13 +671,13 @@
       "p_home": 0.6804,
       "p_draw": 0.1916,
       "p_away": 0.128,
-      "p_home_model": 0.5916,
+      "p_home_model": 0.5914,
       "p_draw_model": 0.2079,
-      "p_away_model": 0.2006,
+      "p_away_model": 0.2007,
       "p_home_odds": 0.7185,
       "p_draw_odds": 0.1846,
       "p_away_odds": 0.0969,
-      "expected_goals_home": 1.88,
+      "expected_goals_home": 1.879,
       "expected_goals_away": 0.981,
       "elo_home": 1779,
       "elo_away": 1603,
@@ -711,17 +711,17 @@
         {
           "home": 0,
           "away": 1,
-          "prob": 0.0635
+          "prob": 0.0636
         },
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0634
+          "prob": 0.0633
         },
         {
           "home": 3,
           "away": 1,
-          "prob": 0.0622
+          "prob": 0.0621
         },
         {
           "home": 1,
@@ -736,7 +736,7 @@
         {
           "home": 2,
           "away": 2,
-          "prob": 0.0486
+          "prob": 0.0487
         }
       ],
       "confidence": 0.6804,
@@ -751,12 +751,12 @@
       "time_local": "19:00",
       "tipp_home": 0,
       "tipp_away": 1,
-      "p_home": 0.2482,
+      "p_home": 0.2481,
       "p_draw": 0.2655,
-      "p_away": 0.4863,
-      "p_home_model": 0.191,
+      "p_away": 0.4864,
+      "p_home_model": 0.1908,
       "p_draw_model": 0.2255,
-      "p_away_model": 0.5835,
+      "p_away_model": 0.5837,
       "p_home_odds": 0.2727,
       "p_draw_odds": 0.2826,
       "p_away_odds": 0.4447,
@@ -779,7 +779,7 @@
         {
           "home": 0,
           "away": 2,
-          "prob": 0.1152
+          "prob": 0.1153
         },
         {
           "home": 1,
@@ -814,7 +814,7 @@
         {
           "home": 2,
           "away": 1,
-          "prob": 0.0468
+          "prob": 0.0467
         },
         {
           "home": 2,
@@ -822,7 +822,7 @@
           "prob": 0.0391
         }
       ],
-      "confidence": 0.4863,
+      "confidence": 0.4864,
       "outcome": "win2"
     },
     {
@@ -837,9 +837,9 @@
       "p_home": 0.5712,
       "p_draw": 0.2346,
       "p_away": 0.1942,
-      "p_home_model": 0.4919,
+      "p_home_model": 0.4921,
       "p_draw_model": 0.2171,
-      "p_away_model": 0.291,
+      "p_away_model": 0.2909,
       "p_home_odds": 0.6051,
       "p_draw_odds": 0.2421,
       "p_away_odds": 0.1528,
@@ -892,12 +892,12 @@
         {
           "home": 3,
           "away": 1,
-          "prob": 0.056
+          "prob": 0.0561
         },
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0426
+          "prob": 0.0427
         },
         {
           "home": 0,
@@ -1001,16 +1001,16 @@
       "tipp_home": 0,
       "tipp_away": 2,
       "p_home": 0.0758,
-      "p_draw": 0.1325,
-      "p_away": 0.7917,
-      "p_home_model": 0.0696,
-      "p_draw_model": 0.1095,
-      "p_away_model": 0.8209,
+      "p_draw": 0.1324,
+      "p_away": 0.7918,
+      "p_home_model": 0.0695,
+      "p_draw_model": 0.1094,
+      "p_away_model": 0.821,
       "p_home_odds": 0.0785,
       "p_draw_odds": 0.1423,
       "p_away_odds": 0.7792,
-      "expected_goals_home": 0.77,
-      "expected_goals_away": 2.994,
+      "expected_goals_home": 0.769,
+      "expected_goals_away": 2.995,
       "elo_home": 1603,
       "elo_away": 1786,
       "form_home": 0.255,
@@ -1048,7 +1048,7 @@
         {
           "home": 0,
           "away": 1,
-          "prob": 0.0735
+          "prob": 0.0734
         },
         {
           "home": 1,
@@ -1068,10 +1068,10 @@
         {
           "home": 1,
           "away": 5,
-          "prob": 0.0359
+          "prob": 0.036
         }
       ],
-      "confidence": 0.7917,
+      "confidence": 0.7918,
       "outcome": "win2"
     },
     {
@@ -1086,9 +1086,9 @@
       "p_home": 0.5168,
       "p_draw": 0.2727,
       "p_away": 0.2104,
-      "p_home_model": 0.3858,
+      "p_home_model": 0.3857,
       "p_draw_model": 0.3118,
-      "p_away_model": 0.3024,
+      "p_away_model": 0.3025,
       "p_home_odds": 0.573,
       "p_draw_odds": 0.256,
       "p_away_odds": 0.171,
@@ -1169,13 +1169,13 @@
       "p_home": 0.9032,
       "p_draw": 0.0705,
       "p_away": 0.0262,
-      "p_home_model": 0.9558,
+      "p_home_model": 0.9559,
       "p_draw_model": 0.0332,
       "p_away_model": 0.0109,
       "p_home_odds": 0.8807,
       "p_draw_odds": 0.0865,
       "p_away_odds": 0.0328,
-      "expected_goals_home": 4.205,
+      "expected_goals_home": 4.206,
       "expected_goals_away": 0.386,
       "elo_home": 1885,
       "elo_away": 1652,
@@ -1204,12 +1204,12 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.0923
+          "prob": 0.0922
         },
         {
           "home": 6,
           "away": 0,
-          "prob": 0.0801
+          "prob": 0.0802
         },
         {
           "home": 4,
@@ -1224,12 +1224,12 @@
         {
           "home": 7,
           "away": 0,
-          "prob": 0.0481
+          "prob": 0.0482
         },
         {
           "home": 1,
           "away": 0,
-          "prob": 0.0451
+          "prob": 0.045
         },
         {
           "home": 5,
@@ -1249,10 +1249,10 @@
       "time_local": "22:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.6338,
-      "p_draw": 0.1975,
+      "p_home": 0.6337,
+      "p_draw": 0.1976,
       "p_away": 0.1687,
-      "p_home_model": 0.6347,
+      "p_home_model": 0.6345,
       "p_draw_model": 0.2077,
       "p_away_model": 0.1577,
       "p_home_odds": 0.6334,
@@ -1282,7 +1282,7 @@
         {
           "home": 1,
           "away": 1,
-          "prob": 0.0972
+          "prob": 0.0973
         },
         {
           "home": 2,
@@ -1307,7 +1307,7 @@
         {
           "home": 3,
           "away": 1,
-          "prob": 0.0581
+          "prob": 0.058
         },
         {
           "home": 1,
@@ -1320,7 +1320,7 @@
           "prob": 0.0362
         }
       ],
-      "confidence": 0.6338,
+      "confidence": 0.6337,
       "outcome": "win1"
     },
     {
@@ -1333,15 +1333,15 @@
       "tipp_home": 3,
       "tipp_away": 0,
       "p_home": 0.768,
-      "p_draw": 0.1514,
+      "p_draw": 0.1513,
       "p_away": 0.0807,
-      "p_home_model": 0.9139,
-      "p_draw_model": 0.0647,
+      "p_home_model": 0.914,
+      "p_draw_model": 0.0646,
       "p_away_model": 0.0214,
       "p_home_odds": 0.7054,
       "p_draw_odds": 0.1885,
       "p_away_odds": 0.1061,
-      "expected_goals_home": 3.253,
+      "expected_goals_home": 3.254,
       "expected_goals_away": 0.354,
       "elo_home": 1895,
       "elo_away": 1652,
@@ -1395,7 +1395,7 @@
         {
           "home": 6,
           "away": 0,
-          "prob": 0.0449
+          "prob": 0.045
         },
         {
           "home": 5,
@@ -1415,17 +1415,17 @@
       "time_local": "22:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.5008,
+      "p_home": 0.5007,
       "p_draw": 0.2817,
-      "p_away": 0.2175,
-      "p_home_model": 0.5502,
+      "p_away": 0.2176,
+      "p_home_model": 0.5501,
       "p_draw_model": 0.2569,
-      "p_away_model": 0.1929,
+      "p_away_model": 0.193,
       "p_home_odds": 0.4796,
       "p_draw_odds": 0.2923,
       "p_away_odds": 0.2281,
       "expected_goals_home": 1.412,
-      "expected_goals_away": 0.697,
+      "expected_goals_away": 0.698,
       "elo_home": 1895,
       "elo_away": 1712,
       "form_home": 0.765,
@@ -1438,7 +1438,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.1797
+          "prob": 0.1796
         },
         {
           "home": 2,
@@ -1486,7 +1486,7 @@
           "prob": 0.0295
         }
       ],
-      "confidence": 0.5008,
+      "confidence": 0.5007,
       "outcome": "win1"
     },
     {
@@ -1501,14 +1501,14 @@
       "p_home": 0.117,
       "p_draw": 0.1808,
       "p_away": 0.7022,
-      "p_home_model": 0.0562,
-      "p_draw_model": 0.0995,
-      "p_away_model": 0.8444,
+      "p_home_model": 0.0561,
+      "p_draw_model": 0.0993,
+      "p_away_model": 0.8446,
       "p_home_odds": 0.1431,
       "p_draw_odds": 0.2157,
       "p_away_odds": 0.6412,
-      "expected_goals_home": 0.672,
-      "expected_goals_away": 3.046,
+      "expected_goals_home": 0.671,
+      "expected_goals_away": 3.047,
       "elo_home": 1652,
       "elo_away": 1712,
       "form_home": 0.405,
@@ -1526,17 +1526,17 @@
         {
           "home": 0,
           "away": 2,
-          "prob": 0.1132
+          "prob": 0.1131
         },
         {
           "home": 0,
           "away": 4,
-          "prob": 0.0875
+          "prob": 0.0876
         },
         {
           "home": 0,
           "away": 1,
-          "prob": 0.0778
+          "prob": 0.0777
         },
         {
           "home": 1,
@@ -1556,7 +1556,7 @@
         {
           "home": 0,
           "away": 5,
-          "prob": 0.0533
+          "prob": 0.0534
         },
         {
           "home": 1,
@@ -1581,12 +1581,12 @@
       "time_local": "01:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.4354,
+      "p_home": 0.4353,
       "p_draw": 0.2819,
       "p_away": 0.2828,
-      "p_home_model": 0.3235,
+      "p_home_model": 0.3234,
       "p_draw_model": 0.2951,
-      "p_away_model": 0.3814,
+      "p_away_model": 0.3815,
       "p_home_odds": 0.4833,
       "p_draw_odds": 0.2762,
       "p_away_odds": 0.2405,
@@ -1614,7 +1614,7 @@
         {
           "home": 0,
           "away": 0,
-          "prob": 0.1349
+          "prob": 0.1348
         },
         {
           "home": 1,
@@ -1624,7 +1624,7 @@
         {
           "home": 0,
           "away": 2,
-          "prob": 0.0754
+          "prob": 0.0755
         },
         {
           "home": 1,
@@ -1652,7 +1652,7 @@
           "prob": 0.0257
         }
       ],
-      "confidence": 0.4354,
+      "confidence": 0.4353,
       "outcome": "win1"
     },
     {
@@ -1667,9 +1667,9 @@
       "p_home": 0.4761,
       "p_draw": 0.2475,
       "p_away": 0.2764,
-      "p_home_model": 0.3145,
+      "p_home_model": 0.3144,
       "p_draw_model": 0.2726,
-      "p_away_model": 0.4128,
+      "p_away_model": 0.413,
       "p_home_odds": 0.5454,
       "p_draw_odds": 0.2367,
       "p_away_odds": 0.2179,
@@ -1687,7 +1687,7 @@
         {
           "home": 0,
           "away": 1,
-          "prob": 0.1437
+          "prob": 0.1438
         },
         {
           "home": 1,
@@ -1707,7 +1707,7 @@
         {
           "home": 0,
           "away": 2,
-          "prob": 0.0797
+          "prob": 0.0798
         },
         {
           "home": 1,
@@ -1717,7 +1717,7 @@
         {
           "home": 2,
           "away": 1,
-          "prob": 0.0661
+          "prob": 0.066
         },
         {
           "home": 2,
@@ -1747,17 +1747,17 @@
       "time_local": "02:00",
       "tipp_home": 0,
       "tipp_away": 1,
-      "p_home": 0.3494,
-      "p_draw": 0.256,
-      "p_away": 0.3947,
-      "p_home_model": 0.2996,
+      "p_home": 0.3493,
+      "p_draw": 0.2559,
+      "p_away": 0.3948,
+      "p_home_model": 0.2994,
       "p_draw_model": 0.2297,
-      "p_away_model": 0.4707,
+      "p_away_model": 0.471,
       "p_home_odds": 0.3707,
       "p_draw_odds": 0.2672,
       "p_away_odds": 0.3621,
-      "expected_goals_home": 1.227,
-      "expected_goals_away": 1.608,
+      "expected_goals_home": 1.226,
+      "expected_goals_away": 1.609,
       "elo_home": 1782,
       "elo_away": 1792,
       "form_home": 0.32,
@@ -1785,7 +1785,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.0802
+          "prob": 0.0801
         },
         {
           "home": 0,
@@ -1795,7 +1795,7 @@
         {
           "home": 2,
           "away": 1,
-          "prob": 0.0711
+          "prob": 0.071
         },
         {
           "home": 2,
@@ -1810,15 +1810,15 @@
         {
           "home": 1,
           "away": 3,
-          "prob": 0.0499
+          "prob": 0.05
         },
         {
           "home": 2,
           "away": 0,
-          "prob": 0.0442
+          "prob": 0.0441
         }
       ],
-      "confidence": 0.3947,
+      "confidence": 0.3948,
       "outcome": "win2"
     },
     {
@@ -1858,7 +1858,7 @@
         {
           "home": 0,
           "away": 0,
-          "prob": 0.1581
+          "prob": 0.158
         },
         {
           "home": 1,
@@ -1913,12 +1913,12 @@
       "time_local": "03:00",
       "tipp_home": 0,
       "tipp_away": 1,
-      "p_home": 0.2893,
+      "p_home": 0.2892,
       "p_draw": 0.2893,
       "p_away": 0.4215,
-      "p_home_model": 0.3239,
-      "p_draw_model": 0.2623,
-      "p_away_model": 0.4138,
+      "p_home_model": 0.3238,
+      "p_draw_model": 0.2622,
+      "p_away_model": 0.414,
       "p_home_odds": 0.2744,
       "p_draw_odds": 0.3008,
       "p_away_odds": 0.4247,
@@ -1946,7 +1946,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.1142
+          "prob": 0.1141
         },
         {
           "home": 0,
@@ -1956,12 +1956,12 @@
         {
           "home": 1,
           "away": 2,
-          "prob": 0.0822
+          "prob": 0.0823
         },
         {
           "home": 0,
           "away": 2,
-          "prob": 0.0769
+          "prob": 0.077
         },
         {
           "home": 2,
@@ -1996,12 +1996,12 @@
       "time_local": "04:00",
       "tipp_home": 0,
       "tipp_away": 1,
-      "p_home": 0.2429,
+      "p_home": 0.2428,
       "p_draw": 0.2526,
       "p_away": 0.5045,
-      "p_home_model": 0.3492,
+      "p_home_model": 0.3491,
       "p_draw_model": 0.2459,
-      "p_away_model": 0.4049,
+      "p_away_model": 0.405,
       "p_home_odds": 0.1973,
       "p_draw_odds": 0.2555,
       "p_away_odds": 0.5472,
@@ -2054,7 +2054,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.0572
+          "prob": 0.0571
         },
         {
           "home": 2,
@@ -2088,7 +2088,7 @@
       "p_home_odds": 0.9185,
       "p_draw_odds": 0.0643,
       "p_away_odds": 0.0172,
-      "expected_goals_home": 5.554,
+      "expected_goals_home": 5.556,
       "expected_goals_away": 0.197,
       "elo_home": 1870,
       "elo_away": 1500,
@@ -2117,7 +2117,7 @@
         {
           "home": 7,
           "away": 0,
-          "prob": 0.1156
+          "prob": 0.1157
         },
         {
           "home": 3,
@@ -2248,9 +2248,9 @@
       "p_home": 0.5255,
       "p_draw": 0.2555,
       "p_away": 0.219,
-      "p_home_model": 0.4793,
+      "p_home_model": 0.4795,
       "p_draw_model": 0.2666,
-      "p_away_model": 0.2541,
+      "p_away_model": 0.2539,
       "p_home_odds": 0.5453,
       "p_draw_odds": 0.2507,
       "p_away_odds": 0.204,
@@ -2278,7 +2278,7 @@
         {
           "home": 0,
           "away": 1,
-          "prob": 0.1077
+          "prob": 0.1076
         },
         {
           "home": 0,
@@ -2288,7 +2288,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.098
+          "prob": 0.0981
         },
         {
           "home": 2,
@@ -2303,7 +2303,7 @@
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0426
+          "prob": 0.0427
         },
         {
           "home": 0,
@@ -2337,7 +2337,7 @@
       "p_home_odds": 0.0864,
       "p_draw_odds": 0.149,
       "p_away_odds": 0.7646,
-      "expected_goals_home": 0.237,
+      "expected_goals_home": 0.236,
       "expected_goals_away": 2.459,
       "elo_home": 1500,
       "elo_away": 1734,
@@ -2495,7 +2495,7 @@
       "tipp_home": 0,
       "tipp_away": 1,
       "p_home": 0.2457,
-      "p_draw": 0.3378,
+      "p_draw": 0.3379,
       "p_away": 0.4165,
       "p_home_model": 0.2116,
       "p_draw_model": 0.3222,
@@ -2547,7 +2547,7 @@
         {
           "home": 0,
           "away": 3,
-          "prob": 0.0364
+          "prob": 0.0363
         },
         {
           "home": 2,
@@ -2579,10 +2579,10 @@
       "tipp_away": 0,
       "p_home": 0.4758,
       "p_draw": 0.2598,
-      "p_away": 0.2644,
-      "p_home_model": 0.4642,
+      "p_away": 0.2643,
+      "p_home_model": 0.4643,
       "p_draw_model": 0.2449,
-      "p_away_model": 0.2909,
+      "p_away_model": 0.2908,
       "p_home_odds": 0.4808,
       "p_draw_odds": 0.2662,
       "p_away_odds": 0.253,
@@ -2662,15 +2662,15 @@
       "tipp_away": 1,
       "p_home": 0.59,
       "p_draw": 0.2207,
-      "p_away": 0.1893,
-      "p_home_model": 0.6172,
+      "p_away": 0.1894,
+      "p_home_model": 0.6171,
       "p_draw_model": 0.1897,
-      "p_away_model": 0.1931,
+      "p_away_model": 0.1932,
       "p_home_odds": 0.5784,
       "p_draw_odds": 0.2339,
       "p_away_odds": 0.1877,
-      "expected_goals_home": 2.132,
-      "expected_goals_away": 1.095,
+      "expected_goals_home": 2.133,
+      "expected_goals_away": 1.096,
       "elo_home": 1859,
       "elo_away": 1660,
       "form_home": 0.44,
@@ -2688,17 +2688,17 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.0911
+          "prob": 0.091
         },
         {
           "home": 2,
           "away": 0,
-          "prob": 0.0902
+          "prob": 0.0901
         },
         {
           "home": 1,
           "away": 1,
-          "prob": 0.0862
+          "prob": 0.0861
         },
         {
           "home": 3,
@@ -2728,7 +2728,7 @@
         {
           "home": 3,
           "away": 2,
-          "prob": 0.0384
+          "prob": 0.0385
         }
       ],
       "confidence": 0.59,
@@ -2744,15 +2744,15 @@
       "tipp_home": 1,
       "tipp_away": 0,
       "p_home": 0.6267,
-      "p_draw": 0.2209,
-      "p_away": 0.1525,
-      "p_home_model": 0.6144,
-      "p_draw_model": 0.2226,
-      "p_away_model": 0.1631,
+      "p_draw": 0.2208,
+      "p_away": 0.1524,
+      "p_home_model": 0.6145,
+      "p_draw_model": 0.2225,
+      "p_away_model": 0.163,
       "p_home_odds": 0.632,
       "p_draw_odds": 0.2201,
       "p_away_odds": 0.1479,
-      "expected_goals_home": 1.683,
+      "expected_goals_home": 1.684,
       "expected_goals_away": 0.714,
       "elo_home": 1859,
       "elo_away": 1664,
@@ -2796,7 +2796,7 @@
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0723
+          "prob": 0.0724
         },
         {
           "home": 3,
@@ -2826,17 +2826,17 @@
       "time_local": "23:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.4694,
+      "p_home": 0.4693,
       "p_draw": 0.2655,
-      "p_away": 0.2651,
-      "p_home_model": 0.4927,
+      "p_away": 0.2652,
+      "p_home_model": 0.4924,
       "p_draw_model": 0.2379,
-      "p_away_model": 0.2695,
+      "p_away_model": 0.2697,
       "p_home_odds": 0.4594,
       "p_draw_odds": 0.2773,
       "p_away_odds": 0.2633,
       "expected_goals_home": 1.541,
-      "expected_goals_away": 1.06,
+      "expected_goals_away": 1.061,
       "elo_home": 1869,
       "elo_away": 1660,
       "form_home": 1.0,
@@ -2849,7 +2849,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.1228
+          "prob": 0.1227
         },
         {
           "home": 1,
@@ -2864,7 +2864,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.0881
+          "prob": 0.088
         },
         {
           "home": 0,
@@ -2874,12 +2874,12 @@
         {
           "home": 0,
           "away": 0,
-          "prob": 0.0657
+          "prob": 0.0656
         },
         {
           "home": 1,
           "away": 2,
-          "prob": 0.0642
+          "prob": 0.0643
         },
         {
           "home": 2,
@@ -2894,10 +2894,10 @@
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0453
+          "prob": 0.0452
         }
       ],
-      "confidence": 0.4694,
+      "confidence": 0.4693,
       "outcome": "win1"
     },
     {
@@ -2992,16 +2992,16 @@
       "time_local": "02:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.4767,
+      "p_home": 0.4768,
       "p_draw": 0.2741,
-      "p_away": 0.2492,
-      "p_home_model": 0.4197,
-      "p_draw_model": 0.2672,
-      "p_away_model": 0.3131,
+      "p_away": 0.2491,
+      "p_home_model": 0.42,
+      "p_draw_model": 0.2671,
+      "p_away_model": 0.3129,
       "p_home_odds": 0.5011,
       "p_draw_odds": 0.2771,
       "p_away_odds": 0.2218,
-      "expected_goals_home": 1.229,
+      "expected_goals_home": 1.23,
       "expected_goals_away": 1.015,
       "elo_home": 1660,
       "elo_away": 1664,
@@ -3025,12 +3025,12 @@
         {
           "home": 0,
           "away": 1,
-          "prob": 0.1169
+          "prob": 0.1168
         },
         {
           "home": 0,
           "away": 0,
-          "prob": 0.0968
+          "prob": 0.0967
         },
         {
           "home": 2,
@@ -3055,7 +3055,7 @@
         {
           "home": 2,
           "away": 2,
-          "prob": 0.0412
+          "prob": 0.0413
         },
         {
           "home": 3,
@@ -3063,7 +3063,7 @@
           "prob": 0.0333
         }
       ],
-      "confidence": 0.4767,
+      "confidence": 0.4768,
       "outcome": "win1"
     },
     {
@@ -3077,15 +3077,15 @@
       "tipp_away": 0,
       "p_home": 0.5763,
       "p_draw": 0.2441,
-      "p_away": 0.1796,
-      "p_home_model": 0.5747,
+      "p_away": 0.1795,
+      "p_home_model": 0.5748,
       "p_draw_model": 0.243,
-      "p_away_model": 0.1823,
+      "p_away_model": 0.1822,
       "p_home_odds": 0.577,
       "p_draw_odds": 0.2446,
       "p_away_odds": 0.1784,
       "expected_goals_home": 1.517,
-      "expected_goals_away": 0.71,
+      "expected_goals_away": 0.709,
       "elo_home": 1801,
       "elo_away": 1728,
       "form_home": 0.915,
@@ -3113,7 +3113,7 @@
         {
           "home": 0,
           "away": 0,
-          "prob": 0.0998
+          "prob": 0.0997
         },
         {
           "home": 2,
@@ -3158,12 +3158,12 @@
       "time_local": "19:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.6569,
-      "p_draw": 0.2044,
+      "p_home": 0.657,
+      "p_draw": 0.2043,
       "p_away": 0.1387,
-      "p_home_model": 0.6105,
-      "p_draw_model": 0.2099,
-      "p_away_model": 0.1796,
+      "p_home_model": 0.6106,
+      "p_draw_model": 0.2098,
+      "p_away_model": 0.1795,
       "p_home_odds": 0.6768,
       "p_draw_odds": 0.202,
       "p_away_odds": 0.1212,
@@ -3229,7 +3229,7 @@
           "prob": 0.042
         }
       ],
-      "confidence": 0.6569,
+      "confidence": 0.657,
       "outcome": "win1"
     },
     {
@@ -3244,9 +3244,9 @@
       "p_home": 0.7599,
       "p_draw": 0.1536,
       "p_away": 0.0865,
-      "p_home_model": 0.8105,
-      "p_draw_model": 0.1301,
-      "p_away_model": 0.0595,
+      "p_home_model": 0.8106,
+      "p_draw_model": 0.13,
+      "p_away_model": 0.0594,
       "p_home_odds": 0.7382,
       "p_draw_odds": 0.1637,
       "p_away_odds": 0.0981,
@@ -3279,7 +3279,7 @@
         {
           "home": 4,
           "away": 0,
-          "prob": 0.0794
+          "prob": 0.0795
         },
         {
           "home": 2,
@@ -3299,12 +3299,12 @@
         {
           "home": 0,
           "away": 0,
-          "prob": 0.0501
+          "prob": 0.05
         },
         {
           "home": 5,
           "away": 0,
-          "prob": 0.0386
+          "prob": 0.0387
         },
         {
           "home": 4,
@@ -3347,7 +3347,7 @@
         {
           "home": 0,
           "away": 1,
-          "prob": 0.1556
+          "prob": 0.1557
         },
         {
           "home": 1,
@@ -3440,7 +3440,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.1315
+          "prob": 0.1316
         },
         {
           "home": 1,
@@ -3574,7 +3574,7 @@
       "tipp_home": 3,
       "tipp_away": 0,
       "p_home": 0.8964,
-      "p_draw": 0.0744,
+      "p_draw": 0.0743,
       "p_away": 0.0293,
       "p_home_model": 0.9213,
       "p_draw_model": 0.0586,
@@ -3582,7 +3582,7 @@
       "p_home_odds": 0.8857,
       "p_draw_odds": 0.0811,
       "p_away_odds": 0.0332,
-      "expected_goals_home": 3.418,
+      "expected_goals_home": 3.419,
       "expected_goals_away": 0.376,
       "elo_home": 1998,
       "elo_away": 1586,
@@ -3601,7 +3601,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.1326
+          "prob": 0.1325
         },
         {
           "home": 4,
@@ -3611,7 +3611,7 @@
         {
           "home": 5,
           "away": 0,
-          "prob": 0.0882
+          "prob": 0.0883
         },
         {
           "home": 1,
@@ -3659,13 +3659,13 @@
       "p_home": 0.8535,
       "p_draw": 0.1011,
       "p_away": 0.0454,
-      "p_home_model": 0.8343,
+      "p_home_model": 0.8344,
       "p_draw_model": 0.1188,
       "p_away_model": 0.0468,
       "p_home_odds": 0.8617,
       "p_draw_odds": 0.0935,
       "p_away_odds": 0.0448,
-      "expected_goals_home": 2.494,
+      "expected_goals_home": 2.495,
       "expected_goals_away": 0.406,
       "elo_home": 1998,
       "elo_away": 1657,
@@ -3742,9 +3742,9 @@
       "p_home": 0.5825,
       "p_draw": 0.2392,
       "p_away": 0.1783,
-      "p_home_model": 0.5833,
+      "p_home_model": 0.5834,
       "p_draw_model": 0.2386,
-      "p_away_model": 0.1781,
+      "p_away_model": 0.178,
       "p_home_odds": 0.5822,
       "p_draw_odds": 0.2394,
       "p_away_odds": 0.1784,
@@ -3772,7 +3772,7 @@
         {
           "home": 1,
           "away": 1,
-          "prob": 0.1068
+          "prob": 0.1067
         },
         {
           "home": 0,
@@ -3792,7 +3792,7 @@
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0648
+          "prob": 0.0649
         },
         {
           "home": 3,
@@ -3909,7 +3909,7 @@
       "p_draw": 0.2025,
       "p_away": 0.6838,
       "p_home_model": 0.0858,
-      "p_draw_model": 0.1842,
+      "p_draw_model": 0.1843,
       "p_away_model": 0.73,
       "p_home_odds": 0.1256,
       "p_draw_odds": 0.2103,
@@ -3988,12 +3988,12 @@
       "time_local": "22:00",
       "tipp_home": 0,
       "tipp_away": 1,
-      "p_home": 0.1343,
+      "p_home": 0.1344,
       "p_draw": 0.2329,
       "p_away": 0.6327,
       "p_home_model": 0.1387,
       "p_draw_model": 0.2607,
-      "p_away_model": 0.6007,
+      "p_away_model": 0.6006,
       "p_home_odds": 0.1325,
       "p_draw_odds": 0.221,
       "p_away_odds": 0.6465,
@@ -4071,17 +4071,17 @@
       "time_local": "19:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.6283,
+      "p_home": 0.6284,
       "p_draw": 0.2251,
-      "p_away": 0.1466,
-      "p_home_model": 0.575,
+      "p_away": 0.1465,
+      "p_home_model": 0.5751,
       "p_draw_model": 0.245,
       "p_away_model": 0.18,
       "p_home_odds": 0.6512,
       "p_draw_odds": 0.2166,
       "p_away_odds": 0.1322,
       "expected_goals_home": 1.502,
-      "expected_goals_away": 0.694,
+      "expected_goals_away": 0.693,
       "elo_home": 1928,
       "elo_away": 1797,
       "form_home": 0.6,
@@ -4099,7 +4099,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.1255
+          "prob": 0.1256
         },
         {
           "home": 1,
@@ -4124,7 +4124,7 @@
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0628
+          "prob": 0.0629
         },
         {
           "home": 3,
@@ -4142,7 +4142,7 @@
           "prob": 0.0302
         }
       ],
-      "confidence": 0.6283,
+      "confidence": 0.6284,
       "outcome": "win1"
     },
     {
@@ -4157,9 +4157,9 @@
       "p_home": 0.8243,
       "p_draw": 0.128,
       "p_away": 0.0477,
-      "p_home_model": 0.7921,
-      "p_draw_model": 0.1449,
-      "p_away_model": 0.063,
+      "p_home_model": 0.7922,
+      "p_draw_model": 0.1448,
+      "p_away_model": 0.0629,
       "p_home_odds": 0.8381,
       "p_draw_odds": 0.1208,
       "p_away_odds": 0.0411,
@@ -4197,7 +4197,7 @@
         {
           "home": 4,
           "away": 0,
-          "prob": 0.0721
+          "prob": 0.0722
         },
         {
           "home": 0,
@@ -4240,7 +4240,7 @@
       "p_home": 0.5194,
       "p_draw": 0.2509,
       "p_away": 0.2297,
-      "p_home_model": 0.5324,
+      "p_home_model": 0.5323,
       "p_draw_model": 0.2217,
       "p_away_model": 0.2459,
       "p_home_odds": 0.5139,
@@ -4403,12 +4403,12 @@
       "time_local": "00:00",
       "tipp_home": 0,
       "tipp_away": 1,
-      "p_home": 0.2873,
+      "p_home": 0.2872,
       "p_draw": 0.2618,
-      "p_away": 0.4509,
-      "p_home_model": 0.2864,
+      "p_away": 0.451,
+      "p_home_model": 0.2863,
       "p_draw_model": 0.2475,
-      "p_away_model": 0.4661,
+      "p_away_model": 0.4662,
       "p_home_odds": 0.2876,
       "p_draw_odds": 0.2679,
       "p_away_odds": 0.4444,
@@ -4436,7 +4436,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.0966
+          "prob": 0.0965
         },
         {
           "home": 1,
@@ -4474,7 +4474,7 @@
           "prob": 0.0429
         }
       ],
-      "confidence": 0.4509,
+      "confidence": 0.451,
       "outcome": "win2"
     },
     {
@@ -4488,15 +4488,15 @@
       "tipp_away": 2,
       "p_home": 0.0804,
       "p_draw": 0.1445,
-      "p_away": 0.7751,
-      "p_home_model": 0.1096,
-      "p_draw_model": 0.1708,
-      "p_away_model": 0.7196,
+      "p_away": 0.7752,
+      "p_home_model": 0.1095,
+      "p_draw_model": 0.1707,
+      "p_away_model": 0.7197,
       "p_home_odds": 0.0679,
       "p_draw_odds": 0.1332,
       "p_away_odds": 0.7989,
       "expected_goals_home": 0.671,
-      "expected_goals_away": 2.141,
+      "expected_goals_away": 2.142,
       "elo_home": 1687,
       "elo_away": 1802,
       "form_home": 0.62,
@@ -4514,7 +4514,7 @@
         {
           "home": 0,
           "away": 1,
-          "prob": 0.1347
+          "prob": 0.1346
         },
         {
           "home": 0,
@@ -4524,7 +4524,7 @@
         {
           "home": 1,
           "away": 2,
-          "prob": 0.0925
+          "prob": 0.0924
         },
         {
           "home": 1,
@@ -4549,7 +4549,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.0464
+          "prob": 0.0463
         },
         {
           "home": 1,
@@ -4557,7 +4557,7 @@
           "prob": 0.0353
         }
       ],
-      "confidence": 0.7751,
+      "confidence": 0.7752,
       "outcome": "win2"
     },
     {
@@ -4572,7 +4572,7 @@
       "p_home": 0.6966,
       "p_draw": 0.1984,
       "p_away": 0.105,
-      "p_home_model": 0.7282,
+      "p_home_model": 0.7281,
       "p_draw_model": 0.1697,
       "p_away_model": 0.1022,
       "p_home_odds": 0.6831,
@@ -4592,7 +4592,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.1444
+          "prob": 0.1445
         },
         {
           "home": 1,
@@ -4637,7 +4637,7 @@
         {
           "home": 4,
           "away": 1,
-          "prob": 0.034
+          "prob": 0.0339
         }
       ],
       "confidence": 0.6966,
@@ -4655,13 +4655,13 @@
       "p_home": 0.5948,
       "p_draw": 0.2401,
       "p_away": 0.1651,
-      "p_home_model": 0.634,
+      "p_home_model": 0.6339,
       "p_draw_model": 0.2149,
-      "p_away_model": 0.1511,
+      "p_away_model": 0.1512,
       "p_home_odds": 0.578,
       "p_draw_odds": 0.2509,
       "p_away_odds": 0.1711,
-      "expected_goals_home": 1.744,
+      "expected_goals_home": 1.743,
       "expected_goals_away": 0.692,
       "elo_home": 1979,
       "elo_away": 1761,
@@ -4685,7 +4685,7 @@
         {
           "home": 1,
           "away": 1,
-          "prob": 0.0982
+          "prob": 0.0983
         },
         {
           "home": 2,
@@ -4700,7 +4700,7 @@
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0774
+          "prob": 0.0773
         },
         {
           "home": 0,
@@ -4715,7 +4715,7 @@
         {
           "home": 1,
           "away": 2,
-          "prob": 0.0365
+          "prob": 0.0366
         },
         {
           "home": 4,
@@ -4763,7 +4763,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.1535
+          "prob": 0.1536
         },
         {
           "home": 3,
@@ -4820,15 +4820,15 @@
       "tipp_away": 1,
       "p_home": 0.2825,
       "p_draw": 0.2908,
-      "p_away": 0.4267,
-      "p_home_model": 0.2903,
+      "p_away": 0.4268,
+      "p_home_model": 0.2902,
       "p_draw_model": 0.2347,
-      "p_away_model": 0.4749,
+      "p_away_model": 0.4751,
       "p_home_odds": 0.2792,
       "p_draw_odds": 0.3148,
       "p_away_odds": 0.4061,
       "expected_goals_home": 1.154,
-      "expected_goals_away": 1.558,
+      "expected_goals_away": 1.559,
       "elo_home": 1782,
       "elo_away": 1761,
       "form_home": 0.765,
@@ -4856,7 +4856,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.085
+          "prob": 0.0849
         },
         {
           "home": 0,
@@ -4889,7 +4889,7 @@
           "prob": 0.0442
         }
       ],
-      "confidence": 0.4267,
+      "confidence": 0.4268,
       "outcome": "win2"
     },
     {
@@ -4987,13 +4987,13 @@
       "p_home": 0.6783,
       "p_draw": 0.1891,
       "p_away": 0.1326,
-      "p_home_model": 0.5679,
+      "p_home_model": 0.568,
       "p_draw_model": 0.2284,
-      "p_away_model": 0.2037,
+      "p_away_model": 0.2036,
       "p_home_odds": 0.7256,
       "p_draw_odds": 0.1723,
       "p_away_odds": 0.1021,
-      "expected_goals_home": 1.65,
+      "expected_goals_home": 1.651,
       "expected_goals_away": 0.863,
       "elo_home": 1761,
       "elo_away": 1705,
@@ -5037,7 +5037,7 @@
         {
           "home": 3,
           "away": 0,
-          "prob": 0.0606
+          "prob": 0.0607
         },
         {
           "home": 3,
@@ -5070,7 +5070,7 @@
       "p_home": 0.7386,
       "p_draw": 0.1701,
       "p_away": 0.0912,
-      "p_home_model": 0.7222,
+      "p_home_model": 0.7223,
       "p_draw_model": 0.174,
       "p_away_model": 0.1037,
       "p_home_odds": 0.7456,
@@ -5120,7 +5120,7 @@
         {
           "home": 0,
           "away": 0,
-          "prob": 0.0619
+          "prob": 0.0618
         },
         {
           "home": 4,
@@ -5150,16 +5150,16 @@
       "time_local": "17:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.7433,
+      "p_home": 0.7434,
       "p_draw": 0.1607,
       "p_away": 0.0959,
-      "p_home_model": 0.6984,
+      "p_home_model": 0.6985,
       "p_draw_model": 0.1879,
       "p_away_model": 0.1137,
       "p_home_odds": 0.7626,
       "p_draw_odds": 0.1491,
       "p_away_odds": 0.0883,
-      "expected_goals_home": 1.948,
+      "expected_goals_home": 1.949,
       "expected_goals_away": 0.611,
       "elo_home": 1887,
       "elo_away": 1756,
@@ -5193,7 +5193,7 @@
         {
           "home": 1,
           "away": 1,
-          "prob": 0.0857
+          "prob": 0.0856
         },
         {
           "home": 0,
@@ -5213,7 +5213,7 @@
         {
           "home": 4,
           "away": 0,
-          "prob": 0.0464
+          "prob": 0.0465
         },
         {
           "home": 4,
@@ -5221,7 +5221,7 @@
           "prob": 0.0284
         }
       ],
-      "confidence": 0.7433,
+      "confidence": 0.7434,
       "outcome": "win1"
     },
     {
@@ -5236,13 +5236,13 @@
       "p_home": 0.4405,
       "p_draw": 0.2736,
       "p_away": 0.2859,
-      "p_home_model": 0.4554,
+      "p_home_model": 0.4556,
       "p_draw_model": 0.2368,
-      "p_away_model": 0.3078,
+      "p_away_model": 0.3077,
       "p_home_odds": 0.4341,
       "p_draw_odds": 0.2894,
       "p_away_odds": 0.2766,
-      "expected_goals_home": 1.517,
+      "expected_goals_home": 1.518,
       "expected_goals_away": 1.195,
       "elo_home": 1887,
       "elo_away": 1878,
@@ -5261,7 +5261,7 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.1091
+          "prob": 0.1092
         },
         {
           "home": 2,
@@ -5484,7 +5484,7 @@
       "tipp_away": 1,
       "p_home": 0.1255,
       "p_draw": 0.2189,
-      "p_away": 0.6556,
+      "p_away": 0.6555,
       "p_home_model": 0.154,
       "p_draw_model": 0.2342,
       "p_away_model": 0.6118,
@@ -5510,7 +5510,7 @@
         {
           "home": 0,
           "away": 2,
-          "prob": 0.1371
+          "prob": 0.137
         },
         {
           "home": 0,
@@ -5553,7 +5553,7 @@
           "prob": 0.0284
         }
       ],
-      "confidence": 0.6556,
+      "confidence": 0.6555,
       "outcome": "win2"
     },
     {
@@ -5593,7 +5593,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.119
+          "prob": 0.1189
         },
         {
           "home": 1,
@@ -5603,7 +5603,7 @@
         {
           "home": 0,
           "away": 0,
-          "prob": 0.1041
+          "prob": 0.104
         },
         {
           "home": 0,
@@ -5628,7 +5628,7 @@
         {
           "home": 3,
           "away": 1,
-          "prob": 0.0421
+          "prob": 0.0422
         },
         {
           "home": 2,
@@ -5648,16 +5648,16 @@
       "time_local": "20:00",
       "tipp_home": 2,
       "tipp_away": 0,
-      "p_home": 0.75,
+      "p_home": 0.7501,
       "p_draw": 0.1611,
       "p_away": 0.0889,
-      "p_home_model": 0.8206,
+      "p_home_model": 0.8207,
       "p_draw_model": 0.1274,
-      "p_away_model": 0.052,
+      "p_away_model": 0.0519,
       "p_home_odds": 0.7198,
       "p_draw_odds": 0.1755,
       "p_away_odds": 0.1047,
-      "expected_goals_home": 2.409,
+      "expected_goals_home": 2.41,
       "expected_goals_away": 0.419,
       "elo_home": 1914,
       "elo_away": 1565,
@@ -5671,12 +5671,12 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.1718
+          "prob": 0.1717
         },
         {
           "home": 1,
           "away": 0,
-          "prob": 0.1468
+          "prob": 0.1467
         },
         {
           "home": 3,
@@ -5719,7 +5719,7 @@
           "prob": 0.0348
         }
       ],
-      "confidence": 0.75,
+      "confidence": 0.7501,
       "outcome": "win1"
     },
     {
@@ -5731,16 +5731,16 @@
       "time_local": "21:00",
       "tipp_home": 2,
       "tipp_away": 0,
-      "p_home": 0.7745,
+      "p_home": 0.7746,
       "p_draw": 0.1282,
       "p_away": 0.0973,
-      "p_home_model": 0.8901,
-      "p_draw_model": 0.0815,
-      "p_away_model": 0.0285,
+      "p_home_model": 0.8902,
+      "p_draw_model": 0.0814,
+      "p_away_model": 0.0284,
       "p_home_odds": 0.725,
       "p_draw_odds": 0.1482,
       "p_away_odds": 0.1268,
-      "expected_goals_home": 2.966,
+      "expected_goals_home": 2.968,
       "expected_goals_away": 0.369,
       "elo_home": 1914,
       "elo_away": 1726,
@@ -5754,12 +5754,12 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.1572
+          "prob": 0.1571
         },
         {
           "home": 3,
           "away": 0,
-          "prob": 0.1554
+          "prob": 0.1555
         },
         {
           "home": 4,
@@ -5769,12 +5769,12 @@
         {
           "home": 1,
           "away": 0,
-          "prob": 0.1087
+          "prob": 0.1086
         },
         {
           "home": 5,
           "away": 0,
-          "prob": 0.0684
+          "prob": 0.0685
         },
         {
           "home": 2,
@@ -5794,15 +5794,15 @@
         {
           "home": 1,
           "away": 1,
-          "prob": 0.0364
+          "prob": 0.0363
         },
         {
           "home": 6,
           "away": 0,
-          "prob": 0.0338
+          "prob": 0.0339
         }
       ],
-      "confidence": 0.7745,
+      "confidence": 0.7746,
       "outcome": "win1"
     },
     {
@@ -5816,8 +5816,8 @@
       "tipp_away": 0,
       "p_home": 0.6117,
       "p_draw": 0.2308,
-      "p_away": 0.1576,
-      "p_home_model": 0.6802,
+      "p_away": 0.1575,
+      "p_home_model": 0.6803,
       "p_draw_model": 0.1927,
       "p_away_model": 0.1271,
       "p_home_odds": 0.5823,
@@ -5842,7 +5842,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.1386
+          "prob": 0.1387
         },
         {
           "home": 2,
@@ -5877,7 +5877,7 @@
         {
           "home": 4,
           "away": 0,
-          "prob": 0.043
+          "prob": 0.0431
         },
         {
           "home": 1,
@@ -5897,16 +5897,16 @@
       "time_local": "23:00",
       "tipp_home": 2,
       "tipp_away": 0,
-      "p_home": 0.6698,
+      "p_home": 0.6699,
       "p_draw": 0.2114,
       "p_away": 0.1187,
-      "p_home_model": 0.7779,
-      "p_draw_model": 0.1432,
-      "p_away_model": 0.079,
+      "p_home_model": 0.7781,
+      "p_draw_model": 0.1431,
+      "p_away_model": 0.0789,
       "p_home_odds": 0.6235,
       "p_draw_odds": 0.2407,
       "p_away_odds": 0.1358,
-      "expected_goals_home": 2.376,
+      "expected_goals_home": 2.377,
       "expected_goals_away": 0.588,
       "elo_home": 1805,
       "elo_away": 1726,
@@ -5920,7 +5920,7 @@
         {
           "home": 2,
           "away": 0,
-          "prob": 0.1457
+          "prob": 0.1458
         },
         {
           "home": 1,
@@ -5930,7 +5930,7 @@
         {
           "home": 3,
           "away": 0,
-          "prob": 0.1154
+          "prob": 0.1155
         },
         {
           "home": 2,
@@ -5955,7 +5955,7 @@
         {
           "home": 0,
           "away": 0,
-          "prob": 0.0466
+          "prob": 0.0465
         },
         {
           "home": 4,
@@ -5968,7 +5968,7 @@
           "prob": 0.0354
         }
       ],
-      "confidence": 0.6698,
+      "confidence": 0.6699,
       "outcome": "win1"
     },
     {
@@ -5980,12 +5980,12 @@
       "time_local": "23:00",
       "tipp_home": 1,
       "tipp_away": 0,
-      "p_home": 0.4653,
+      "p_home": 0.4654,
       "p_draw": 0.266,
-      "p_away": 0.2687,
-      "p_home_model": 0.4662,
+      "p_away": 0.2686,
+      "p_home_model": 0.4664,
       "p_draw_model": 0.2564,
-      "p_away_model": 0.2773,
+      "p_away_model": 0.2772,
       "p_home_odds": 0.4649,
       "p_draw_odds": 0.2701,
       "p_away_odds": 0.2649,
@@ -6051,7 +6051,7 @@
           "prob": 0.0407
         }
       ],
-      "confidence": 0.4653,
+      "confidence": 0.4654,
       "outcome": "win1"
     }
   ],
