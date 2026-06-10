@@ -1,1 +1,19 @@
 .env
+
+# Modell – zu gross fuer GitHub, per scp auf Pi kopieren
+model.pkl
+model.pkl.gz
+
+# Daten – werden vom Scraper generiert
+results.csv
+odds.json
+predictions.json
+
+# Logs
+logs/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
